@@ -1,0 +1,23 @@
+T1	Age 2 13	42-year-old
+T2	Sex 14 19	woman
+T3	Sign_symptom 50 54	lump
+T5	Sign_symptom 67 71	pain
+T7	Sign_symptom 73 87	loss of height
+T8	Sign_symptom 96 104	kyphosis
+T9	Sign_symptom 109 121	hepatomegaly
+T12	Disease_disorder 165 181	ductal carcinoma
+T15	Disease_disorder 349 370	ductal adenocarcinoma
+T18	Disease_disorder 444 462	metastatic disease
+T25	Sign_symptom 651 659	response
+T33	Sign_symptom 811 819	seizures
+T36	Sign_symptom 866 876	metastasis
+T43	Sign_symptom 1120 1127	lesions
+T46	Sign_symptom 1138 1156	metastatic deposit
+T50	Sign_symptom 1282 1296	stable disease
+T52	Sign_symptom 1334 1355	General deterioration
+T53	Sign_symptom 1376 1395	disease progression
+T55	Disease_disorder 1443 1460	pleural effusions
+T57	Sign_symptom 1424 1431	nodules
+T59	Sign_symptom 1486 1490	mass
+T69	Sign_symptom 1633 1639	Tumour
+T74	Disease_disorder 1777 1787	metastasis

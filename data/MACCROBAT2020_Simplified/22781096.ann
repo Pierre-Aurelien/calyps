@@ -1,0 +1,34 @@
+T1	Age 5 16	16-year-old
+T2	Sex 17 20	boy
+T6	Sign_symptom 199 214	short in height
+T7	Sign_symptom 216 231	slightly myopic
+T8	Sign_symptom 233 243	astigmatic
+T9	Sign_symptom 256 279	subnormal visual acuity
+T11	Sign_symptom 374 404	growth hormone (GH) deficiency
+T15	Sign_symptom 467 499	beneficiary effect on his growth
+T16	Sign_symptom 518 560	height and weight was −3 SD below the mean
+T20	Sign_symptom 670 692	pigmentary retinopathy
+T21	Sign_symptom 697 710	optic atrophy
+T23	Sign_symptom 767 785	rod cone dystrophy
+T25	Sign_symptom 804 817	visual acuity
+T26	Sign_symptom 819 832	visual fields
+T27	Sign_symptom 834 846	color vision
+T28	Sign_symptom 852 865	dark adaption
+T30	Sign_symptom 867 876	Nystagmus
+T32	Sign_symptom 929 940	photophobia
+T33	Sign_symptom 945 964	bilateral cataracts
+T39	Sign_symptom 1153 1171	ataxia with tremor
+T41	Sign_symptom 1173 1182	dysmetria
+T42	Sign_symptom 1187 1203	gait instability
+T43	Sign_symptom 1235 1250	muscle weakness
+T46	Sign_symptom 1267 1282	tendon reflexes
+T48	Sign_symptom 1313 1333	exercise intolerance
+T50	Sign_symptom 1388 1420	sensorineural hearing impairment
+T55	Sign_symptom 1463 1480	epileptic seizure
+T58	Sign_symptom 1536 1560	Decreased renal function
+T63	Sign_symptom 1677 1688	proteinuria
+T70	Sign_symptom 1871 1890	reduced kidney size
+T80	Sign_symptom 2117 2128	hypertrophy
+T86	Sign_symptom 2249 2275	obstruction of the outflow
+T87	Sign_symptom 2205 2236	systolic and diastolic function
+T119	Sign_symptom 1042 1047	blind

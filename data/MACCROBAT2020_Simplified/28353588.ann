@@ -1,0 +1,31 @@
+T1	Age 2 13	75-year-old
+T2	Sex 14 17	man
+T5	Sign_symptom 69 78	dysphagia
+T6	Sign_symptom 123 129	nausea
+T8	Sign_symptom 134 142	vomiting
+T9	Sign_symptom 154 165	hematemesis
+T10	Sign_symptom 167 179	hematochezia
+T11	Sign_symptom 181 189	lethargy
+T12	Sign_symptom 195 202	dyspnea
+T15	Sign_symptom 307 322	lymphadenopathy
+T16	Sign_symptom 324 335	thyromegaly
+T17	Sign_symptom 337 344	ascites
+T18	Sign_symptom 349 353	mass
+T34	Sign_symptom 632 640	neoplasm
+T44	Sign_symptom 753 766	abnormalities
+T50	Sign_symptom 853 859	lesion
+T57	Sign_symptom 1008 1014	lesion
+T62	Sign_symptom 1086 1098	benign tumor
+T63	Disease_disorder 1135 1155	esophageal leiomyoma
+T82	Sign_symptom 1605 1609	lump
+T88	Sign_symptom 1720 1727	blocked
+T92	Sign_symptom 1818 1825	erosion
+T93	Disease_disorder 1827 1832	ulcer
+T94	Disease_disorder 1838 1848	hemorrhage
+T115	Sign_symptom 2602 2608	lesion
+T151	Disease_disorder 3489 3502	MALT lymphoma
+T158	Disease_disorder 4006 4024	Epstein–Barr virus
+T159	Disease_disorder 4264 4277	MALT lymphoma
+T167	Sign_symptom 4449 4459	recurrence
+T168	Sign_symptom 4463 4473	metastases
+T170	Sign_symptom 4515 4527	asymptomatic

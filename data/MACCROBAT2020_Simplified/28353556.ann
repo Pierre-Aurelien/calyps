@@ -1,0 +1,32 @@
+T1	Age 2 13	33-year-old
+T3	Sex 23 26	man
+T4	Sign_symptom 88 99	temperature
+T5	Sign_symptom 101 108	myalgia
+T6	Sign_symptom 110 115	cough
+T7	Sign_symptom 121 131	hemoptysis
+T8	Disease_disorder 63 72	sinusitis
+T16	Sign_symptom 248 259	infiltrates
+T27	Sign_symptom 382 393	proteinuria
+T29	Sign_symptom 421 430	hematuria
+T37	Disease_disorder 490 500	pneumoniae
+T41	Disease_disorder 608 627	respiratory failure
+T46	Disease_disorder 944 947	GPA
+T51	Sign_symptom 800 808	bleeding
+T56	Sign_symptom 853 859	anemia
+T64	Sign_symptom 709 723	consolidations
+T67	Sign_symptom 728 746	ground glass areas
+T106	Sign_symptom 1803 1816	arthromyalgia
+T107	Sign_symptom 1832 1836	pain
+T109	Sign_symptom 1842 1847	edema
+T110	Sign_symptom 1849 1854	cough
+T111	Sign_symptom 1860 1879	shortness of breath
+T115	Sign_symptom 1938 1944	anemia
+T117	Sign_symptom 1950 1959	hypoxemia
+T120	Disease_disorder 1977 1989	Epididymitis
+T122	Disease_disorder 2050 2063	renal failure
+T128	Sign_symptom 2195 2208	proliferation
+T132	Sign_symptom 2281 2289	necrosis
+T135	Sign_symptom 2237 2260	fibrocellular crescents
+T140	Sign_symptom 2381 2391	hemorrhage
+T150	Sign_symptom 2585 2596	involvement
+T156	Sign_symptom 2690 2695	alive

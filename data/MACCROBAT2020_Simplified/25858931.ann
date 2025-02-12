@@ -1,0 +1,27 @@
+T1	Age 15 24	early 70s
+T2	Sex 2 7	woman
+T8	Sign_symptom 118 122	pain
+T10	Sign_symptom 139 150	diaphoresis
+T11	Sign_symptom 155 163	dyspnoea
+T34	Sign_symptom 746 754	afebrile
+T45	Sign_symptom 947 951	pain
+T46	Sign_symptom 931 939	distress
+T55	Sign_symptom 1062 1068	murmur
+T58	Sign_symptom 1103 1107	rubs
+T59	Sign_symptom 1131 1141	distention
+T63	Sign_symptom 1194 1200	oedema
+T73	Sign_symptom 1290 1295	alert
+T74	Sign_symptom 1300 1308	oriented
+T75	Sign_symptom 1323 1344	neurological deficits
+T95	Disease_disorder 1755 1762	infarct
+T100	Sign_symptom 1885 1896	hypertrophy
+T104	Sign_symptom 1898 1906	akinesis
+T108	Sign_symptom 2002 2018	ischaemic damage
+T110	Disease_disorder 2078 2102	takotsubo cardiomyopathy
+T116	Disease_disorder 2274 2297	coronary artery disease
+T118	Sign_symptom 2311 2325	irregularities
+T123	Sign_symptom 2412 2420	akinesis
+T125	Sign_symptom 2440 2452	hyperkinesis
+T135	Sign_symptom 2673 2677	pain
+T136	Sign_symptom 2682 2701	shortness of breath
+T144	Disease_disorder 2854 2868	cardiomyopathy

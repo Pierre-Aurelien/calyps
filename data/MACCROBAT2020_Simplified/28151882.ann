@@ -1,0 +1,17 @@
+T1	Age 2 13	65-year-old
+T2	Sex 14 19	woman
+T3	Sign_symptom 45 49	pain
+T11	Sign_symptom 217 221	pain
+T13	Sign_symptom 225 233	numbness
+T15	Sign_symptom 286 306	voiding difficulties
+T20	Disease_disorder 486 494	kyphosis
+T23	Sign_symptom 639 643	pain
+T33	Disease_disorder 965 973	fracture
+T38	Sign_symptom 1017 1043	intravertebral vacuum sign
+T41	Sign_symptom 1159 1175	cord compression
+T42	Sign_symptom 1096 1123	intravertebral vacuum cleft
+T44	Disease_disorder 1145 1153	breakage
+T49	Sign_symptom 1243 1270	intravertebral vacuum cleft
+T51	Disease_disorder 1303 1318	Kümmell disease
+T95	Disease_disorder 2509 2519	blood loss
+T147	Sign_symptom 158 165	relieve

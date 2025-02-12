@@ -1,0 +1,23 @@
+T1	Age 15 25	4-year-old
+T2	Sex 26 29	boy
+T3	Disease_disorder 55 68	Blau syndrome
+T4	Disease_disorder 142 151	arthritis
+T7	Disease_disorder 152 165	tenosynovitis
+T8	Sign_symptom 186 190	rash
+T11	Disease_disorder 196 203	uveitis
+T12	Disease_disorder 242 252	granulomas
+T21	Disease_disorder 398 415	visual impairment
+T23	Disease_disorder 298 316	Ocular involvement
+T25	Disease_disorder 452 465	Blau syndrome
+T26	Disease_disorder 467 476	arthritis
+T27	Sign_symptom 481 485	rash
+T30	Disease_disorder 517 527	panuveitis
+T35	Disease_disorder 619 631	inflammation
+T52	Disease_disorder 979 986	uveitis
+T59	Disease_disorder 1174 1188	ocular disease
+T70	Disease_disorder 1404 1411	lesions
+T72	Disease_disorder 1382 1395	granulomatous
+T73	Disease_disorder 1433 1445	inflammation
+T82	Disease_disorder 1871 1883	ocular flare
+T100	Sign_symptom 1459 1464	edema
+T102	Disease_disorder 1489 1507	retinal detachment

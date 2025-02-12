@@ -1,0 +1,18 @@
+T1	Age 18 29	68-year-old
+T2	Sex 30 35	woman
+T5	Sign_symptom 213 219	nodule
+T15	Disease_disorder 366 371	LCNEC
+T17	Sign_symptom 465 474	dysphagia
+T29	Sign_symptom 722 732	recurrence
+T33	Sign_symptom 833 842	stricture
+T35	Sign_symptom 864 871	failure
+T40	Sign_symptom 968 975	failure
+T45	Sign_symptom 1123 1129	relief
+T54	Sign_symptom 1362 1371	dysphagia
+T55	Sign_symptom 1376 1387	weight loss
+T60	Disease_disorder 1485 1494	achalasia
+T65	Sign_symptom 1632 1644	contractions
+T71	Sign_symptom 1821 1825	mass
+T78	Disease_disorder 1926 1931	LCNEC
+T81	Sign_symptom 2019 2029	metastasis
+T83	Disease_disorder 2091 2109	metastatic disease

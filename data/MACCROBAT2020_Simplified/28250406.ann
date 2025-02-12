@@ -1,0 +1,27 @@
+T1	Age 2 13	68-year-old
+T2	Sex 14 17	man
+T8	Sign_symptom 145 155	discomfort
+T19	Sign_symptom 350 360	alleviated
+T21	Sign_symptom 504 515	weight loss
+T22	Sign_symptom 552 560	anorexia
+T25	Sign_symptom 586 592	nausea
+T26	Sign_symptom 594 602	vomiting
+T27	Sign_symptom 604 609	fever
+T28	Sign_symptom 614 628	shaking chills
+T43	Disease_disorder 925 934	dyspepsia
+T46	Sign_symptom 1014 1024	eradicated
+T54	Sign_symptom 1240 1250	distention
+T57	Sign_symptom 1296 1306	tenderness
+T68	Sign_symptom 1587 1591	mass
+T73	Sign_symptom 1613 1623	distention
+T52	Sign_symptom 1221 1225	soft
+T75	Sign_symptom 1657 1666	thickened
+T78	Sign_symptom 1720 1726	lesion
+T85	Sign_symptom 1831 1842	infiltrated
+T104	Disease_disorder 2245 2260	malignant tumor
+T105	Disease_disorder 2297 2300	IMT
+T110	Sign_symptom 2400 2407	ascites
+T112	Sign_symptom 2437 2441	mass
+T114	Sign_symptom 2479 2494	intussusception
+T120	Sign_symptom 2598 2605	enlarge
+T124	Sign_symptom 2696 2709	complications

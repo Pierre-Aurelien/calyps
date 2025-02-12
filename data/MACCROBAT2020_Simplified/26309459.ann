@@ -1,0 +1,24 @@
+T1	Age 2 13	58-year-old
+T2	Sex 14 17	man
+T3	Disease_disorder 67 79	hypertension
+T6	Disease_disorder 84 99	type 2 diabetes
+T10	Disease_disorder 128 145	cardiogenic shock
+T11	Disease_disorder 165 186	myocardial infarction
+T29	Sign_symptom 424 433	crackling
+T32	Sign_symptom 503 517	cardiac murmur
+T33	Sign_symptom 522 550	signs of right heart failure
+T41	Sign_symptom 628 649	extended ST-elevation
+T66	Disease_disorder 1033 1050	alveolar syndrome
+T70	Sign_symptom 1092 1117	wall motion abnormalities
+T71	Sign_symptom 1135 1143	akinesis
+T79	Sign_symptom 1210 1247	left ventricular systolic dysfunction
+T90	Disease_disorder 1336 1359	acute coronary syndrome
+T96	Sign_symptom 1624 1632	seizures
+T99	Sign_symptom 1695 1705	hemorrhage
+T106	Disease_disorder 1770 1789	dissecting aneurysm
+T114	Sign_symptom 2024 2032	seizures
+T119	Sign_symptom 2109 2119	rebleeding
+T121	Disease_disorder 2169 2177	aneurysm
+T123	Disease_disorder 2211 2223	brain damage
+T129	Disease_disorder 2320 2327	amnesia
+T130	Sign_symptom 1947 1955	improved

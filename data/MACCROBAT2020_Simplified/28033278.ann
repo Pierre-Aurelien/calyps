@@ -1,0 +1,35 @@
+T1	Age 4 15	36-year-old
+T2	Sex 16 20	male
+T3	Disease_disorder 84 87	SSc
+T10	Sign_symptom 177 184	malaise
+T11	Sign_symptom 186 199	poor appetite
+T12	Sign_symptom 217 236	shortness of breath
+T15	Sign_symptom 253 262	oligouria
+T19	Disease_disorder 312 325	renal failure
+T20	Sign_symptom 340 345	edema
+T67	Sign_symptom 1325 1356	decreased bilateral kidney size
+T68	Sign_symptom 1365 1379	hydronephrosis
+T69	Sign_symptom 1476 1481	edema
+T71	Sign_symptom 1486 1495	oligouria
+T73	Disease_disorder 1580 1593	renal failure
+T75	Disease_disorder 1627 1630	SRC
+T76	Disease_disorder 1664 1677	renal failure
+T77	Sign_symptom 1710 1716	anemia
+T80	Sign_symptom 1721 1733	hypertension
+T81	Sign_symptom 1799 1830	deterioration in renal function
+T82	Sign_symptom 1835 1841	anuria
+T88	Sign_symptom 2010 2015	cough
+T96	Disease_disorder 2257 2273	seizure disorder
+T102	Disease_disorder 2338 2345	infarct
+T106	Disease_disorder 2396 2406	hemorrhage
+T107	Disease_disorder 2416 2423	infarct
+T115	Sign_symptom 2429 2436	seizure
+T117	Sign_symptom 2673 2681	headache
+T118	Sign_symptom 2686 2694	vomiting
+T119	Sign_symptom 2700 2709	confusion
+T120	Sign_symptom 2757 2764	seizure
+T148	Sign_symptom 3199 3213	hyperintensity
+T152	Disease_disorder 3357 3361	PRES
+T162	Sign_symptom 3714 3719	edema
+T164	Disease_disorder 3752 3756	PRES
+T166	Sign_symptom 3807 3831	full neurologic recovery

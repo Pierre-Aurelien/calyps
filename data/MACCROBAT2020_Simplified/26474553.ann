@@ -1,0 +1,9 @@
+T1	Age 3 13	8-year-old
+T2	Sex 14 17	boy
+T7	Disease_disorder 158 160	CF
+T8	Disease_disorder 168 185	failure to thrive
+T12	Sign_symptom 454 474	respiratory symptoms
+T14	Sign_symptom 510 515	cough
+T28	Sign_symptom 844 849	cough
+T30	Sign_symptom 911 924	salt cravings
+T32	Sign_symptom 861 878	sputum production

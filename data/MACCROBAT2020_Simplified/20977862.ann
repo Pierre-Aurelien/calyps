@@ -1,0 +1,16 @@
+T1	Age 2 13	48-year-old
+T2	Sex 14 17	man
+T5	Sign_symptom 72 78	bruits
+T10	Disease_disorder 141 145	DVAF
+T12	Disease_disorder 237 252	Cognard II DVAF
+T20	Sign_symptom 473 488	fistulous point
+T36	Sign_symptom 1006 1013	fistula
+T39	Sign_symptom 1427 1441	residual shunt
+T41	Sign_symptom 1472 1478	bruits
+T47	Sign_symptom 1688 1716	difficulty moving his tongue
+T50	Sign_symptom 1783 1812	right hypoglossal nerve palsy
+T56	Sign_symptom 2005 2014	dysphagia
+T57	Sign_symptom 2036 2046	dysarthria
+T58	Sign_symptom 2148 2159	hemiatrophy
+T69	Sign_symptom 2404 2413	paralysis
+T71	Sign_symptom 2470 2481	dysfunction

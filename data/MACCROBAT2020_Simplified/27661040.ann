@@ -1,0 +1,33 @@
+T1	Age 25 36	16-year-old
+T2	Sex 37 41	girl
+T3	Sign_symptom 88 92	pain
+T6	Sign_symptom 94 110	loss of appetite
+T7	Sign_symptom 112 118	nausea
+T8	Sign_symptom 124 132	vomiting
+T14	Sign_symptom 432 436	pain
+T17	Disease_disorder 465 477	appendicitis
+T20	Sign_symptom 518 522	pain
+T23	Disease_disorder 597 612	saturnine colic
+T24	Disease_disorder 646 660	lead poisoning
+T31	Disease_disorder 852 867	saturnine colic
+T41	Sign_symptom 1203 1228	influenced general status
+T42	Sign_symptom 1230 1241	ailing face
+T43	Sign_symptom 1243 1251	jaundice
+T45	Sign_symptom 1272 1284	pigmentation
+T48	Sign_symptom 1299 1306	painful
+T54	Sign_symptom 1414 1420	anemia
+T76	Sign_symptom 1686 1715	conjugated hyperbilirubinemia
+T80	Sign_symptom 1755 1767	hyponatremia
+T83	Sign_symptom 1790 1804	hypopotassemia
+T99	Sign_symptom 2121 2134	disappearance
+T109	Disease_disorder 2479 2499	behavioral disorders
+T110	Disease_disorder 2505 2515	depressive
+T112	Disease_disorder 2642 2656	lead poisoning
+T116	Sign_symptom 2843 2848	vomit
+T117	Sign_symptom 2862 2885	able to consume liquids
+T124	Sign_symptom 3124 3145	arterial hypertension
+T133	Sign_symptom 3488 3492	pain
+T134	Sign_symptom 3494 3502	vomiting
+T135	Sign_symptom 3531 3535	pain
+T158	Sign_symptom 3940 3966	pathological modifications
+T161	Sign_symptom 4035 4045	complaints

@@ -1,0 +1,28 @@
+T1	Age 0 13	A 49-year-old
+T2	Sex 14 17	man
+T4	Sign_symptom 82 89	dyspnea
+T8	Disease_disorder 173 179	trauma
+T13	Sign_symptom 393 405	pneumothorax
+T15	Sign_symptom 430 438	hematoma
+T17	Sign_symptom 462 471	fractures
+T20	Sign_symptom 473 481	fracture
+T23	Sign_symptom 549 558	fractures
+T28	Sign_symptom 677 683	murmur
+T34	Sign_symptom 816 828	asymptomatic
+T38	Sign_symptom 911 916	rales
+T39	Sign_symptom 935 941	murmur
+T44	Sign_symptom 978 988	congestion
+T49	Sign_symptom 1093 1113	mitral regurgitation
+T53	Sign_symptom 1226 1233	dilated
+T56	Sign_symptom 1169 1188	structurally normal
+T61	Sign_symptom 1296 1328	signs and symptoms of congestion
+T64	Disease_disorder 1400 1416	coronary disease
+T70	Sign_symptom 1612 1634	mitral regurgitant jet
+T71	Sign_symptom 1648 1676	perivalvular regurgitant jet
+T75	Sign_symptom 1724 1747	fistulous communication
+T78	Disease_disorder 1824 1842	structural disease
+T83	Sign_symptom 1952 1956	tear
+T90	Sign_symptom 2188 2205	perivalvular leak
+T91	Sign_symptom 2117 2130	abnormalities
+T92	Sign_symptom 2134 2145	vegetations
+T101	Sign_symptom 2488 2500	asymptomatic

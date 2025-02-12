@@ -1,0 +1,36 @@
+T1	Age 2 13	47-year-old
+T2	Sex 14 19	woman
+T6	Sign_symptom 82 92	distention
+T9	Sign_symptom 131 135	mass
+T26	Sign_symptom 448 452	mass
+T31	Sign_symptom 531 538	ascites
+T32	Sign_symptom 542 558	pleural effusion
+T34	Sign_symptom 608 614	lesion
+T36	Sign_symptom 627 635	stenosis
+T42	Disease_disorder 760 774	adenocarcinoma
+T45	Sign_symptom 846 853	dyspnea
+T47	Sign_symptom 866 871	edema
+T51	Sign_symptom 967 983	pleural effusion
+T54	Sign_symptom 989 1000	atelectasis
+T55	Sign_symptom 1005 1012	ascites
+T61	Sign_symptom 1138 1145	invaded
+T63	Sign_symptom 1178 1182	mass
+T66	Disease_disorder 1212 1225	ovarian tumor
+T68	Sign_symptom 1241 1248	nodules
+T70	Sign_symptom 1263 1276	dissemination
+T73	Sign_symptom 1355 1368	ascitic fluid
+T77	Sign_symptom 1403 1408	fluid
+T78	Sign_symptom 1426 1433	ascites
+T79	Sign_symptom 1438 1454	pleural effusion
+T91	Disease_disorder 1699 1713	adenocarcinoma
+T92	Sign_symptom 1721 1727	tumors
+T96	Sign_symptom 1817 1832	malignant cells
+T99	Sign_symptom 1857 1868	tumor cells
+T108	Disease_disorder 2055 2075	primary colon cancer
+T109	Disease_disorder 2019 2033	ovarian tumors
+T110	Sign_symptom 2039 2049	metastases
+T113	Sign_symptom 2140 2156	pleural effusion
+T114	Sign_symptom 2161 2168	ascites
+T125	Sign_symptom 2420 2430	metastases
+T127	Sign_symptom 2492 2497	alive
+T128	Disease_disorder 2520 2527	disease

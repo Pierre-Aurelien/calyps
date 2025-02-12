@@ -1,0 +1,28 @@
+T1	Age 2 13	68-year-old
+T2	Sex 14 17	man
+T6	Disease_disorder 72 75	LTG
+T11	Disease_disorder 220 228	glaucoma
+T24	Sign_symptom 265 271	vision
+T28	Disease_disorder 483 492	amblyopic
+T31	Disease_disorder 617 629	hypertension
+T32	Disease_disorder 631 652	hypercholesterolaemia
+T35	Disease_disorder 683 698	type 2 diabetes
+T36	Disease_disorder 707 727	diabetic retinopathy
+T39	Disease_disorder 595 607	vasculopathy
+T41	Sign_symptom 569 581	risk factors
+T43	Sign_symptom 773 794	new systemic symptoms
+T44	Sign_symptom 829 837	lethargy
+T62	Age 1105 1114	mid-teens
+T80	Disease_disorder 1402 1411	amblyopic
+T92	Disease_disorder 1639 1648	amblyopic
+T102	Disease_disorder 1839 1845	lesion
+T105	Disease_disorder 1911 1927	optic neuropathy
+T111	Disease_disorder 2012 2016	mass
+T122	Disease_disorder 2280 2284	mass
+T128	Disease_disorder 2379 2390	haemorrhage
+T130	Disease_disorder 2428 2442	calcifications
+T133	Disease_disorder 2481 2498	craniopharyngioma
+T134	Disease_disorder 2515 2532	pituitary adenoma
+T139	Disease_disorder 2715 2727	prolactinoma
+T167	Sign_symptom 1325 1338	concentration
+T168	Sign_symptom 1343 1357	attention span

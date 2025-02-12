@@ -1,0 +1,14 @@
+T1	Age 5 16	73-year-old
+T2	Sex 17 23	female
+T5	Sign_symptom 126 134	weakness
+T11	Sign_symptom 235 243	stenosis
+T14	Sign_symptom 270 283	calcification
+T19	Sign_symptom 405 413	stenosis
+T28	Sign_symptom 685 704	shortness of breath
+T29	Sign_symptom 709 720	hypotension
+T44	Sign_symptom 975 995	vascular perforation
+T52	Sign_symptom 2974 2982	symptoms
+T65	Sign_symptom 1994 2003	occlusion
+T86	Sign_symptom 2363 2373	compromise
+T101	Sign_symptom 2751 2760	expansion
+T107	Sign_symptom 2840 2850	hemothorax

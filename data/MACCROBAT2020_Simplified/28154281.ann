@@ -1,0 +1,34 @@
+T1	Age 2 13	23-year-old
+T2	Sex 14 17	man
+T3	Disease_disorder 36 58	severe aplastic anemia
+T4	Disease_disorder 60 63	SAA
+T21	Disease_disorder 386 411	graft-versus-host disease
+T22	Disease_disorder 413 417	GVHD
+T23	Disease_disorder 478 502	infectious complications
+T28	Disease_disorder 598 608	infections
+T31	Disease_disorder 751 755	GVHD
+T36	Disease_disorder 3705 3714	infection
+T42	Sign_symptom 634 664	reconstruction of granulocytes
+T47	Sign_symptom 893 910	complete response
+T48	Sign_symptom 912 914	CR
+T50	Disease_disorder 931 943	chronic GVHD
+T51	Disease_disorder 945 950	cGVHD
+T59	Sign_symptom 1118 1123	cough
+T81	Sign_symptom 1488 1493	cough
+T86	Sign_symptom 1646 1654	toxicity
+T92	Sign_symptom 1786 1791	cough
+T94	Sign_symptom 1812 1822	hoarseness
+T96	Sign_symptom 1864 1870	ulcers
+T99	Sign_symptom 1959 1966	dyspnea
+T107	Sign_symptom 2101 2109	material
+T108	Sign_symptom 2140 2150	obstructed
+T119	Disease_disorder 2286 2297	Aspergillus
+T120	Disease_disorder 2376 2393	tracheobronchitis
+T121	Disease_disorder 2364 2375	Aspergillus
+T142	Disease_disorder 2772 2789	renal dysfunction
+T152	Sign_symptom 3000 3007	nodules
+T157	Sign_symptom 3113 3124	progression
+T158	Sign_symptom 3150 3157	dyspnea
+T162	Sign_symptom 3237 3257	obstructive material
+T166	Sign_symptom 3323 3331	symptoms
+T172	Disease_disorder 3488 3499	Aspergillus

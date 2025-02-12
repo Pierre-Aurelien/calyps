@@ -1,0 +1,27 @@
+T1	Age 2 13	70–year–old
+T2	Sex 14 20	female
+T4	Sign_symptom 64 76	palpitations
+T5	Sign_symptom 78 85	dyspnea
+T6	Sign_symptom 99 108	epistaxis
+T10	Disease_disorder 139 158	atrial fibrillation
+T11	Disease_disorder 171 184	heart failure
+T22	Sign_symptom 360 366	murmur
+T26	Sign_symptom 381 387	murmur
+T30	Sign_symptom 447 455	swelling
+T33	Sign_symptom 515 524	epistaxis
+T41	Disease_disorder 565 584	atrial fibrillation
+T42	Sign_symptom 595 603	ischemia
+T46	Sign_symptom 721 752	thickening of the mitral valves
+T47	Sign_symptom 769 789	mitral insufficiency
+T49	Sign_symptom 809 813	mass
+T62	Sign_symptom 1077 1100	tricuspid insufficiency
+T65	Sign_symptom 1137 1162	intact interatrial septum
+T66	Sign_symptom 1164 1172	akinesia
+T70	Sign_symptom 1250 1254	mass
+T75	Sign_symptom 1380 1384	mass
+T77	Disease_disorder 1424 1437	heart failure
+T78	Sign_symptom 1386 1395	Epistaxis
+T79	Sign_symptom 1456 1471	venous pressure
+T89	Sign_symptom 1666 1675	epistaxis
+T92	Sign_symptom 1763 1767	mass
+T93	Sign_symptom 1838 1846	thrombus

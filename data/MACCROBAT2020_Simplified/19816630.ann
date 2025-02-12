@@ -1,0 +1,23 @@
+T1	Age 2 13	60-year-old
+T2	Sex 14 17	man
+T4	Sign_symptom 69 82	sessile polyp
+T9	Disease_disorder 168 189	tubulovillous adenoma
+T11	Sign_symptom 201 221	high-grade dysplasia
+T20	Sign_symptom 462 475	sessile polyp
+T25	Disease_disorder 575 590	villous adenoma
+T26	Sign_symptom 596 615	low-grade dysplasia
+T33	Sign_symptom 914 918	mass
+T37	Disease_disorder 1011 1027	rectal carcinoma
+T38	Sign_symptom 1050 1065	lymphadenopathy
+T41	Sign_symptom 1106 1110	mass
+T51	Disease_disorder 1529 1544	villous adenoma
+T52	Sign_symptom 1550 1568	low-grade dyplasia
+T53	Sign_symptom 1614 1622	invasion
+T56	Sign_symptom 1788 1800	asymptomatic
+T57	Sign_symptom 1809 1830	recurrence of tumours
+T63	Sign_symptom 1709 1715	benign
+T66	Sign_symptom 1155 1166	involvement
+T61	Sign_symptom 648 657	dysplasia
+T69	Sign_symptom 676 686	recurrence
+T71	Disease_disorder 706 712	cancer
+T72	Sign_symptom 964 970	breach

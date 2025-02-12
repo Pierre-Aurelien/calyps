@@ -1,0 +1,23 @@
+T1	Age 2 12	5-year-old
+T3	Age 23 27	male
+T6	Sign_symptom 82 91	epistaxis
+T7	Sign_symptom 93 101	bleeding
+T8	Sign_symptom 160 164	rash
+T11	Sign_symptom 265 280	chickenpox rash
+T15	Sign_symptom 196 212	thrombocytopenia
+T21	Sign_symptom 396 420	haemo-dynamically stable
+T26	Sign_symptom 505 511	murmur
+T31	Disease_disorder 581 592	myocarditis
+T32	Disease_disorder 596 609	heart failure
+T33	Sign_symptom 640 649	petechiae
+T34	Sign_symptom 663 667	rash
+T38	Sign_symptom 698 714	thrombocytopenia
+T40	Disease_disorder 737 756	varicella infection
+T41	Sign_symptom 776 783	healthy
+T44	Disease_disorder 892 903	heart block
+T51	Disease_disorder 1028 1039	heart block
+T52	Disease_disorder 1053 1072	varicella infection
+T76	Sign_symptom 1515 1534	structurally normal
+T80	Disease_disorder 1596 1607	heart block
+T82	Disease_disorder 1675 1686	heart block
+T89	Sign_symptom 1796 1808	asymptomatic

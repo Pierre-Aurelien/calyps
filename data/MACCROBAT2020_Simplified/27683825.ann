@@ -1,0 +1,22 @@
+T1	Age 17 28	19-year-old
+T2	Sex 29 34	woman
+T11	Disease_disorder 276 293	psychomotor delay
+T14	Sign_symptom 388 393	falls
+T20	Disease_disorder 430 467	demyelinating sensorimotor neuropathy
+T23	Disease_disorder 509 523	leukodystrophy
+T28	Disease_disorder 600 620	walking difficulties
+T30	Sign_symptom 640 648	weakness
+T32	Sign_symptom 653 659	tremor
+T34	Sign_symptom 703 713	dysarthria
+T35	Sign_symptom 715 724	dysmetria
+T38	Sign_symptom 742 754	hyporeflexia
+T40	Disease_disorder 778 792	muscle wasting
+T43	Disease_disorder 868 888	cognitive impairment
+T54	Sign_symptom 975 987	hypo/atrophy
+T64	Disease_disorder 1204 1213	scoliosis
+T70	Disease_disorder 1316 1351	demyelinating peripheral neuropathy
+T77	Sign_symptom 1404 1424	signal abnormalities
+T78	Sign_symptom 1439 1450	cavitations
+T83	Sign_symptom 1573 1580	lesions
+T87	Sign_symptom 1546 1550	thin
+T89	Sign_symptom 1515 1521	spared

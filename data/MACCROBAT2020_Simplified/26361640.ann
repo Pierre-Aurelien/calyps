@@ -1,0 +1,15 @@
+T1	Age 2 13	68-year-old
+T2	Sex 14 20	female
+T5	Disease_disorder 69 81	hypertension
+T8	Sign_symptom 116 124	jaundice
+T9	Sign_symptom 129 137	pruritus
+T13	Sign_symptom 171 182	weight loss
+T15	Sign_symptom 195 203	diarrhea
+T27	Sign_symptom 355 363	jaundice
+T28	Disease_disorder 368 382	muscle wasting
+T63	Sign_symptom 1254 1258	mass
+T68	Sign_symptom 1336 1347	obstructing
+T73	Sign_symptom 1445 1455	strictures
+T75	Disease_disorder 1541 1559	cholangiocarcinoma
+T82	Disease_disorder 1716 1726	duodenitis
+T88	Disease_disorder 1892 1905	abnormalities

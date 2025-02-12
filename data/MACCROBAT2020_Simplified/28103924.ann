@@ -1,0 +1,18 @@
+T1	Age 18 28	7-year-old
+T3	Sex 37 40	boy
+T7	Sign_symptom 160 168	enlarged
+T12	Sign_symptom 246 252	anemia
+T13	Sign_symptom 254 270	thrombocytopenia
+T14	Sign_symptom 276 288	splenomegaly
+T17	Sign_symptom 336 346	foam cells
+T18	Disease_disorder 374 399	lysosomal storage disease
+T29	Disease_disorder 829 832	NGD
+T30	Sign_symptom 742 767	mutations in the GBA gene
+T48	Sign_symptom 1836 1844	diarrhea
+T53	Sign_symptom 2012 2024	splenomegaly
+T73	Sign_symptom 2728 2751	neurological impairment
+T75	Sign_symptom 2799 2815	epileptic crises
+T76	Sign_symptom 2837 2857	clinical performance
+T82	Sign_symptom 2948 2961	hyperreflexia
+T90	Sign_symptom 3104 3140	saccadic movement velocity reduction
+T95	Sign_symptom 3276 3296	cognitive impairment

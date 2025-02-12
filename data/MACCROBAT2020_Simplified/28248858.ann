@@ -1,0 +1,29 @@
+T1	Age 2 13	31-year-old
+T2	Sex 14 17	man
+T3	Disease_disorder 28 46	diabetes insipidus
+T9	Sign_symptom 141 148	fatigue
+T10	Sign_symptom 150 158	anorexia
+T11	Sign_symptom 160 168	jaundice
+T12	Sign_symptom 173 181	pruritus
+T13	Sign_symptom 211 215	mass
+T23	Sign_symptom 387 394	lesions
+T29	Sign_symptom 445 454	expansion
+T33	Sign_symptom 598 608	strictures
+T34	Sign_symptom 613 623	dilatation
+T35	Disease_disorder 693 695	SC
+T42	Sign_symptom 738 747	thickened
+T44	Sign_symptom 786 792	signal
+T48	Disease_disorder 884 887	LCH
+T54	Sign_symptom 918 922	mass
+T74	Disease_disorder 1269 1284	function injury
+T78	Disease_disorder 1417 1431	decompensation
+T80	Sign_symptom 1457 1464	varices
+T81	Sign_symptom 1466 1473	ascites
+T82	Sign_symptom 1479 1491	splenomegaly
+T97	Disease_disorder 1778 1780	SC
+T102	Disease_disorder 1840 1843	LCH
+T104	Disease_disorder 1763 1772	cirrhosis
+T106	Disease_disorder 1917 1933	immunosuppressed
+T109	Sign_symptom 2001 2005	well
+T112	Sign_symptom 2052 2062	recurrence
+T113	Disease_disorder 2066 2069	LCH

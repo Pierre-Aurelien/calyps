@@ -1,0 +1,47 @@
+T1	Age 2 13	65-year old
+T2	Sex 14 20	female
+T4	Sign_symptom 51 60	dysphagia
+T7	Sign_symptom 83 94	weight loss
+T10	Disease_disorder 141 153	osteoporosis
+T16	Sign_symptom 2593 2605	asymptomatic
+T17	Sign_symptom 1434 1438	mass
+T19	Sign_symptom 797 805	enlarged
+T21	Sign_symptom 813 824	diverticula
+T25	Sign_symptom 923 928	tumor
+T27	Sign_symptom 979 983	mass
+T33	Sign_symptom 424 431	pedicle
+T34	Sign_symptom 275 279	mass
+T40	Sign_symptom 344 349	ulcer
+T49	Sign_symptom 2641 2649	enlarged
+T54	Sign_symptom 2721 2732	ulcerations
+T55	Sign_symptom 2741 2752	diverticula
+T57	Sign_symptom 503 507	mass
+T59	Sign_symptom 591 596	image
+T64	Sign_symptom 665 679	calcifications
+T67	Sign_symptom 724 729	image
+T69	Sign_symptom 748 755	pedicle
+T70	Sign_symptom 1035 1044	ulcerated
+T73	Sign_symptom 1061 1079	inflammatory cells
+T74	Sign_symptom 1089 1099	malignancy
+T77	Sign_symptom 1151 1157	bezoar
+T78	Sign_symptom 1211 1222	diverticula
+T80	Sign_symptom 1242 1251	ulcerated
+T82	Sign_symptom 1275 1279	mass
+T96	Sign_symptom 1528 1541	calcification
+T99	Sign_symptom 1610 1616	aspect
+T103	Sign_symptom 1728 1732	mass
+T106	Sign_symptom 2772 2793	motility disturbances
+T111	Sign_symptom 1825 1847	hyaline fibrous tissue
+T114	Sign_symptom 1928 1937	basophils
+T116	Sign_symptom 1938 1958	deposits of minerals
+T120	Sign_symptom 2014 2034	capillary structures
+T124	Sign_symptom 2057 2072	collagen fibers
+T125	Sign_symptom 2121 2125	mass
+T127	Disease_disorder 2141 2160	fibrovascular polyp
+T128	Sign_symptom 2223 2230	pedicle
+T129	Sign_symptom 2330 2337	pedicle
+T130	Sign_symptom 2529 2538	basophils
+T131	Sign_symptom 2539 2559	deposits of minerals
+T139	Sign_symptom 2986 2990	mass
+T140	Disease_disorder 3008 3027	fibrovascular polyp
+T142	Sign_symptom 3048 3057	calcified

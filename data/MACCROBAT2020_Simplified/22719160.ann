@@ -1,0 +1,32 @@
+T2	Age 19 30	57-year-old
+T3	Sex 31 36	woman
+T5	Sign_symptom 69 88	shortness of breath
+T7	Sign_symptom 131 150	shortness of breath
+T11	Sign_symptom 213 220	dyspnea
+T13	Sign_symptom 238 257	additional symptoms
+T19	Disease_disorder 329 342	breast cancer
+T42	Sign_symptom 746 751	tumor
+T46	Sign_symptom 994 1000	active
+T49	Sign_symptom 1090 1101	tachycardia
+T50	Sign_symptom 1103 1112	tachypnea
+T51	Sign_symptom 1118 1130	hypertension
+T52	Sign_symptom 1162 1172	distention
+T54	Sign_symptom 1177 1179	S3
+T55	Sign_symptom 1181 1196	pulmonary rales
+T56	Sign_symptom 1219 1224	edema
+T64	Disease_disorder 1411 1425	cardiomyopathy
+T69	Sign_symptom 1509 1525	ischemic changes
+T74	Sign_symptom 1595 1606	tachycardia
+T76	Sign_symptom 1654 1673	left-axis deviation
+T77	Sign_symptom 1621 1652	premature ventricular complexes
+T79	Sign_symptom 1687 1698	enlargement
+T81	Sign_symptom 1716 1729	QRS complexes
+T83	Sign_symptom 1747 1757	ST changes
+T90	Sign_symptom 1897 1908	hypokinesis
+T91	Sign_symptom 1923 1930	dilated
+T102	Disease_disorder 2147 2158	dysfunction
+T107	Sign_symptom 2178 2183	edema
+T111	Sign_symptom 2251 2259	thinning
+T115	Sign_symptom 2325 2333	symptoms
+T134	Sign_symptom 2669 2681	asymptomatic
+T136	Sign_symptom 2267 2275	scarring

@@ -1,0 +1,21 @@
+T1	Age 2 13	47-year-old
+T2	Sex 14 20	female
+T4	Sign_symptom 63 67	pain
+T7	Sign_symptom 136 151	muscle weakness
+T17	Sign_symptom 375 381	uptake
+T26	Disease_disorder 533 545	osteoporosis
+T28	Sign_symptom 593 604	compression
+T41	Sign_symptom 911 927	hypophosphatemia
+T42	Sign_symptom 929 940	hypokalemia
+T43	Sign_symptom 942 954	hypouricemia
+T59	Sign_symptom 1202 1212	glycosuria
+T60	Sign_symptom 1217 1228	proteinuria
+T74	Disease_disorder 1644 1646	HO
+T82	Sign_symptom 1843 1848	tumor
+T87	Sign_symptom 1925 1931	uptake
+T92	Sign_symptom 2017 2023	lesion
+T107	Disease_disorder 2310 2312	SS
+T108	Disease_disorder 2366 2368	HO
+T109	Disease_disorder 2382 2384	SS
+T131	Sign_symptom 2728 2737	recovered
+T132	Sign_symptom 2765 2769	pain

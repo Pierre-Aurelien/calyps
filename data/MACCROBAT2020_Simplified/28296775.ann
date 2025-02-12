@@ -1,0 +1,37 @@
+T1	Age 2 13	78-year-old
+T2	Sex 33 37	male
+T7	Sign_symptom 106 114	jaundice
+T11	Sign_symptom 134 141	ascites
+T12	Disease_disorder 147 159	hepatic coma
+T13	Disease_disorder 212 237	urinary bladder carcinoma
+T16	Sign_symptom 415 423	jaundice
+T17	Sign_symptom 425 435	somnolence
+T18	Sign_symptom 451 472	loss of consciousness
+T25	Sign_symptom 477 488	weight loss
+T26	Disease_disorder 543 558	viral hepatitis
+T31	Sign_symptom 692 704	hepatomegaly
+T32	Sign_symptom 725 732	nodules
+T36	Sign_symptom 787 797	metastases
+T38	Disease_disorder 807 824	bladder carcinoma
+T41	Sign_symptom 864 880	bronchopneumonia
+T43	Sign_symptom 898 907	opacities
+T46	Disease_disorder 931 953	hepatic encephalopathy
+T53	Sign_symptom 1255 1262	nodules
+T59	Sign_symptom 1358 1364	nodule
+T63	Sign_symptom 1426 1442	bronchopneumonia
+T65	Sign_symptom 1478 1488	tumor mass
+T67	Sign_symptom 1504 1510	nodule
+T72	Sign_symptom 1600 1618	peripheral nodules
+T73	Sign_symptom 1648 1653	edema
+T75	Sign_symptom 1670 1677	lesions
+T77	Sign_symptom 1725 1738	modifications
+T81	Disease_disorder 1931 1945	adenocarcinoma
+T85	Sign_symptom 2402 2412	metastases
+T87	Disease_disorder 2564 2568	SCLC
+T88	Disease_disorder 2140 2144	SCLC
+T90	Sign_symptom 2159 2171	tumor emboli
+T94	Sign_symptom 2235 2240	tumor
+T101	Disease_disorder 2597 2605	invasion
+T104	Sign_symptom 2610 2620	metastases
+T108	Disease_disorder 2673 2687	encephalopathy
+T109	Disease_disorder 2711 2725	adenocarcinoma

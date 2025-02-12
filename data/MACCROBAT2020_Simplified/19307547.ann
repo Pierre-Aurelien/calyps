@@ -1,0 +1,36 @@
+T1	Age 2 9	newborn
+T2	Sex 10 13	boy
+T13	Sign_symptom 218 246	fetal intrauterine movements
+T15	Sign_symptom 251 265	polyhydramnios
+T23	Sign_symptom 394 406	low-set ears
+T24	Sign_symptom 411 429	bilateral clubfoot
+T32	Sign_symptom 518 527	hypotonia
+T35	Sign_symptom 532 559	generalized muscle weakness
+T38	Disease_disorder 689 709	respiratory acidosis
+T39	Sign_symptom 711 723	Hearing loss
+T47	Sign_symptom 894 914	abdominal distension
+T49	Sign_symptom 922 938	hypoactive bowel
+T51	Sign_symptom 960 979	intestinal dilation
+T53	Sign_symptom 988 1010	mechanical obstruction
+T57	Sign_symptom 1070 1084	hypomagnesemia
+T55	Sign_symptom 1045 1057	hypoglycemia
+T60	Sign_symptom 1104 1115	hypokalemia
+T69	Disease_disorder 1419 1441	mitochondrial disorder
+T79	Sign_symptom 1485 1500	mtDNA depletion
+T90	Sign_symptom 1783 1814	heterozygous missense mutations
+T92	Sign_symptom 1827 1854	c.679C>T predicting p.R227W
+T93	Sign_symptom 1859 1887	c.2542G>A predicting p.G848S
+T95	Sign_symptom 1930 1951	recessive inheritance
+T98	Disease_disorder 1983 2002	respiratory failure
+T101	Sign_symptom 2039 2057	remarkable changes
+T104	Sign_symptom 2171 2186	neuronal damage
+T106	Sign_symptom 2232 2243	cholestasis
+T109	Sign_symptom 2300 2309	steatosis
+T110	Sign_symptom 2311 2319	necrosis
+T112	Sign_symptom 2330 2338	fibrosis
+T114	Sign_symptom 2454 2462	dilation
+T115	Sign_symptom 2467 2475	thinning
+T117	Sign_symptom 2587 2602	mtDNA depletion
+T132	Sign_symptom 2980 2995	mtDNA depletion
+T27	Sign_symptom 2377 2388	undescended
+T136	Sign_symptom 2427 2433	normal

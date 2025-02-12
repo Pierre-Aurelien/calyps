@@ -1,0 +1,35 @@
+T1	Age 4 15	31-year-old
+T6	Sign_symptom 112 135	elevated blood pressure
+T14	Sign_symptom 371 391	contractions started
+T16	Sign_symptom 444 483	vertex-transverse presentation of twins
+T18	Sign_symptom 565 578	inconspicuous
+T20	Sign_symptom 625 640	epigastric pain
+T25	Sign_symptom 705 715	haemolysis
+T26	Sign_symptom 717 733	thrombocytopenia
+T34	Sign_symptom 916 932	placenta residue
+T38	Sign_symptom 1023 1040	poor urine output
+T39	Sign_symptom 1042 1052	drowsiness
+T40	Disease_disorder 1071 1074	DIC
+T43	Sign_symptom 1099 1105	sleepy
+T44	Sign_symptom 1110 1121	disoriented
+T48	Disease_disorder 1211 1236	postpartum HELLP syndrome
+T67	Sign_symptom 1459 1465	anuria
+T68	Disease_disorder 1493 1506	renal failure
+T79	Disease_disorder 1684 1698	cardiac arrest
+T83	Sign_symptom 1761 1780	normal heart action
+T91	Disease_disorder 1928 1941	renal failure
+T96	Sign_symptom 2022 2028	stable
+T100	Disease_disorder 2101 2123	cardiopulmonary arrest
+T109	Sign_symptom 2332 2338	oedema
+T112	Sign_symptom 2373 2383	dilatation
+T114	Sign_symptom 2414 2425	Hydrothorax
+T115	Sign_symptom 2436 2451	hydroperitoneum
+T116	Sign_symptom 2467 2483	hydropericardium
+T120	Sign_symptom 2573 2611	Petechial and suffusional haemorrhages
+T130	Sign_symptom 2783 2791	necrosis
+T136	Sign_symptom 2793 2861	bloodless glomeruli with swollen and vacuolated intracapillary cells
+T137	Sign_symptom 2884 2896	haemorrhages
+T144	Disease_disorder 2961 2974	organ failure
+T145	Disease_disorder 2982 2985	DIC
+T146	Disease_disorder 3006 3020	HELLP syndrome
+T148	Sign_symptom 2559 2571	unremarkable

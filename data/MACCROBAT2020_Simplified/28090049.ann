@@ -1,0 +1,31 @@
+T1	Age 2 13	46-year-old
+T2	Sex 14 19	woman
+T6	Disease_disorder 119 122	DKA
+T7	Sign_symptom 140 150	polydipsia
+T8	Sign_symptom 152 160	polyuria
+T9	Sign_symptom 166 173	fatigue
+T12	Sign_symptom 276 289	appetite loss
+T13	Sign_symptom 310 321	weight loss
+T15	Sign_symptom 323 330	fatigue
+T16	Sign_symptom 332 338	nausea
+T17	Sign_symptom 344 352	sweating
+T19	Disease_disorder 383 385	GD
+T26	Disease_disorder 622 633	influenza A
+T31	Sign_symptom 746 756	drowsiness
+T47	Sign_symptom 1010 1016	goiter
+T56	Sign_symptom 1116 1122	tender
+T59	Sign_symptom 1178 1183	edema
+T62	Sign_symptom 1221 1232	tachycardia
+T64	Disease_disorder 1238 1257	atrial fibrillation
+T69	Sign_symptom 1384 1402	metabolic acidosis
+T83	Disease_disorder 1841 1855	thyrotoxicosis
+T84	Sign_symptom 1857 1902	symptoms involving the central nervous system
+T85	Sign_symptom 1904 1915	tachycardia
+T86	Sign_symptom 1921 1946	gastrointestinal symptoms
+T87	Disease_disorder 1988 1991	DKA
+T88	Disease_disorder 1996 2009	thyroid storm
+T103	Disease_disorder 2231 2244	thyroid storm
+T104	Disease_disorder 2250 2252	GD
+T118	Sign_symptom 2574 2585	tachycardia
+T125	Sign_symptom 2813 2824	neutropenia
+T141	Disease_disorder 3262 3265	T1D

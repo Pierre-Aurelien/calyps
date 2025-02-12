@@ -1,0 +1,27 @@
+T1	Age 3 14	11-year-old
+T2	Sex 15 18	boy
+T5	Sign_symptom 47 56	headaches
+T6	Sign_symptom 61 69	vomiting
+T7	Disease_disorder 140 151	papilledema
+T8	Disease_disorder 186 207	neurological deficits
+T12	Sign_symptom 270 274	mass
+T15	Sign_symptom 287 299	displacement
+T18	Disease_disorder 345 358	hydrocephalus
+T21	Sign_symptom 366 377	compression
+T24	Sign_symptom 427 445	hypointense aspect
+T28	Sign_symptom 499 518	hyperintense aspect
+T34	Sign_symptom 620 631	enhancement
+T38	Sign_symptom 684 700	bone involvement
+T46	Disease_disorder 2274 2282	chordoma
+T47	Sign_symptom 1060 1066	tumour
+T50	Sign_symptom 1156 1167	attachments
+T56	Disease_disorder 1313 1324	nerve palsy
+T59	Sign_symptom 1343 1352	recovered
+T61	Sign_symptom 1433 1439	tumour
+T66	Sign_symptom 1663 1675	asymptomatic
+T67	Sign_symptom 1700 1717	tumour recurrence
+T71	Sign_symptom 1817 1834	tumour recurrence
+T73	Sign_symptom 1905 1911	tumour
+T81	Sign_symptom 2016 2036	nuclear polymorphism
+T83	Sign_symptom 2065 2081	mitotic activity
+T84	Sign_symptom 2096 2110	calcifications

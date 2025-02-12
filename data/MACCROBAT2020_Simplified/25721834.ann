@@ -1,0 +1,24 @@
+T1	Age 3 13	8-year-old
+T2	Sex 14 17	boy
+T4	Sign_symptom 49 56	fatigue
+T22	Sign_symptom 1603 1614	volume loss
+T23	Sign_symptom 1627 1637	prominence
+T35	Sign_symptom 290 302	hepatomegaly
+T39	Sign_symptom 414 421	anaemia
+T45	Sign_symptom 1374 1393	pathogenic variants
+T63	Sign_symptom 569 581	anisocytosis
+T67	Sign_symptom 633 644	Hypochromia
+T68	Sign_symptom 649 658	teardrops
+T70	Sign_symptom 689 700	Leucopoenia
+T80	Sign_symptom 871 884	hypercellular
+T82	Sign_symptom 897 918	erythroid hyperplasia
+T105	Disease_disorder 1933 1954	complex IV deficiency
+T129	Sign_symptom 2127 2135	deletion
+T134	Sign_symptom 2504 2517	hypoglycaemia
+T150	Sign_symptom 3367 3381	hyperglycaemia
+T168	Disease_disorder 3165 3181	Fanconi syndrome
+T170	Sign_symptom 3192 3202	glycosuria
+T171	Sign_symptom 3204 3216	hypokalaemia
+T172	Sign_symptom 3218 3235	hypophosphataemia
+T175	Sign_symptom 3305 3318	aminoaciduria
+T201	Sign_symptom 2245 2252	anaemia

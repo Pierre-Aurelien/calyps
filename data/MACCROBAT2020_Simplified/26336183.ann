@@ -1,0 +1,32 @@
+T1	Age 2 13	35-year-old
+T2	Sex 14 19	woman
+T5	Sign_symptom 68 78	drowsiness
+T6	Sign_symptom 80 87	fatigue
+T7	Sign_symptom 89 108	personality changes
+T8	Sign_symptom 122 130	weakness
+T16	Disease_disorder 209 234	schizo-affective disorder
+T17	Disease_disorder 252 270	diabetes insipidus
+T19	Disease_disorder 275 289	hypothyroidism
+T25	Sign_symptom 419 425	drowsy
+T26	Sign_symptom 427 445	difficult to rouse
+T42	Disease_disorder 909 924	hepatic disease
+T78	Disease_disorder 1708 1720	encephalitis
+T79	Disease_disorder 1722 1745	Guillain-Barré syndrome
+T80	Disease_disorder 1750 1786	acute disseminated encephalomyelitis
+T81	Disease_disorder 1788 1792	ADEM
+T82	Disease_disorder 1910 1950	valproate hyperammonaemic encephalopathy
+T83	Disease_disorder 1952 1955	VHE
+T97	Disease_disorder 2146 2171	schizo-affective disorder
+T109	Sign_symptom 1596 1603	slowing
+T110	Sign_symptom 1608 1643	irregularity of background activity
+T117	Sign_symptom 1419 1430	haemorrhage
+T118	Sign_symptom 1447 1451	mass
+T134	Sign_symptom 2673 2682	confusion
+T135	Sign_symptom 2686 2696	drowsiness
+T136	Sign_symptom 2729 2736	fatigue
+T137	Sign_symptom 2741 2761	walking difficulties
+T138	Sign_symptom 2783 2791	weakness
+T143	Disease_disorder 2857 2877	carnitine deficiency
+T160	Sign_symptom 3106 3114	symptoms
+T171	Disease_disorder 3346 3371	schizo-affective disorder
+T177	Sign_symptom 3405 3409	well

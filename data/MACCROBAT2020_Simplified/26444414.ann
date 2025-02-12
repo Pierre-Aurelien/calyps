@@ -1,0 +1,18 @@
+T1	Age 2 13	58-year-old
+T2	Sex 14 17	man
+T3	Sign_symptom 42 57	general fatigue
+T4	Sign_symptom 69 75	anemia
+T13	Sign_symptom 291 299	bleeding
+T16	Sign_symptom 361 366	tumor
+T21	Sign_symptom 464 470	lesion
+T35	Disease_disorder 785 791	cancer
+T36	Disease_disorder 762 780	malignant lymphoma
+T37	Disease_disorder 723 753	gastrointestinal stromal tumor
+T38	Disease_disorder 704 721	small bowel tumor
+T39	Disease_disorder 755 759	GIST
+T41	Sign_symptom 927 932	tumor
+T45	Disease_disorder 1097 1099	PG
+T46	Sign_symptom 1051 1069	granulation tissue
+T47	Sign_symptom 1012 1046	proliferation of blood capillaries
+T50	Sign_symptom 1167 1179	complication
+T51	Sign_symptom 1188 1194	anemia

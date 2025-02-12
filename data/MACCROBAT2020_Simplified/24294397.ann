@@ -1,0 +1,36 @@
+T1	Age 2 13	67-year-old
+T3	Sex 23 29	female
+T4	Sign_symptom 60 65	tumor
+T8	Disease_disorder 2275 2294	sebaceous carcinoma
+T9	Disease_disorder 2311 2326	Bowen’s disease
+T10	Disease_disorder 2196 2215	sebaceous carcinoma
+T11	Disease_disorder 2220 2235	Bowen’s disease
+T14	Sign_symptom 239 244	tumor
+T20	Disease_disorder 350 365	Bowen’s disease
+T22	Disease_disorder 367 398	squamous cell carcinoma in situ
+T24	Sign_symptom 442 447	tumor
+T27	Sign_symptom 521 534	proliferation
+T29	Sign_symptom 625 643	hyperparakeratosis
+T30	Sign_symptom 589 599	acanthotic
+T36	Sign_symptom 743 757	multinucleated
+T39	Sign_symptom 801 816	Mitotic figures
+T40	Sign_symptom 892 907	mitotic figures
+T41	Sign_symptom 952 969	neoplastic growth
+T43	Sign_symptom 1018 1024	lesion
+T44	Disease_disorder 1061 1076	Bowen’s disease
+T45	Disease_disorder 1078 1109	squamous cell carcinoma in situ
+T47	Disease_disorder 1128 1147	sebaceous carcinoma
+T49	Sign_symptom 1187 1193	lesion
+T64	Disease_disorder 1829 1848	sebaceous carcinoma
+T65	Disease_disorder 1871 1886	Bowen’s disease
+T69	Disease_disorder 1971 1990	sebaceous carcinoma
+T70	Disease_disorder 2003 2018	Bowen’s disease
+T71	Disease_disorder 2077 2092	Bowen’s disease
+T72	Sign_symptom 2039 2055	vacuolated cells
+T73	Sign_symptom 1480 1517	cells containing vacuolated cytoplasm
+T74	Disease_disorder 1552 1567	Bowen’s disease
+T75	Disease_disorder 1584 1603	sebaceous carcinoma
+T76	Disease_disorder 1378 1397	Sebaceous carcinoma
+T77	Sign_symptom 1402 1409	invaded
+T79	Sign_symptom 1268 1305	cells with vacuolated clear cytoplasm
+T80	Sign_symptom 1316 1354	nuclei containing conspicuous nucleoli

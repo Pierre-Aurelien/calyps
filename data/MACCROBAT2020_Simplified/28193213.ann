@@ -1,0 +1,26 @@
+T1	Age 2 13	62-year-old
+T2	Sex 14 20	female
+T7	Disease_disorder 159 169	infections
+T10	Sign_symptom 218 222	pain
+T17	Sign_symptom 517 526	diarrhoea
+T18	Sign_symptom 528 540	constipation
+T19	Sign_symptom 544 572	other abdominal disturbances
+T25	Disease_disorder 1326 1329	ECF
+T26	Disease_disorder 2882 2898	Richter’s hernia
+T29	Sign_symptom 715 722	fistula
+T32	Sign_symptom 764 771	redness
+T35	Sign_symptom 838 856	fistula secretions
+T37	Sign_symptom 924 928	soft
+T38	Sign_symptom 938 948	tenderness
+T42	Disease_disorder 977 993	Escherichia coli
+T43	Disease_disorder 998 1019	Enterococcus faecalis
+T53	Disease_disorder 3007 3020	complications
+T54	Sign_symptom 1196 1203	adhered
+T58	Sign_symptom 1265 1276	obstruction
+T65	Sign_symptom 1613 1622	entrapped
+T75	Sign_symptom 1996 2005	entrapped
+T80	Sign_symptom 2105 2111	defect
+T83	Sign_symptom 2209 2214	stuck
+T85	Disease_disorder 2309 2320	perforation
+T106	Disease_disorder 2925 2928	ECF
+T109	Disease_disorder 3025 3031	hernia

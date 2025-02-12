@@ -1,0 +1,42 @@
+T1	Age 2 13	45-year-old
+T2	Sex 14 19	woman
+T4	Sign_symptom 97 101	pain
+T9	Sign_symptom 107 111	pain
+T11	Sign_symptom 3887 3891	pain
+T18	Sign_symptom 320 335	lymphadenopathy
+T34	Sign_symptom 610 616	nodule
+T39	Sign_symptom 702 708	nodule
+T44	Sign_symptom 794 810	increased uptake
+T48	Sign_symptom 885 893	aberrant
+T51	Disease_disorder 940 959	hyperparathyroidism
+T53	Disease_disorder 975 994	hyperparathyroidism
+T54	Disease_disorder 1014 1026	bone disease
+T55	Disease_disorder 1028 1040	renal stones
+T56	Disease_disorder 1045 1070	neuromuscular dysfunction
+T58	Sign_symptom 1161 1173	asymptomatic
+T59	Disease_disorder 1184 1203	hyperparathyroidism
+T61	Disease_disorder 1245 1252	adenoma
+T63	Disease_disorder 1292 1303	hyperplasia
+T65	Disease_disorder 1373 1382	carcinoma
+T72	Sign_symptom 1464 1478	manifestations
+T75	Disease_disorder 1511 1517	cancer
+T76	Disease_disorder 1593 1603	metastases
+T77	Sign_symptom 1580 1588	invasion
+T88	Sign_symptom 3380 3386	tumour
+T93	Sign_symptom 2056 2060	pain
+T96	Age 2093 2118	younger than 50 years old
+T100	Disease_disorder 1946 1955	fractures
+T103	Sign_symptom 2313 2317	firm
+T105	Sign_symptom 2330 2338	adherent
+T110	Sign_symptom 2443 2451	invasion
+T116	Sign_symptom 2591 2604	necrotic foci
+T118	Disease_disorder 2697 2718	parathyroid carcinoma
+T119	Sign_symptom 2733 2741	invasion
+T121	Sign_symptom 2749 2764	tumour necrosis
+T123	Sign_symptom 2775 2783	fibrosis
+T125	Sign_symptom 2810 2818	invasion
+T134	Disease_disorder 3002 3023	parathyroid carcinoma
+T135	Disease_disorder 3102 3124	parathyroid carcinomas
+T136	Sign_symptom 3152 3166	hypercalcaemia
+T144	Sign_symptom 3641 3650	recovered
+T157	Sign_symptom 3987 3998	eucalcaemic

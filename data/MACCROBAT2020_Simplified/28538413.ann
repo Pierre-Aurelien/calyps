@@ -1,0 +1,30 @@
+T1	Age 2 13	63-year-old
+T2	Sex 14 18	male
+T6	Sign_symptom 141 150	dysphagia
+T7	Sign_symptom 155 162	fatigue
+T8	Disease_disorder 180 199	obstructive disease
+T18	Sign_symptom 489 496	lesions
+T33	Sign_symptom 926 930	mass
+T41	Disease_disorder 1058 1066	melanoma
+T55	Sign_symptom 1258 1266	enlarged
+T59	Sign_symptom 1333 1344	involvement
+T63	Sign_symptom 1438 1443	tumor
+T71	Disease_disorder 1715 1732	esophageal cancer
+T77	Sign_symptom 1900 1907	lesions
+T98	Sign_symptom 2571 2579	bleeding
+T100	Sign_symptom 2661 2678	pleomorphic cells
+T101	Sign_symptom 2692 2708	melanin granules
+T115	Disease_disorder 3001 3009	melanoma
+T118	Sign_symptom 3078 3083	tumor
+T120	Sign_symptom 3148 3206	mutation of V-raf murine sarcoma viral oncogene homolog B1
+T121	Disease_disorder 3270 3274	PMME
+T130	Sign_symptom 3712 3728	thrombocytopenia
+T131	Sign_symptom 3730 3740	leukopenia
+T132	Sign_symptom 3742 3748	nausea
+T133	Sign_symptom 3750 3758	vomiting
+T134	Sign_symptom 3764 3772	diarrhea
+T139	Sign_symptom 4289 4299	leukopenia
+T140	Sign_symptom 4301 4317	myelosuppression
+T143	Sign_symptom 4369 4378	recovered
+T161	Sign_symptom 4929 4939	recurrence
+T162	Sign_symptom 4950 4960	metastasis

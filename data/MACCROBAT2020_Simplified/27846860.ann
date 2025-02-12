@@ -1,0 +1,35 @@
+T1	Age 2 13	20-year-old
+T4	Sex 41 44	man
+T7	Sign_symptom 76 82	anuria
+T8	Disease_disorder 106 120	encephalopathy
+T10	Sign_symptom 569 584	acidotic breath
+T11	Sign_symptom 553 563	tachypneic
+T13	Sign_symptom 201 205	pain
+T16	Sign_symptom 210 218	vomiting
+T19	Disease_disorder 298 310	pancreatitis
+T21	Sign_symptom 316 332	initial symptoms
+T22	Sign_symptom 372 378	anuric
+T23	Sign_symptom 383 394	disoriented
+T27	Sign_symptom 509 517	agitated
+T28	Sign_symptom 519 527	restless
+T29	Sign_symptom 533 544	disoriented
+T31	Sign_symptom 597 602	edema
+T42	Sign_symptom 792 802	irritation
+T52	Disease_disorder 1002 1019	renal dysfunction
+T97	Disease_disorder 1810 1822	pancreatitis
+T101	Disease_disorder 1916 1919	AKI
+T102	Disease_disorder 1930 1942	pancreatitis
+T110	Disease_disorder 2098 2109	visual loss
+T112	Sign_symptom 2139 2158	perception of light
+T114	Sign_symptom 2193 2210	retinal whitening
+T115	Sign_symptom 2225 2244	cotton wool exudate
+T117	Sign_symptom 2257 2276	Purtscher’s flecken
+T118	Disease_disorder 2301 2324	Purtscher’s retinopathy
+T130	Disease_disorder 2540 2563	renal cortical necrosis
+T134	Sign_symptom 2803 2814	hypotension
+T135	Disease_disorder 2906 2918	pancreatitis
+T137	Disease_disorder 2936 2959	renal cortical necrosis
+T138	Disease_disorder 2971 2974	AKI
+T139	Disease_disorder 2979 3002	Purtscher’s retinopathy
+T140	Disease_disorder 3033 3042	blindness
+T145	Disease_disorder 3136 3148	pancreatitis

@@ -1,0 +1,19 @@
+T1	Age 2 12	7-year-old
+T2	Sex 13 16	boy
+T3	Disease_disorder 22 40	Goldenhar syndrome
+T23	Disease_disorder 607 617	hypoplasia
+T28	Disease_disorder 752 759	Atresia
+T58	Disease_disorder 2008 2015	atresia
+T61	Disease_disorder 2017 2027	hypoplasia
+T67	Disease_disorder 2124 2138	pneumatization
+T70	Disease_disorder 2388 2398	hypoplasia
+T103	Disease_disorder 3162 3173	hypoplastic
+T106	Disease_disorder 3239 3250	hypoplastic
+T108	Disease_disorder 3298 3305	atresic
+T119	Sign_symptom 678 694	dysmorphic rough
+T130	Disease_disorder 1768 1779	hypoplastic
+T136	Disease_disorder 1256 1274	form abnormalities
+T138	Disease_disorder 1246 1252;1261 1274	Number abnormalities
+T145	Sign_symptom 2560 2576	dysmorphic rough
+T146	Sign_symptom 3182 3198	dysmorphic rough
+T157	Disease_disorder 2060 2071	pneumatized

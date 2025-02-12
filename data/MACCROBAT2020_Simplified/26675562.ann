@@ -1,0 +1,23 @@
+T1	Age 18 29	50-year old
+T2	Sex 30 33	man
+T3	Sign_symptom 48 74	aortic valve insufficiency
+T5	Sign_symptom 89 105	aorta dilatation
+T16	Sign_symptom 329 355	aortic valve insufficiency
+T22	Sign_symptom 424 429	fever
+T24	Sign_symptom 469 489	aortic insufficiency
+T26	Sign_symptom 499 506	rupture
+T33	Sign_symptom 651 683	dilatation of the left ventricle
+T36	Sign_symptom 769 779	orthopnoea
+T37	Sign_symptom 784 795	hypotension
+T42	Sign_symptom 878 892	calcifications
+T44	Sign_symptom 911 928	pleural effusions
+T45	Sign_symptom 945 965	pericardial effusion
+T48	Disease_disorder 1070 1094	structural deterioration
+T50	Sign_symptom 1129 1142	calcification
+T57	Disease_disorder 1395 1407	endocarditis
+T58	Sign_symptom 1364 1378	calcifications
+T73	Sign_symptom 1654 1667	complications
+T76	Sign_symptom 1770 1788	paravalvular leaks
+T83	Sign_symptom 1928 1933	leaks
+T84	Sign_symptom 1938 1950	malfunctions
+T92	Sign_symptom 2080 2092	asymptomatic

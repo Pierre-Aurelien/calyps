@@ -1,0 +1,17 @@
+T1	Age 2 13	28-year-old
+T2	Sex 14 19	woman
+T5	Sign_symptom 100 104	pain
+T9	Sign_symptom 121 129	jaundice
+T10	Sign_symptom 142 153	weight loss
+T13	Sign_symptom 188 192	mass
+T16	Sign_symptom 274 289	colicky attacks
+T23	Sign_symptom 421 426	obese
+T26	Sign_symptom 456 463	icterus
+T40	Sign_symptom 755 761	lesion
+T47	Sign_symptom 912 921	stricture
+T50	Sign_symptom 971 980	occlusion
+T72	Disease_disorder 1585 1608	squamous cell carcinoma
+T73	Disease_disorder 1632 1641	dysplasia
+T79	Sign_symptom 1691 1700	recovered
+T80	Sign_symptom 1709 1722	complications
+T81	Sign_symptom 1731 1741	doing well

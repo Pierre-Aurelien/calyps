@@ -1,0 +1,25 @@
+T1	Age 2 13	71-year-old
+T3	Sex 31 36	woman
+T5	Sign_symptom 89 97	dyspnoea
+T8	Sign_symptom 114 124	orthopnoea
+T9	Sign_symptom 145 151	oedema
+T13	Sign_symptom 200 212	hypertension
+T14	Disease_disorder 228 243	G6PD deficiency
+T16	Sign_symptom 267 277	haemolysis
+T34	Sign_symptom 581 592	comfortable
+T37	Sign_symptom 634 643	distended
+T39	Sign_symptom 671 679	crackles
+T44	Sign_symptom 754 760	oedema
+T47	Sign_symptom 794 805	hypertrophy
+T49	Sign_symptom 824 841	T-wave inversions
+T53	Sign_symptom 870 882	cardiomegaly
+T54	Sign_symptom 902 908	oedema
+T64	Sign_symptom 1053 1060	dilated
+T69	Disease_disorder 1141 1161	systolic dysfunction
+T78	Sign_symptom 1293 1301	improved
+T80	Sign_symptom 1328 1336	dyspnoea
+T86	Sign_symptom 1500 1506	oedema
+T89	Sign_symptom 1588 1598	haemolysis
+T90	Sign_symptom 1603 1628	worsening kidney function
+T91	Sign_symptom 1650 1661	ototoxicity
+T92	Sign_symptom 1686 1698	asymptomatic

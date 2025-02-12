@@ -1,0 +1,31 @@
+T1	Age 2 13	75–year–old
+T2	Sex 14 20	female
+T4	Sign_symptom 112 119	dyspnea
+T5	Sign_symptom 121 130	orthopnea
+T6	Sign_symptom 160 172	palpitations
+T7	Sign_symptom 150 158	swelling
+T10	Sign_symptom 203 222	atrial fibrillation
+T13	Disease_disorder 278 293	cardiac failure
+T17	Sign_symptom 370 385	irregular pulse
+T20	Sign_symptom 431 448	bi–basal crackles
+T26	Sign_symptom 548 566	pansystolic murmur
+T29	Sign_symptom 623 630	dilated
+T31	Sign_symptom 658 662	pain
+T35	Sign_symptom 853 872	atrial fibrillation
+T37	Sign_symptom 884 909	right bundle branch block
+T38	Sign_symptom 926 934	ischemia
+T42	Sign_symptom 983 997	enlarged liver
+T44	Sign_symptom 1027 1034	dilated
+T49	Sign_symptom 1153 1160	dilated
+T58	Sign_symptom 1197 1204	dilated
+T61	Sign_symptom 1229 1236	dilated
+T64	Sign_symptom 1267 1274	dilated
+T67	Disease_disorder 1471 1491	mitral insufficiency
+T68	Disease_disorder 1399 1422	tricuspid insufficiency
+T69	Disease_disorder 1303 1323	Atrial septal defect
+T71	Sign_symptom 1371 1390	left–to–right shunt
+T76	Sign_symptom 1510 1522	hypertension
+T82	Sign_symptom 1566 1585	Atrial fibrillation
+T83	Sign_symptom 1634 1644	Flattening
+T85	Disease_disorder 1718 1739	chronic heart failure
+T88	Sign_symptom 1614 1632	paradoxical motion

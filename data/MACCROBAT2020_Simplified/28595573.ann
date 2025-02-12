@@ -1,0 +1,20 @@
+T1	Age 33 44	45-year old
+T2	Sex 45 50	woman
+T9	Sign_symptom 212 219	syncope
+T12	Sign_symptom 377 384	syncope
+T15	Sign_symptom 414 421	syncope
+T16	Disease_disorder 457 461	JLNS
+T17	Sign_symptom 501 522	prolonged QT interval
+T18	Sign_symptom 528 535	syncope
+T20	Sign_symptom 658 681	subarachnoid hemorrhage
+T27	Sign_symptom 556 574	arrhythmic episode
+T28	Disease_disorder 616 624	epilepsy
+T29	Sign_symptom 597 608	tachycardia
+T52	Sign_symptom 1458 1465	syncope
+T57	Sign_symptom 1592 1617	stable clinical condition
+T58	Disease_disorder 1656 1660	JLNS
+T104	Sign_symptom 3759 3786	homozygous nonsense variant
+T105	Sign_symptom 3882 3907	homozygous common variant
+T115	Disease_disorder 4389 4394	JLNS1
+T116	Sign_symptom 4326 4353	homozygous nonsense variant
+T117	Sign_symptom 4425 4473	pathogenic variants in other LQT causative genes

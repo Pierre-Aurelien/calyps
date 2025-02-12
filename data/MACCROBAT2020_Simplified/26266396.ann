@@ -1,0 +1,10 @@
+T1	Age 2 13	55-year-old
+T2	Sex 14 19	woman
+T5	Sign_symptom 87 92	tumor
+T12	Sign_symptom 228 233	tumor
+T26	Disease_disorder 710 720	malignancy
+T28	Disease_disorder 1210 1236	follicular thyroid adenoma
+T33	Sign_symptom 823 828	tumor
+T38	Sign_symptom 1078 1103	malignant characteristics
+T39	Sign_symptom 1157 1163	change
+T41	Sign_symptom 1039 1047	atypical

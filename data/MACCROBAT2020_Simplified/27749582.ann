@@ -1,0 +1,22 @@
+T1	Age 18 29	18-year-old
+T3	Sex 34 40	female
+T6	Disease_disorder 126 135	pneumonia
+T7	Disease_disorder 98 112	adrenal crisis
+T8	Disease_disorder 177 187	infections
+T26	Sign_symptom 394 403	hair loss
+T29	Sign_symptom 428 462	absence of pubic and axillary hair
+T32	Disease_disorder 539 557	nephrotic syndrome
+T34	Disease_disorder 585 611	minimal change nephropathy
+T39	Disease_disorder 672 688	alopecia totalis
+T40	Disease_disorder 695 706	candidiasis
+T42	Disease_disorder 708 720	hypohidrosis
+T43	Sign_symptom 726 739	trachyonychia
+T45	Sign_symptom 758 771	abnormalities
+T50	Sign_symptom 968 992	panhypogammaglobulinemia
+T91	Disease_disorder 1859 1863	CVID
+T92	Disease_disorder 1865 1889	isolated ACTH deficiency
+T93	Disease_disorder 1895 1915	ectodermal dysplasia
+T94	Sign_symptom 1929 1934	fever
+T95	Sign_symptom 1936 1941	cough
+T96	Sign_symptom 1947 1955	vomiting
+T104	Disease_disorder 2163 2172	infection

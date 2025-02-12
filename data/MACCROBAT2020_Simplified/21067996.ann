@@ -1,0 +1,10 @@
+T1	Age 2 13	41-year-old
+T2	Sex 14 17	man
+T3	Sign_symptom 23 34	weight loss
+T4	Sign_symptom 36 42	nausea
+T5	Sign_symptom 44 52	vomiting
+T6	Sign_symptom 68 72	pain
+T11	Disease_disorder 123 147	intraabdominal pathology
+T33	Sign_symptom 660 664	mass
+T42	Sign_symptom 969 973	mass
+T44	Disease_disorder 1042 1066	adrenocortical carcinoma

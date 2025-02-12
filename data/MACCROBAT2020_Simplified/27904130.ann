@@ -1,0 +1,27 @@
+T1	Sex 2 8	female
+T5	Disease_disorder 77 92	liver cirrhosis
+T6	Disease_disorder 108 125	hepatitis B virus
+T7	Disease_disorder 130 149	biliary duct stones
+T9	Age 154 169	65 years of age
+T10	Disease_disorder 189 192	HCC
+T18	Disease_disorder 330 333	HCC
+T21	Disease_disorder 432 454	pseudolobule formation
+T22	Disease_disorder 419 427	fibrosis
+T30	Sign_symptom 613 623	metastasis
+T38	Sign_symptom 789 795	lesion
+T49	Sign_symptom 1028 1039	enhancement
+T52	Sign_symptom 1099 1106	density
+T55	Disease_disorder 1206 1209	HCC
+T64	Sign_symptom 1991 2001	metastasis
+T67	Sign_symptom 2068 2078	metastasis
+T70	Disease_disorder 2100 2103	HCC
+T72	Sign_symptom 2286 2291	tumor
+T74	Sign_symptom 2334 2344	metastases
+T77	Sign_symptom 2455 2476	disseminative nodules
+T78	Disease_disorder 2478 2493	lymphadenopathy
+T79	Sign_symptom 2498 2505	ascites
+T98	Sign_symptom 2991 2997	nodule
+T101	Disease_disorder 3084 3087	HCC
+T110	Disease_disorder 3256 3259	HCC
+T112	Disease_disorder 3320 3323	HCC
+T115	Sign_symptom 3410 3420	recurrence

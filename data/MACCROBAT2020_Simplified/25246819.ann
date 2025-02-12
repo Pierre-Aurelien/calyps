@@ -1,0 +1,44 @@
+T1	Age 2 13	19-year-old
+T2	Sex 14 19	woman
+T3	Sign_symptom 37 41	lump
+T5	Disease_disorder 71 83	macrocephaly
+T6	Sign_symptom 99 106	papules
+T14	Disease_disorder 231 237	masses
+T20	Disease_disorder 310 316	masses
+T22	Disease_disorder 350 363	fibroadenomas
+T37	Disease_disorder 608 615	lesions
+T39	Disease_disorder 662 674	fibroadenoma
+T40	Disease_disorder 676 691	tubular adenoma
+T42	Disease_disorder 695 722	atypical ductal hyperplasia
+T43	Disease_disorder 724 727	ADH
+T45	Age 760 775	age of 19 years
+T48	Disease_disorder 824 828	mass
+T51	Sign_symptom 869 876	nodules
+T58	Sign_symptom 958 965	nodules
+T61	Disease_disorder 1076 1096	follicular carcinoma
+T64	Disease_disorder 1121 1139	follicular adenoma
+T68	Sign_symptom 1229 1237	swelling
+T73	Disease_disorder 1299 1303	mass
+T82	Disease_disorder 1671 1686	Cowden syndrome
+T90	Disease_disorder 1850 1854	mass
+T98	Disease_disorder 1982 2006	ductal carcinoma in situ
+T99	Disease_disorder 2008 2012	DCIS
+T102	Disease_disorder 2059 2071	fibroadenoma
+T108	Disease_disorder 2200 2206	masses
+T112	Disease_disorder 2237 2243	masses
+T118	Disease_disorder 2329 2335	masses
+T121	Disease_disorder 2476 2486	malignancy
+T126	Disease_disorder 2621 2627	masses
+T134	Disease_disorder 2695 2708	breast cancer
+T135	Disease_disorder 2712 2727	Cowden syndrome
+T136	Disease_disorder 2766 2769	ADH
+T137	Disease_disorder 2780 2795	tubular adenoma
+T138	Disease_disorder 2968 2981	breast cancer
+T140	Disease_disorder 2985 3000	Cowden syndrome
+T143	Disease_disorder 2813 2822	carcinoma
+T145	Disease_disorder 2855 2871	tubular adenomas
+T147	Disease_disorder 2873 2886	fibroadenomas
+T148	Disease_disorder 2891 2913	intraductal papillomas
+T80	Disease_disorder 1425 1428	AVM
+T155	Disease_disorder 1566 1569	AVM
+T44	Disease_disorder 739 751	fibroadenoma

@@ -1,0 +1,36 @@
+T1	Age 2 13	62-year-old
+T2	Sex 14 18	male
+T5	Sign_symptom 54 61	dyspnea
+T7	Sign_symptom 112 117	edema
+T19	Sign_symptom 2929 2940	deteriorate
+T21	Sign_symptom 2887 2902	fluid retention
+T22	Sign_symptom 2841 2849	diarrhea
+T23	Disease_disorder 2653 2667	AL amyloidosis
+T24	Sign_symptom 178 186	bloating
+T25	Sign_symptom 191 200	tasteless
+T28	Sign_symptom 233 244	weight loss
+T31	Disease_disorder 316 340	multiple system disorder
+T32	Sign_symptom 366 378	paresthesias
+T35	Disease_disorder 399 419	erectile dysfunction
+T36	Sign_symptom 433 441	diarrhea
+T37	Disease_disorder 425 441	chronic diarrhea
+T41	Sign_symptom 553 557	pain
+T48	Sign_symptom 832 842	distention
+T51	Sign_symptom 853 865	hepatomegaly
+T53	Sign_symptom 887 892	edema
+T61	Sign_symptom 2609 2619	infiltrate
+T76	Disease_disorder 1602 1626	sensory-motor neuropathy
+T79	Sign_symptom 1684 1695	denervation
+T80	Sign_symptom 1708 1729	reinnervation changes
+T86	Disease_disorder 2430 2441	amyloidosis
+T95	Sign_symptom 1905 1927	atrioventricular block
+T101	Sign_symptom 2023 2032	thickened
+T102	Sign_symptom 2037 2056	speckled appearance
+T105	Sign_symptom 2088 2098	dilatation
+T109	Sign_symptom 2184 2218	restrictive mitral filling pattern
+T116	Sign_symptom 2349 2359	thickening
+T118	Sign_symptom 2374 2395	diastolic dysfunction
+T125	Sign_symptom 941 949	weakness
+T126	Sign_symptom 963 970	atrophy
+T130	Sign_symptom 1025 1037	Hyporeflexia
+T136	Sign_symptom 561 569	tenesmus

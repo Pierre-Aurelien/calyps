@@ -1,0 +1,51 @@
+T2	Age 16 27	62-year-old
+T3	Sex 28 33	woman
+T6	Sign_symptom 94 112	visual disturbance
+T9	Disease_disorder 163 171	cataract
+T11	Sign_symptom 198 204	relief
+T13	Sign_symptom 236 244	symptoms
+T14	Sign_symptom 287 295	headache
+T15	Sign_symptom 306 310	pain
+T17	Sign_symptom 312 319	tearing
+T18	Sign_symptom 334 344	secretions
+T23	Sign_symptom 438 444	lesion
+T27	Disease_disorder 507 515	melanoma
+T33	Disease_disorder 602 610	melanoma
+T42	Sign_symptom 796 807	hemianopsia
+T49	Sign_symptom 897 905	Enlarged
+T65	Disease_disorder 1215 1226	maculopathy
+T67	Disease_disorder 1244 1257	optic atrophy
+T82	Sign_symptom 5164 5169	alive
+T83	Sign_symptom 5181 5189	symptoms
+T84	Sign_symptom 5199 5215	sensory deficits
+T86	Sign_symptom 5236 5250	could not move
+T87	Sign_symptom 5252 5264	hyperalgesia
+T90	Sign_symptom 5285 5306	impaired intelligence
+T93	Sign_symptom 1495 1511	lymphadenectasis
+T96	Sign_symptom 1516 1524	enlarged
+T98	Sign_symptom 1577 1584	lesions
+T104	Sign_symptom 1663 1684	low echo light groups
+T108	Sign_symptom 1770 1780	thickening
+T113	Sign_symptom 1837 1841	mass
+T119	Sign_symptom 1957 1961	mass
+T125	Sign_symptom 2037 2041	mass
+T130	Sign_symptom 2115 2125	isointense
+T135	Sign_symptom 2205 2216	enhancement
+T140	Sign_symptom 2315 2335	hyperintense signals
+T144	Sign_symptom 2349 2368	hypointense signals
+T149	Sign_symptom 2562 2569	shorter
+T165	Disease_disorder 2973 2985	prolactinoma
+T170	Sign_symptom 3151 3156	tumor
+T174	Sign_symptom 3279 3288	destroyed
+T175	Sign_symptom 3293 3301	absorbed
+T188	Sign_symptom 3635 3651	melanin granules
+T189	Disease_disorder 3681 3699	malignant melanoma
+T190	Disease_disorder 3703 3713	meningioma
+T192	Disease_disorder 5089 5098	depressed
+T196	Sign_symptom 4865 4881	metastatic sites
+T197	Disease_disorder 4856 4864	melanoma
+T206	Disease_disorder 4768 4775	disease
+T210	Sign_symptom 3944 3952	necrosis
+T232	Disease_disorder 4375 4379	MMPA
+T233	Sign_symptom 4444 4452	headache
+T242	Sign_symptom 4625 4635	discomfort

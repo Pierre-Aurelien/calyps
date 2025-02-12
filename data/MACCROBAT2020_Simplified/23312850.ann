@@ -1,0 +1,25 @@
+T1	Age 2 13	54 year-old
+T3	Sex 23 28	woman
+T4	Sign_symptom 43 57	blurred vision
+T7	Sign_symptom 99 109	tenderness
+T9	Sign_symptom 113 121	headache
+T19	Sign_symptom 267 272	edema
+T20	Sign_symptom 297 307	hemorrhage
+T31	Sign_symptom 440 444	pain
+T35	Sign_symptom 503 507	pain
+T42	Sign_symptom 646 652	defect
+T45	Sign_symptom 679 686	swollen
+T47	Sign_symptom 730 741	hemorrhages
+T50	Sign_symptom 766 770	spot
+T52	Sign_symptom 788 793	edema
+T55	Disease_disorder 810 842	central retinal artery occlusion
+T56	Sign_symptom 895 906	hemorrhages
+T84	Sign_symptom 1244 1248	pain
+T88	Sign_symptom 1304 1316	claudication
+T90	Sign_symptom 1327 1331	pain
+T101	Sign_symptom 1511 1519	necrosis
+T102	Sign_symptom 1532 1543	hemorrhages
+T107	Sign_symptom 1573 1587	venous beading
+T109	Disease_disorder 1613 1635	acute retinal necrosis
+T137	Sign_symptom 2063 2075	claudication
+T139	Sign_symptom 2099 2103	pain

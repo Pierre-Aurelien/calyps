@@ -1,0 +1,13 @@
+T1	Age 2 13	13 year-old
+T2	Sex 14 17	boy
+T6	Sign_symptom 92 101	epistaxis
+T10	Sign_symptom 222 226	mass
+T15	Sign_symptom 312 320	swelling
+T23	Sign_symptom 522 528	lesion
+T32	Sign_symptom 703 723	contrast enhancement
+T43	Sign_symptom 1037 1045	invasion
+T46	Disease_disorder 1210 1228	metastatic disease
+T54	Sign_symptom 1281 1285	mass
+T56	Disease_disorder 1349 1375	mesenchymal chondrosarcoma
+T67	Disease_disorder 1692 1718	mesenchymal chondrosarcoma
+T71	Sign_symptom 1766 1783	tumor involvement

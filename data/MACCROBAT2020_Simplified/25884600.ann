@@ -1,0 +1,28 @@
+T1	Age 2 11	36-yr-old
+T4	Sex 42 46	male
+T8	Sign_symptom 117 122	fever
+T9	Sign_symptom 124 134	arthralgia
+T10	Sign_symptom 139 146	myalgia
+T12	Sign_symptom 182 189	dysuria
+T16	Sign_symptom 241 245	pain
+T18	Sign_symptom 249 268	shortness of breath
+T21	Sign_symptom 399 407	afebrile
+T22	Sign_symptom 409 418	anicteric
+T30	Sign_symptom 596 608	leukocytosis
+T32	Sign_symptom 615 632	thrombocytopaenia
+T34	Sign_symptom 649 659	haematuria
+T45	Disease_disorder 866 879	leptospirosis
+T50	Sign_symptom 1012 1023	hypotension
+T51	Sign_symptom 1029 1040	tachycardia
+T52	Sign_symptom 1045 1053	dyspnoea
+T54	Sign_symptom 1074 1085	tachycardia
+T58	Disease_disorder 1169 1181	cardiomegaly
+T61	Sign_symptom 1206 1213	shadows
+T69	Sign_symptom 1300 1310	dilatation
+T71	Disease_disorder 1347 1358	hypokinesia
+T75	Disease_disorder 1481 1492	myocarditis
+T90	Disease_disorder 1742 1762	respiratory distress
+T92	Disease_disorder 1800 1819	atrial fibrillation
+T116	Disease_disorder 2370 2380	infections
+T127	Disease_disorder 2533 2549	refractory shock
+T129	Sign_symptom 2585 2596	tachycardia

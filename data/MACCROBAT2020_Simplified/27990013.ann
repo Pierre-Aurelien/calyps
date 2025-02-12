@@ -1,0 +1,19 @@
+T1	Age 2 13	73-year-old
+T3	Sex 23 27	male
+T4	Disease_disorder 55 77	chronic kidney disease
+T7	Disease_disorder 95 118	coronary artery disease
+T12	Sign_symptom 247 264	cardiac tamponade
+T13	Disease_disorder 298 312	cardiac arrest
+T21	Disease_disorder 574 587	renal failure
+T27	Sign_symptom 765 785	cognitive impairment
+T54	Disease_disorder 1390 1402	coagulopathy
+T63	Sign_symptom 1626 1634	bleeding
+T64	Sign_symptom 1598 1610	erythematous
+T69	Sign_symptom 1715 1723	hematoma
+T81	Sign_symptom 1974 1989	uremic bleeding
+T82	Sign_symptom 2019 2027	bleeding
+T94	Disease_disorder 2306 2326	platelet dysfunction
+T96	Disease_disorder 2352 2358	uremia
+T112	Sign_symptom 2761 2769	bruising
+T116	Sign_symptom 2798 2806	hematoma
+T122	Sign_symptom 2987 3001	adverse events

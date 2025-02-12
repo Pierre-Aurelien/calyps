@@ -1,0 +1,28 @@
+T1	Age 2 13	38-year-old
+T2	Sex 14 19	woman
+T5	Sign_symptom 80 84	pain
+T9	Sign_symptom 176 184	diarrhea
+T13	Sign_symptom 224 234	tenderness
+T15	Sign_symptom 239 247	guarding
+T30	Sign_symptom 968 976	free air
+T32	Sign_symptom 847 857	free fluid
+T45	Sign_symptom 948 963	air-fluid level
+T48	Sign_symptom 1086 1097	perforation
+T80	Disease_disorder 1367 1373	ulcers
+T89	Disease_disorder 1482 1490	thrombus
+T96	Sign_symptom 1689 1694	alive
+T97	Sign_symptom 1699 1706	healthy
+T107	Disease_disorder 1901 1912	Perforation
+T109	Sign_symptom 1990 1999	edematous
+T110	Sign_symptom 2004 2013	hyperemic
+T115	Disease_disorder 2087 2099	perforations
+T124	Sign_symptom 2539 2562	macroscopic lymph nodes
+T126	Disease_disorder 2291 2297	ulcers
+T131	Sign_symptom 2507 2523	hyperemic region
+T139	Disease_disorder 3327 3336	parasites
+T140	Sign_symptom 2894 2902	reaction
+T144	Sign_symptom 2961 2968	venules
+T145	Sign_symptom 3005 3012	lesions
+T148	Sign_symptom 3065 3072	thrombi
+T150	Sign_symptom 3077 3098	intimal proliferation
+T152	Disease_disorder 3168 3179	peritonitis

@@ -1,0 +1,17 @@
+T1	Age 2 13	70-year-old
+T2	Sex 14 17	man
+T6	Disease_disorder 59 65	cancer
+T10	Sign_symptom 192 199	dysuria
+T21	Sign_symptom 503 507	mass
+T28	Disease_disorder 715 729	adenocarcinoma
+T33	Sign_symptom 798 802	mass
+T38	Sign_symptom 890 908	metastatic lesions
+T44	Sign_symptom 986 1009	no significant findings
+T68	Sign_symptom 2795 2805	recurrence
+T69	Sign_symptom 2809 2827	distant metastasis
+T73	Sign_symptom 1168 1175	lesions
+T80	Sign_symptom 1428 1439	tumor cells
+T95	Sign_symptom 1747 1757	metastasis
+T102	Disease_disorder 2017 2032	choriocarcinoma
+T104	Disease_disorder 2151 2165	adenocarcinoma
+T106	Disease_disorder 2079 2093	adenocarcinoma

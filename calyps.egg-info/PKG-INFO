@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: calyps
+Version: 0.1.0
+Summary: A package for the Saniia assignment
+Author: Pierre-Aurelien Gilliot
+Author-email: pa.gilliot@orange.fr
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary

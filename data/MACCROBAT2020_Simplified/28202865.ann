@@ -1,0 +1,32 @@
+T1	Age 18 29	48-year-old
+T2	Sex 30 33	man
+T4	Sign_symptom 78 88	hemoptysis
+T11	Sign_symptom 194 214	ground-glass opacity
+T13	Sign_symptom 216 219	GGO
+T16	Sign_symptom 306 318	accumulation
+T34	Disease_disorder 834 845	hepatitis C
+T35	Sign_symptom 703 722	hemorrhagic episode
+T39	Disease_disorder 971 974	DAH
+T40	Disease_disorder 995 1005	vasculitis
+T47	Sign_symptom 1183 1191	symptoms
+T50	Sign_symptom 1231 1234	GGO
+T59	Sign_symptom 1435 1445	hemoptysis
+T69	Sign_symptom 1724 1734	hemoptysis
+T71	Disease_disorder 1774 1791	diabetes mellitus
+T91	Sign_symptom 2082 2090	crackles
+T94	Sign_symptom 2124 2128	rash
+T96	Sign_symptom 2143 2151	bleeding
+T97	Sign_symptom 2161 2169	swelling
+T103	Sign_symptom 2241 2244	GGO
+T106	Sign_symptom 2280 2286	anemia
+T116	Sign_symptom 2384 2394	hemoptysis
+T122	Disease_disorder 2667 2684	diabetes mellitus
+T126	Disease_disorder 2800 2803	DAH
+T142	Disease_disorder 3204 3212	bleeding
+T146	Disease_disorder 3268 3285	bleeding disorder
+T150	Disease_disorder 3393 3405	hemophilia B
+T151	Disease_disorder 3457 3467	hemophilia
+T155	Disease_disorder 3613 3625	hemophilia B
+T157	Disease_disorder 3672 3675	DAH
+T161	Disease_disorder 3868 3871	DAH
+T162	Sign_symptom 3875 3895	hemorrhagic symptoms

@@ -1,0 +1,21 @@
+T1	Age 2 13	48 year-old
+T2	Sex 14 20	female
+T3	Sign_symptom 44 52	bleeding
+T7	Disease_disorder 122 125	SCC
+T16	Sign_symptom 224 239	positive spread
+T27	Sign_symptom 581 586	cough
+T29	Sign_symptom 588 607	shortness of breath
+T31	Sign_symptom 658 665	dyspnea
+T44	Disease_disorder 1708 1735	lymphangitic carcinomatosis
+T57	Sign_symptom 1133 1159	neoplastic sheets of cells
+T61	Disease_disorder 927 936	pneumonia
+T63	Sign_symptom 960 965	edema
+T67	Sign_symptom 807 815	scarring
+T68	Sign_symptom 849 860	atelectasis
+T72	Sign_symptom 1277 1284	nodules
+T74	Disease_disorder 1392 1394	LC
+T87	Sign_symptom 1748 1758	metastatic
+T88	Disease_disorder 1764 1767	SCC
+T90	Sign_symptom 2073 2096	interstitial thickening
+T91	Sign_symptom 2042 2064	nodular opacifications
+T93	Sign_symptom 1938 1955	clinical symptoms

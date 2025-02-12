@@ -1,0 +1,19 @@
+T1	Age 2 13	51-year-old
+T4	Sex 29 35	female
+T7	Sign_symptom 132 144	constipation
+T8	Sign_symptom 150 152	FI
+T14	Sign_symptom 307 320	fecal seepage
+T24	Sign_symptom 484 491	atrophy
+T26	Sign_symptom 516 528	poor squeeze
+T27	Sign_symptom 545 552	atrophy
+T32	Sign_symptom 1447 1459	constipation
+T33	Sign_symptom 1464 1466	FI
+T37	Sign_symptom 1201 1211	management
+T42	Sign_symptom 1326 1328	FI
+T46	Disease_disorder 671 679	weak EAS
+T47	Sign_symptom 621 653	augmentation of squeeze pressure
+T48	Sign_symptom 713 735	fixed perineal descent
+T49	Disease_disorder 868 870	DD
+T56	Sign_symptom 841 850	straining
+T58	Disease_disorder 921 923	DD
+T63	Sign_symptom 1164 1180	hypersensitivity

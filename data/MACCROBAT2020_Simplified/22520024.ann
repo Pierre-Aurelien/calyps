@@ -1,0 +1,25 @@
+T1	Age 2 13	60-year-old
+T2	Sex 14 18	male
+T3	Disease_disorder 97 120	retroperitoneal sarcoma
+T13	Disease_disorder 234 245	liposarcoma
+T24	Sign_symptom 424 430	invade
+T25	Sign_symptom 410 415	tumor
+T27	Sign_symptom 492 497	tumor
+T34	Sign_symptom 628 644	tumor recurrence
+T39	Sign_symptom 703 720	tumor involvement
+T47	Disease_disorder 890 910	unresectable disease
+T50	Sign_symptom 999 1004	tumor
+T54	Sign_symptom 1058 1070	complication
+T56	Sign_symptom 1151 1155	mass
+T60	Sign_symptom 1200 1211	weight loss
+T61	Sign_symptom 1236 1240	pain
+T64	Sign_symptom 1242 1248	nausea
+T65	Sign_symptom 1253 1261	vomiting
+T67	Sign_symptom 1303 1307	mass
+T70	Sign_symptom 1405 1416	involvement
+T75	Sign_symptom 1700 1705	tumor
+T82	Sign_symptom 1921 1925	mass
+T91	Disease_disorder 2090 2101	liposarcoma
+T103	Sign_symptom 2268 2273	tumor
+T106	Sign_symptom 2353 2374	neoplastic components
+T111	Sign_symptom 2495 2505	recurrence

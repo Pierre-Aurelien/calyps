@@ -1,0 +1,45 @@
+T1	Age 2 13	37-year-old
+T3	Sex 24 27	man
+T10	Sign_symptom 113 117	pain
+T14	Disease_disorder 166 185	Friedreich's ataxia
+T19	Disease_disorder 290 304	cardiomyopathy
+T36	Sign_symptom 617 626	somnolent
+T37	Sign_symptom 631 642	disoriented
+T46	Sign_symptom 826 830	pain
+T51	Sign_symptom 867 886	absence of appetite
+T52	Sign_symptom 891 899	vomiting
+T63	Sign_symptom 1045 1051	tender
+T65	Sign_symptom 1065 1072	painful
+T73	Sign_symptom 1203 1207	pain
+T77	Sign_symptom 1262 1268	murmur
+T102	Sign_symptom 1738 1750	leucocytosis
+T110	Disease_disorder 1895 1904	pathology
+T115	Sign_symptom 1982 1992	free fluid
+T120	Disease_disorder 3838 3847	porphyria
+T126	Disease_disorder 4065 4074	infection
+T132	Sign_symptom 2032 2036	pain
+T144	Disease_disorder 2191 2201	infarction
+T146	Sign_symptom 2243 2257	hypodense area
+T147	Sign_symptom 2310 2314	open
+T151	Disease_disorder 3080 3095	Hypovitaminosis
+T152	Disease_disorder 2791 2805	tabetic crises
+T153	Disease_disorder 2335 2354	Cardiac dysfunction
+T155	Disease_disorder 2415 2434	Friedreich's ataxia
+T156	Disease_disorder 2466 2479	heart failure
+T157	Disease_disorder 2483 2493	arrhythmia
+T159	Disease_disorder 2508 2516	embolism
+T161	Disease_disorder 2641 2650	porphyria
+T162	Disease_disorder 2661 2680	Mediterranean fever
+T163	Disease_disorder 2682 2703	diabetic ketoacidosis
+T164	Disease_disorder 2705 2726	tocopherol deficiency
+T165	Sign_symptom 2628 2632	pain
+T169	Disease_disorder 2836 2845	porphyria
+T177	Disease_disorder 3036 3053	clotting disorder
+T179	Disease_disorder 3132 3148	endocrinopathies
+T180	Disease_disorder 3166 3174	diabetes
+T181	Disease_disorder 3195 3208	hypothyreosis
+T182	Disease_disorder 3212 3226	hyperthyreosis
+T193	Disease_disorder 3467 3480	complications
+T199	Disease_disorder 3604 3612	thrombus
+T201	Disease_disorder 3620 3640	patent foramen ovale
+T202	Disease_disorder 3642 3662	Deep vein thrombosis

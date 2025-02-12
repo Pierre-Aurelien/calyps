@@ -1,0 +1,12 @@
+T1	Age 2 13	21-year-old
+T2	Sex 14 17	man
+T6	Sign_symptom 63 67	rash
+T11	Sign_symptom 177 185	erythema
+T12	Sign_symptom 207 211	rash
+T22	Sign_symptom 413 417	rash
+T40	Sign_symptom 880 884	rash
+T47	Sign_symptom 1227 1231	rash
+T52	Disease_disorder 1614 1634	phytophotodermatitis
+T57	Sign_symptom 1804 1808	rash
+T61	Sign_symptom 1903 1907	pain
+T63	Sign_symptom 1942 1950	scarring

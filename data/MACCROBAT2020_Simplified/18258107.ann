@@ -1,0 +1,31 @@
+T1	Age 36 47	60-year-old
+T2	Sex 48 51	man
+T9	Sign_symptom 163 166	ill
+T10	Sign_symptom 172 177	fever
+T11	Sign_symptom 179 190	diaphoresis
+T12	Sign_symptom 192 200	headache
+T13	Sign_symptom 202 208	nausea
+T14	Sign_symptom 214 222	anorexia
+T26	Sign_symptom 439 444	fever
+T27	Sign_symptom 456 471	nuchal rigidity
+T28	Sign_symptom 473 481	headache
+T29	Sign_symptom 495 502	malaise
+T33	Sign_symptom 634 643	somnolent
+T34	Sign_symptom 648 662	fully oriented
+T36	Sign_symptom 672 686	focal findings
+T37	Sign_symptom 729 744	nuchal rigidity
+T55	Sign_symptom 1029 1057	gram-positive cocci in pairs
+T59	Disease_disorder 1130 1150	bacterial meningitis
+T62	Sign_symptom 1212 1221	sinusitis
+T69	Sign_symptom 1341 1360	gram-positive cocci
+T72	Sign_symptom 1386 1394	organism
+T79	Sign_symptom 1499 1516	Streptococcus spp
+T81	Sign_symptom 1560 1592	Streptococcus pneumoniae antigen
+T83	Sign_symptom 1659 1724	sensitive to penicillin (MIC = 0.03), ceftriaxone, and vancomycin
+T84	Sign_symptom 1729 1770	resistant to tetracycline and clindamycin
+T92	Sign_symptom 1908 1920	hearing loss
+T98	Sign_symptom 2104 2122	S. suis serotype 2
+T107	Sign_symptom 2376 2427	bilateral sensorineural high-frequency hearing loss
+T116	Sign_symptom 2625 2646	much improved hearing
+T117	Sign_symptom 2661 2669	sequelae
+T119	Sign_symptom 360 378	Symptoms continued

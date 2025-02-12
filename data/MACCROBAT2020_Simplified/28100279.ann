@@ -1,0 +1,18 @@
+T1	Age 2 13	39-year-old
+T3	Sex 21 25	male
+T6	Sign_symptom 62 67	cough
+T7	Sign_symptom 69 76	myalgia
+T8	Sign_symptom 82 87	fever
+T69	Sign_symptom 1218 1231	consolidation
+T73	Sign_symptom 1304 1317	consolidation
+T76	Disease_disorder 1404 1420	pleural effusion
+T89	Disease_disorder 1702 1711	pneumonia
+T91	Sign_symptom 1762 1767	fever
+T92	Sign_symptom 1803 1810	dyspnea
+T94	Sign_symptom 1816 1825	hypoxemia
+T98	Sign_symptom 1907 1920	consolidation
+T99	Disease_disorder 1925 1941	pleural effusion
+T110	Disease_disorder 2355 2375	adenovirus pneumonia
+T119	Sign_symptom 2494 2499	fever
+T120	Sign_symptom 2517 2525	symptoms
+T131	Sign_symptom 2721 2734	complications

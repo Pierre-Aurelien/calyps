@@ -1,0 +1,21 @@
+T1	Age 2 13	61-year-old
+T2	Sex 14 18	male
+T5	Sign_symptom 166 171	cough
+T10	Sign_symptom 232 243	weight loss
+T18	Disease_disorder 352 375	squamous cell carcinoma
+T32	Sign_symptom 644 649	tumor
+T43	Disease_disorder 866 889	squamous cell carcinoma
+T48	Sign_symptom 974 979	cough
+T49	Sign_symptom 996 1000	pain
+T54	Sign_symptom 1044 1056	leukocytosis
+T63	Sign_symptom 1165 1171	lesion
+T65	Sign_symptom 1203 1219	pleural effusion
+T66	Sign_symptom 1224 1240	fluid collection
+T69	Disease_disorder 1455 1477	bronchopleural fistula
+T70	Sign_symptom 1429 1436	empyema
+T77	Sign_symptom 1623 1634	air leakage
+T98	Sign_symptom 2827 2835	air leak
+T101	Sign_symptom 2899 2915	stable condition
+T102	Sign_symptom 2934 2942	air leak
+T110	Sign_symptom 2516 2523	tension
+T112	Sign_symptom 2527 2534	kinking

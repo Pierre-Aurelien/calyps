@@ -1,0 +1,32 @@
+T1	Age 2 13	23 year old
+T3	Sex 20 24	male
+T5	Disease_disorder 50 65	Crohn's disease
+T7	Sign_symptom 109 116	malaise
+T8	Sign_symptom 118 123	fever
+T9	Sign_symptom 135 139	pain
+T11	Sign_symptom 141 149	vomiting
+T13	Sign_symptom 161 170	diarrhoea
+T15	Sign_symptom 195 200	pains
+T23	Sign_symptom 299 303	rash
+T27	Sign_symptom 364 371	macules
+T29	Sign_symptom 403 410	lesions
+T30	Sign_symptom 423 431	crusting
+T33	Sign_symptom 493 502	infection
+T39	Sign_symptom 667 674	fistula
+T46	Sign_symptom 791 795	pain
+T53	Sign_symptom 915 922	fistula
+T54	Sign_symptom 889 898	stricture
+T64	Sign_symptom 1123 1157	no extra-intestinal manifestations
+T67	Sign_symptom 1196 1200	thin
+T68	Sign_symptom 1202 1210	afebrile
+T69	Sign_symptom 1226 1237	tachycardia
+T75	Sign_symptom 1338 1344	tender
+T81	Sign_symptom 1444 1452	pustules
+T82	Sign_symptom 1457 1463	crusts
+T86	Sign_symptom 1570 1579	synovitis
+T115	Sign_symptom 2120 2144	no signs of endocarditis
+T122	Disease_disorder 2377 2387	vasculitis
+T126	Sign_symptom 2322 2330	necrosis
+T132	Sign_symptom 2467 2493	resolution of all features
+T137	Sign_symptom 2609 2631	without any recurrence
+T49	Sign_symptom 811 818	fistula

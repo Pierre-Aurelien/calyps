@@ -1,0 +1,29 @@
+T1	Age 3 14	18-year-old
+T10	Sign_symptom 183 195	fatigability
+T11	Sign_symptom 206 215	dizziness
+T12	Sign_symptom 217 228	palpitation
+T13	Sign_symptom 233 240	dyspnea
+T16	Sign_symptom 267 278	weight loss
+T21	Sign_symptom 338 342	pale
+T22	Sign_symptom 348 357	jaundiced
+T23	Sign_symptom 361 369	cyanosed
+T44	Disease_disorder 700 729	microcytic hypochromic anemia
+T51	Disease_disorder 915 924	gastritis
+T54	Sign_symptom 948 960	inflammation
+T59	Sign_symptom 1001 1009	enlarged
+T62	Sign_symptom 1041 1047	lesion
+T66	Disease_disorder 1101 1111	hemangioma
+T67	Sign_symptom 1137 1145	enlarged
+T71	Sign_symptom 1187 1194	lesions
+T77	Sign_symptom 1299 1303	mass
+T82	Sign_symptom 1388 1398	thickening
+T87	Sign_symptom 1476 1480	mass
+T91	Sign_symptom 1540 1544	mass
+T97	Sign_symptom 1680 1685	tumor
+T107	Sign_symptom 2062 2073	giant cells
+T111	Sign_symptom 2136 2144	necrosis
+T112	Sign_symptom 2116 2131	mitotic figures
+T114	Sign_symptom 2182 2199	involved by tumor
+T141	Sign_symptom 2685 2704	22q12 rearrangement
+T146	Sign_symptom 3088 3100	disease free
+T149	Sign_symptom 3143 3153	recurrence

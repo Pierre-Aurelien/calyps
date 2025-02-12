@@ -1,0 +1,32 @@
+T1	Sex 27 31	male
+T15	Disease_disorder 455 459	IUGR
+T27	Sign_symptom 680 695	systolic murmur
+T37	Disease_disorder 749 767	metabolic acidosis
+T51	Sign_symptom 1040 1047	ketones
+T52	Sign_symptom 1020 1035	lactic acidosis
+T55	Sign_symptom 1070 1082	cardiomegaly
+T58	Sign_symptom 1173 1195	pulmonary hypertension
+T59	Sign_symptom 1151 1168	tricuspid regurge
+T60	Sign_symptom 1122 1150	left ventricular hypertrophy
+T83	Sign_symptom 1571 1578	dilated
+T87	Sign_symptom 1668 1678	hemorrhage
+T98	Sign_symptom 1815 1825	dilatation
+T100	Disease_disorder 1863 1872	hypotonia
+T101	Disease_disorder 1878 1898	feeding difficulties
+T102	Disease_disorder 1913 1924	aspirations
+T116	Sign_symptom 2155 2172	tricuspid regurge
+T119	Sign_symptom 2179 2207	left ventricular hypertrophy
+T120	Sign_symptom 2209 2212	LVH
+T121	Sign_symptom 2218 2240	pulmonary hypertension
+T122	Sign_symptom 2242 2246	PHTN
+T125	Disease_disorder 2348 2362	cardiomyopathy
+T133	Sign_symptom 2522 2525	LVH
+T134	Sign_symptom 2533 2537	PHTN
+T143	Disease_disorder 2747 2757	infections
+T145	Disease_disorder 2759 2779	shunt malfunctioning
+T146	Sign_symptom 2784 2790	fevers
+T147	Disease_disorder 2856 2871	febrile illness
+T148	Sign_symptom 2838 2847	hypoxemia
+T150	Disease_disorder 2883 2892	infection
+T151	Sign_symptom 2907 2912	edema
+T159	Disease_disorder 2070 2079	blindness

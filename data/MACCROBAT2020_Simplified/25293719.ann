@@ -1,0 +1,19 @@
+T1	Sex 28 34	female
+T2	Age 35 40	child
+T28	Sign_symptom 382 400	growth retardation
+T36	Sign_symptom 675 690	lactic acidosis
+T47	Sign_symptom 966 984	metabolic acidosis
+T49	Sign_symptom 1005 1018	hypoglycaemia
+T73	Sign_symptom 1420 1435	lactic acidosis
+T76	Sign_symptom 1519 1532	aminoaciduria
+T89	Sign_symptom 2528 2536	acidosis
+T98	Sign_symptom 2455 2463	seizures
+T102	Sign_symptom 2416 2434	metabolic acidosis
+T103	Disease_disorder 2118 2130	coagulopathy
+T118	Sign_symptom 2043 2052	distended
+T120	Disease_disorder 1983 2011	intraventricular haemorrhage
+T122	Sign_symptom 1936 1947	hyperechoic
+T123	Sign_symptom 1952 1961	irregular
+T124	Sign_symptom 1711 1716	cysts
+T125	Sign_symptom 1806 1811	cysts
+T127	Sign_symptom 1870 1874	cyst

@@ -1,0 +1,39 @@
+T1	Age 85 96	47-year-old
+T3	Sex 106 109	man
+T5	Disease_disorder 128 143	Crohn's disease
+T9	Sign_symptom 217 225	diarrhea
+T17	Sign_symptom 297 305	vomiting
+T18	Sign_symptom 325 329	pain
+T19	Sign_symptom 333 338	fever
+T21	Sign_symptom 346 357	weight loss
+T34	Sign_symptom 906 914	enlarged
+T36	Disease_disorder 959 971	sacroiliitis
+T37	Disease_disorder 986 998	coxarthrosis
+T40	Disease_disorder 572 579	ileitis
+T42	Sign_symptom 603 611	extended
+T44	Disease_disorder 21 37	pancreatic tumor
+T45	Disease_disorder 59 65	trauma
+T46	Disease_disorder 69 81	panceratitis
+T51	Sign_symptom 627 636	distended
+T54	Disease_disorder 1508 1523	Crohn's disease
+T62	Sign_symptom 1880 1911	symptoms of glucose intolerance
+T66	Disease_disorder 2010 2031	neuro endocrine tumor
+T74	Sign_symptom 2390 2400	complaints
+T80	Disease_disorder 2160 2194	neuroendocrine hyperplasia lesions
+T86	Sign_symptom 2258 2265	ectopic
+T88	Disease_disorder 2282 2295	cholecystitis
+T90	Sign_symptom 1243 1253	gallstones
+T91	Sign_symptom 1258 1272	biliary sludge
+T97	Sign_symptom 1356 1363	swollen
+T98	Sign_symptom 1365 1373	inflamed
+T99	Sign_symptom 1389 1400	ulcerations
+T103	Disease_disorder 1022 1029	ileitis
+T104	Disease_disorder 1484 1491	ileitis
+T110	Sign_symptom 1671 1676	tumor
+T121	Sign_symptom 1091 1097	lesion
+T123	Sign_symptom 1113 1124	enhancement
+T125	Sign_symptom 1177 1185	dilation
+T131	Sign_symptom 666 671	image
+T132	Sign_symptom 815 825	dilatation
+T135	Sign_symptom 716 727	uncalcified
+T136	Sign_symptom 787 795	bourgeon

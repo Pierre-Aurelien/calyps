@@ -1,0 +1,18 @@
+T1	Age 3 14	82-year-old
+T2	Sex 15 19	male
+T5	Sign_symptom 91 95	pain
+T6	Sign_symptom 100 105	faint
+T9	Sign_symptom 136 158	auricular fibrillation
+T11	Sign_symptom 241 245	pain
+T13	Disease_disorder 281 302	mesenchimal haematoma
+T16	Sign_symptom 354 360	trauma
+T17	Sign_symptom 373 384	hematemesis
+T18	Sign_symptom 388 394	melena
+T21	Sign_symptom 469 473	pain
+T30	Sign_symptom 629 643	hemoperitoneum
+T31	Disease_disorder 677 696	mesenteric hematoma
+T33	Disease_disorder 745 764	mesenteric hematoma
+T35	Sign_symptom 778 786	bleeding
+T39	Sign_symptom 853 878	fresh and old blood clots
+T42	Disease_disorder 953 972	meckel diverticulum
+T45	Sign_symptom 996 1004	bleeding

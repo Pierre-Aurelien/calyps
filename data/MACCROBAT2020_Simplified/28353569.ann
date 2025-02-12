@@ -1,0 +1,39 @@
+T1	Age 2 13	41-year-old
+T2	Sex 14 17	man
+T9	Sign_symptom 189 200	hematemesis
+T11	Sign_symptom 215 219	pain
+T17	Sign_symptom 306 310	pain
+T19	Sign_symptom 339 346	varices
+T20	Sign_symptom 356 363	varices
+T21	Disease_disorder 385 396	gastropathy
+T22	Sign_symptom 410 417	lesions
+T33	Sign_symptom 507 515	jaundice
+T32	Sign_symptom 520 553	stigmata of chronic liver disease
+T34	Sign_symptom 617 627	tenderness
+T38	Sign_symptom 642 647	bruit
+T42	Sign_symptom 676 680	mass
+T46	Sign_symptom 2734 2742	bleeding
+T48	Sign_symptom 557 561	soft
+T49	Sign_symptom 591 601	tenderness
+T52	Sign_symptom 716 722	melena
+T73	Sign_symptom 1263 1267	mass
+T76	Sign_symptom 1269 1280	compressing
+T83	Sign_symptom 1404 1415	compression
+T86	Sign_symptom 1481 1491	dilatation
+T90	Disease_disorder 1635 1666	portal hypertensive gastropathy
+T91	Sign_symptom 1581 1588	network
+T98	Sign_symptom 1685 1691	oozing
+T99	Sign_symptom 1718 1729	blood clots
+T103	Sign_symptom 1779 1786	varices
+T104	Sign_symptom 1795 1824	stigmata of recent hemorrhage
+T105	Sign_symptom 1826 1829	SRH
+T109	Sign_symptom 1850 1857	varices
+T112	Sign_symptom 1911 1916	bulge
+T121	Sign_symptom 2101 2105	mass
+T125	Sign_symptom 2211 2222	compressing
+T126	Sign_symptom 2236 2247	compressing
+T129	Sign_symptom 2286 2302	collateral veins
+T136	Disease_disorder 2496 2498	PA
+T140	Sign_symptom 2447 2451	flow
+T146	Disease_disorder 2556 2558	PA
+T155	Disease_disorder 2792 2794	PA

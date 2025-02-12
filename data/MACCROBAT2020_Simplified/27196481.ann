@@ -1,0 +1,21 @@
+T1	Age 2 13	66-year-old
+T2	Sex 14 17	man
+T6	Sign_symptom 71 83	splenomegaly
+T22	Disease_disorder 351 353	PV
+T16	Sign_symptom 244 266	BCR-ABL1 rearrangement
+T17	Sign_symptom 285 303	JAK2V617F mutation
+T29	Sign_symptom 652 664	infiltration
+T43	Disease_disorder 977 979	PV
+T44	Disease_disorder 1039 1047	fibrosis
+T53	Sign_symptom 1267 1279	infiltration
+T57	Sign_symptom 1338 1344	lesion
+T61	Sign_symptom 1402 1419	foamy histiocytes
+T65	Disease_disorder 1521 1529	fibrosis
+T67	Sign_symptom 1560 1570	infiltrate
+T70	Sign_symptom 1615 1633	BRAFV600E mutation
+T71	Disease_disorder 1656 1659	ECD
+T75	Sign_symptom 1726 1738	infiltration
+T79	Sign_symptom 1830 1836	uptake
+T82	Disease_disorder 1884 1887	ECD
+T87	Disease_disorder 2039 2042	ECD
+T93	Sign_symptom 2245 2257	infiltration

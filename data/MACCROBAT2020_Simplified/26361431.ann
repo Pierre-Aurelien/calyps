@@ -1,0 +1,24 @@
+T1	Age 2 13	60-year-old
+T2	Sex 14 18	male
+T5	Disease_disorder 98 117	alcoholic hepatitis
+T6	Disease_disorder 85 93	diabetes
+T10	Sign_symptom 56 60	mass
+T12	Sign_symptom 152 156	mass
+T17	Sign_symptom 262 270	palpable
+T45	Sign_symptom 867 871	mass
+T47	Sign_symptom 879 887	enlarged
+T49	Sign_symptom 954 958	mass
+T55	Disease_disorder 1026 1036	metastases
+T62	Disease_disorder 1212 1236	neuroendocrine carcinoma
+T66	Sign_symptom 1287 1291	mass
+T67	Sign_symptom 1303 1309	growth
+T80	Sign_symptom 1535 1540	tumor
+T87	Sign_symptom 1734 1740	lesion
+T89	Sign_symptom 1760 1765	tumor
+T93	Sign_symptom 1877 1882	fever
+T94	Sign_symptom 1887 1899	leukocytosis
+T98	Sign_symptom 1963 1979	fluid collection
+T102	Sign_symptom 2027 2031	mass
+T105	Disease_disorder 2117 2126	infection
+T109	Sign_symptom 2213 2217	mass
+T115	Disease_disorder 2374 2387	complications

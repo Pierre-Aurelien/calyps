@@ -1,0 +1,8 @@
+T1	Age 2 13	41-year-old
+T3	Sex 24 29	woman
+T12	Disease_disorder 304 330	lung allograft dysfunction
+T28	Sign_symptom 680 687	nodules
+T32	Disease_disorder 752 768	pleural effusion
+T70	Sign_symptom 1541 1550	hypoxemia
+T72	Disease_disorder 1552 1557	shock
+T74	Disease_disorder 1604 1622	multiorgan failure

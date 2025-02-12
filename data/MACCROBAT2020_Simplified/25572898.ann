@@ -1,0 +1,31 @@
+T1	Age 2 13	42 year-old
+T3	Disease_disorder 31 51	lymphocytic leukemia
+T2	Sex 14 17	man
+T17	Sign_symptom 305 316	lymphopenia
+T19	Sign_symptom 321 329	diarrhea
+T20	Disease_disorder 335 344	norovirus
+T24	Sign_symptom 435 443	tinnitus
+T25	Disease_disorder 468 490	sensorineural deafness
+T27	Sign_symptom 514 526	hearing loss
+T55	Sign_symptom 1185 1192	dyspnea
+T56	Sign_symptom 1203 1214	hypotension
+T57	Sign_symptom 1216 1222	nausea
+T60	Disease_disorder 941 952	enterovirus
+T61	Disease_disorder 957 968	herpesvirus
+T66	Disease_disorder 1309 1338	vestibulocochlear dysfunction
+T70	Sign_symptom 1421 1430	withdrawn
+T71	Sign_symptom 1432 1441	irritable
+T72	Sign_symptom 1462 1470	agitated
+T74	Sign_symptom 1484 1495	lymphopenic
+T83	Disease_disorder 1696 1710	encephalopathy
+T84	Disease_disorder 1744 1749	viral
+T94	Sign_symptom 2002 2022	signal abnormalities
+T102	Sign_symptom 2100 2111	enhancement
+T108	Sign_symptom 2217 2224	gliosis
+T110	Sign_symptom 2237 2249	infiltration
+T117	Disease_disorder 2471 2497	neurological deterioration
+T127	Disease_disorder 2722 2732	astrovirus
+T128	Disease_disorder 2734 2738	AstV
+T132	Sign_symptom 2906 2931	minimally conscious state
+T138	Sign_symptom 3095 3103	symptoms
+T140	Sign_symptom 1353 1360	symptom

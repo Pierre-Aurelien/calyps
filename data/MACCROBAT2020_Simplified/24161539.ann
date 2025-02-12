@@ -1,0 +1,21 @@
+T6	Sex 11 14	boy
+T7	Age 5 10	young
+T15	Sign_symptom 281 294	eye deviation
+T17	Sign_symptom 311 318	flexion
+T18	Disease_disorder 356 372	infantile spasms
+T24	Sign_symptom 440 454	hypsarrhythmia
+T25	Disease_disorder 494 507	West Syndrome
+T32	Sign_symptom 661 668	seizure
+T34	Sign_symptom 589 597	seizures
+T41	Sign_symptom 865 873	Seizures
+T49	Sign_symptom 1049 1056	seizure
+T50	Disease_disorder 1089 1097	epilepsy
+T52	Sign_symptom 1181 1189	seizures
+T57	Disease_disorder 1329 1357	epilepsia partialis continua
+T61	Sign_symptom 1283 1290	Seizure
+T67	Sign_symptom 1446 1454	seizures
+T70	Sign_symptom 1652 1659	lesions
+T73	Sign_symptom 1674 1682	thinning
+T83	Sign_symptom 1875 1897	startled to loud noise
+T88	Sign_symptom 1938 1955	internal rotation
+T92	Sign_symptom 2024 2039	myoclonic jerks

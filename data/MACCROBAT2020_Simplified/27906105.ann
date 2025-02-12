@@ -1,0 +1,12 @@
+T1	Age 22 33	58-year-old
+T4	Sex 49 54	woman
+T7	Sign_symptom 152 160	jaundice
+T8	Sign_symptom 175 179	pain
+T25	Sign_symptom 465 471	lesion
+T33	Sign_symptom 887 918	vascular or lymph node invasion
+T35	Sign_symptom 758 764	lesion
+T55	Sign_symptom 1453 1461	necrosis
+T56	Sign_symptom 1466 1476	hemorrhage
+T71	Sign_symptom 1602 1615	complications
+T78	Sign_symptom 1722 1734	infiltrating
+T85	Disease_disorder 1934 1942	melanoma

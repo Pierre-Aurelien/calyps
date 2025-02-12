@@ -1,0 +1,23 @@
+T1	Age 2 13	18-year-old
+T2	Sex 14 17	man
+T4	Sign_symptom 57 61	lump
+T7	Sign_symptom 121 137	weight reduction
+T11	Sign_symptom 271 275	mass
+T14	Sign_symptom 284 294	tenderness
+T15	Sign_symptom 309 321	skin changes
+T18	Sign_symptom 420 437	fistulous opening
+T19	Sign_symptom 441 450	discharge
+T22	Sign_symptom 537 541	mass
+T30	Sign_symptom 797 803	lesion
+T42	Sign_symptom 974 985	vascularity
+T43	Disease_disorder 1815 1832	bronchogenic cyst
+T44	Disease_disorder 1555 1579	epidermal inclusion cyst
+T45	Disease_disorder 1581 1603	thyroglossal duct cyst
+T46	Disease_disorder 1605 1625	branchial cleft cyst
+T47	Disease_disorder 1631 1643	dermoid cyst
+T55	Sign_symptom 1078 1082	mass
+T56	Disease_disorder 1105 1132	postoperative complications
+T63	Sign_symptom 1262 1266	cyst
+T65	Sign_symptom 1287 1302	mucous material
+T67	Sign_symptom 1472 1480	fibrosis
+T70	Sign_symptom 1658 1679	histological evidence

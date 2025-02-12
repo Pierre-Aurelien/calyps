@@ -1,0 +1,41 @@
+T1	Age 2 13	61-year-old
+T3	Sex 22 27	woman
+T4	Sign_symptom 42 51	dizziness
+T8	Sign_symptom 115 119	mass
+T12	Sign_symptom 157 166	dizziness
+T13	Sign_symptom 193 265	signs or symptoms that are commonly associated with neurological disease
+T14	Sign_symptom 275 283	headache
+T15	Sign_symptom 285 293	vomiting
+T16	Sign_symptom 295 315	sensory disturbances
+T17	Sign_symptom 317 338	altered consciousness
+T18	Sign_symptom 343 351	seizures
+T20	Sign_symptom 502 509	healthy
+T29	Sign_symptom 762 768	lesion
+T38	Sign_symptom 957 969	isointensity
+T40	Sign_symptom 1008 1022	hyperintensity
+T43	Disease_disorder 1167 1177	meningioma
+T89	Sign_symptom 2355 2368	consciousness
+T97	Disease_disorder 2519 2522	UGH
+T98	Sign_symptom 2528 2535	vomitus
+T102	Sign_symptom 2655 2661	damage
+T105	Disease_disorder 2730 2739	gastritis
+T106	Sign_symptom 2770 2776	injury
+T111	Sign_symptom 2854 2865	hematemesis
+T123	Sign_symptom 3178 3183	tumor
+T128	Disease_disorder 3330 3340	meningioma
+T131	Disease_disorder 3415 3419	coma
+T133	Sign_symptom 3425 3444	pupils were dilated
+T144	Disease_disorder 3636 3640	coma
+T148	Sign_symptom 3697 3704	lesions
+T154	Sign_symptom 3851 3859	swelling
+T157	Disease_disorder 3861 3884	intracranial hemorrhage
+T158	Disease_disorder 3889 3908	cerebral infarction
+T159	Disease_disorder 3938 3957	cerebral infarction
+T189	Disease_disorder 4661 4683	hepatic encephalopathy
+T190	Disease_disorder 4649 4652	UGH
+T202	Sign_symptom 4986 4997	unconscious
+T208	Disease_disorder 5318 5321	VHE
+T215	Sign_symptom 5709 5722	consciousness
+T227	Sign_symptom 5954 5967	complications
+T230	Sign_symptom 6038 6051	consciousness
+T232	Sign_symptom 6060 6070	recurrence

@@ -1,0 +1,25 @@
+T2	Age 11 22	50-year-old
+T3	Sex 23 26	man
+T6	Sign_symptom 78 82	pain
+T11	Disease_disorder 292 304	osteosarcoma
+T15	Sign_symptom 164 169	tumor
+T32	Sign_symptom 498 502	mass
+T34	Sign_symptom 548 558	recurrence
+T47	Sign_symptom 1028 1033	cough
+T48	Sign_symptom 1044 1053	tightness
+T56	Sign_symptom 1173 1180	nodules
+T59	Sign_symptom 1224 1234	metastases
+T62	Sign_symptom 1335 1340	tumor
+T72	Sign_symptom 1510 1518	symptoms
+T73	Sign_symptom 1550 1564	wound necrosis
+T77	Sign_symptom 1626 1634	enlarged
+T82	Sign_symptom 1780 1791	hyperplasia
+T98	Disease_disorder 2715 2733	hand-foot syndrome
+T100	Sign_symptom 2745 2764	high blood pressure
+T103	Sign_symptom 2831 2841	toxicities
+T104	Sign_symptom 2870 2884	adverse events
+T108	Sign_symptom 2975 2988	toxic effects
+T112	Sign_symptom 2057 2064	lesions
+T115	Sign_symptom 2099 2105	nodule
+T116	Sign_symptom 2131 2138	lesions
+T125	Sign_symptom 2337 2344	lesions

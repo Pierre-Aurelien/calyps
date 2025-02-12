@@ -1,0 +1,18 @@
+T1	Sex 2 7	woman
+T2	Age 15 18	60s
+T8	Disease_disorder 70 86	breast carcinoma
+T12	Disease_disorder 120 136	ductal carcinoma
+T18	Sign_symptom 236 240	mass
+T21	Sign_symptom 289 296	fibroid
+T23	Sign_symptom 331 339	bleeding
+T30	Disease_disorder 426 433	sarcoma
+T34	Sign_symptom 563 569	tumour
+T37	Disease_disorder 616 626	metastasis
+T43	Sign_symptom 888 894	tumour
+T51	Sign_symptom 1155 1166	giant cells
+T56	Sign_symptom 1219 1246	structurally abnormal forms
+T69	Disease_disorder 1811 1823	osteosarcoma
+T72	Sign_symptom 1938 1946	deposits
+T76	Disease_disorder 1985 1997	osteosarcoma
+T80	Sign_symptom 1423 1453	neoplastic epithelial elements
+T81	Disease_disorder 1503 1535	malignant mixed Müllerian tumour

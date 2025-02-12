@@ -1,0 +1,26 @@
+T1	Age 18 28	3-year-old
+T2	Sex 29 33	girl
+T9	Disease_disorder 626 648	Ehlers–Danlos syndrome
+T13	Disease_disorder 485 503	limb malformations
+T14	Disease_disorder 512 539	other major organ anomalies
+T15	Disease_disorder 474 481;490 503	cardiac malformations
+T16	Disease_disorder 734 747	Ehlers–Danlos
+T39	Disease_disorder 2614 2635	complex IV deficiency
+T58	Age 1820 1836	13 months of age
+T59	Sign_symptom 1854 1869	muscle weakness
+T61	Disease_disorder 1871 1894	autonomic dysregulation
+T62	Disease_disorder 1896 1917	hypoglycemic episodes
+T63	Disease_disorder 1919 1950	exocrine pancreatic dysfunction
+T66	Disease_disorder 2070 2082	hyperalgesia
+T68	Disease_disorder 2084 2095	dysmotility
+T69	Disease_disorder 2101 2114	malabsorption
+T70	Disease_disorder 2033 2053	nutrition dependency
+T76	Disease_disorder 1021 1043	Ehlers–Danlos syndrome
+T93	Disease_disorder 775 788	hypermobility
+T96	Disease_disorder 1785 1810	mitochondrial dysfunction
+T7	Disease_disorder 239 261	anorectal malformation
+T125	Disease_disorder 369 379	TE fistula
+T127	Disease_disorder 393 401	agenesis
+T129	Disease_disorder 421 435	hydronephrosis
+T130	Disease_disorder 440 461	vesicoureteral reflux
+T103	Disease_disorder 1760 1770	unaffected

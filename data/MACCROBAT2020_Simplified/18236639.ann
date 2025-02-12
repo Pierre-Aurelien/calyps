@@ -1,0 +1,15 @@
+T1	Age 2 13	30-year-old
+T2	Sex 14 20	female
+T12	Disease_disorder 177 193	Muscle paralysis
+T22	Disease_disorder 477 485	problems
+T37	Sign_symptom 937 957	arterial hypotension
+T48	Sign_symptom 1340 1364	difficulty in swallowing
+T49	Sign_symptom 1366 1375	dysphonia
+T50	Sign_symptom 1380 1390	hoarseness
+T51	Disease_disorder 1286 1294	problems
+T52	Sign_symptom 1413 1422	deviation
+T54	Disease_disorder 1470 1479	paralysis
+T57	Disease_disorder 1531 1543	nerve injury
+T61	Sign_symptom 1558 1564	oedema
+T62	Sign_symptom 1568 1577	haematoma
+T71	Sign_symptom 1771 1788	nerve involvement

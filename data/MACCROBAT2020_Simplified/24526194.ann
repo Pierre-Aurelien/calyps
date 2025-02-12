@@ -1,0 +1,37 @@
+T1	Age 2 13	35-year-old
+T2	Sex 14 19	woman
+T5	Sign_symptom 81 86	fever
+T8	Sign_symptom 100 108	vomiting
+T10	Sign_symptom 124 130	anuria
+T12	Sign_symptom 161 168	dysuria
+T13	Sign_symptom 173 187	breathlessness
+T16	Sign_symptom 224 246	decreased urine output
+T18	Sign_symptom 258 276	effort intolerance
+T19	Sign_symptom 284 288	pain
+T21	Sign_symptom 292 303	palpitation
+T22	Sign_symptom 305 313	dyspnoea
+T23	Sign_symptom 318 329	weight loss
+T26	Sign_symptom 412 428	loss of appetite
+T33	Sign_symptom 610 617	febrile
+T34	Sign_symptom 596 605	dyspnoeic
+T35	Sign_symptom 567 576	conscious
+T36	Sign_symptom 581 586	alert
+T37	Sign_symptom 626 632	pallor
+T38	Sign_symptom 661 667	oedema
+T47	Sign_symptom 752 760	jaundice
+T48	Sign_symptom 771 779	cyanosis
+T50	Disease_disorder 783 798	lymphadenopathy
+T52	Sign_symptom 866 878	crepitations
+T57	Sign_symptom 903 913	tenderness
+T58	Sign_symptom 950 957	ascites
+T59	Sign_symptom 928 946	hepatosplenomegaly
+T63	Sign_symptom 1030 1042	hearing loss
+T65	Sign_symptom 1116 1120	pale
+T76	Sign_symptom 1289 1307	lenticular opacity
+T79	Sign_symptom 1348 1368	anterior lentiglobus
+T80	Sign_symptom 1385 1405	posterior lenticonus
+T83	Sign_symptom 1457 1473	oil droplet sign
+T84	Sign_symptom 1520 1530	lenticonus
+T85	Sign_symptom 1670 1690	hypertensive changes
+T86	Sign_symptom 1638 1655	blot haemorrhages
+T88	Sign_symptom 1589 1607	lesion-like flecks

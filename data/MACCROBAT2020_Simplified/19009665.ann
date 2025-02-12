@@ -1,0 +1,25 @@
+T1	Age 2 13	49-year-old
+T2	Sex 14 19	woman
+T7	Sign_symptom 163 167	pain
+T8	Sign_symptom 172 183	weight loss
+T11	Disease_disorder 195 206	hepatitis B
+T17	Sign_symptom 326 330	mass
+T21	Sign_symptom 391 395	mass
+T24	Disease_disorder 503 506	HCC
+T26	Disease_disorder 530 539	cirrhosis
+T30	Sign_symptom 616 636	arterio-venous shunt
+T32	Sign_symptom 659 665	masses
+T46	Sign_symptom 945 949	pain
+T57	Sign_symptom 1166 1174	dyspnoea
+T65	Sign_symptom 1278 1285	shadows
+T72	Sign_symptom 1403 1412	materials
+T84	Sign_symptom 1625 1633	headache
+T86	Sign_symptom 1648 1666	consciousness loss
+T88	Sign_symptom 1681 1687	nausea
+T89	Sign_symptom 1692 1700	vomiting
+T90	Sign_symptom 1713 1722	confusion
+T91	Sign_symptom 1740 1748	weakness
+T95	Sign_symptom 1827 1834	lesions
+T100	Sign_symptom 1865 1875	deposition
+T103	Sign_symptom 1951 1959	symptoms
+T109	Sign_symptom 2105 2113	symptoms

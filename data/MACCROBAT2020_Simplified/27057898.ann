@@ -1,0 +1,19 @@
+T1	Age 2 13	65-year-old
+T2	Sex 14 17	man
+T5	Sign_symptom 82 86	pain
+T14	Sign_symptom 339 355	T-wave inversion
+T17	Sign_symptom 421 429	stenosis
+T25	Sign_symptom 532 541	inversion
+T31	Sign_symptom 716 725	palpation
+T33	Disease_disorder 762 785	ventricular tachycardia
+T34	Sign_symptom 810 822	hypertension
+T36	Sign_symptom 835 861	blood pressure fluctuation
+T39	Disease_disorder 945 968	ventricular tachycardia
+T41	Disease_disorder 1109 1128	hypertension crisis
+T42	Sign_symptom 1037 1063	blood pressure fluctuation
+T43	Sign_symptom 1157 1161	pain
+T47	Sign_symptom 1229 1234	tumor
+T52	Sign_symptom 1309 1314	tumor
+T58	Sign_symptom 1399 1404	tumor
+T60	Disease_disorder 1469 1485	pheochromocytoma
+T64	Sign_symptom 1575 1591	T-wave inversion

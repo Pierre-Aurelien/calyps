@@ -1,0 +1,19 @@
+T1	Age 8 19	28-year-old
+T3	Sex 39 42	man
+T5	Sign_symptom 31 38	healthy
+T7	Sign_symptom 78 90	palpitations
+T12	Sign_symptom 206 213	dyspnea
+T13	Sign_symptom 261 281	regurgitation murmur
+T25	Sign_symptom 467 513	Wolff– Parkinson– White pre-excitation pattern
+T26	Disease_disorder 554 571	accessory pathway
+T30	Disease_disorder 633 650	Ebstein's anomaly
+T32	Sign_symptom 680 699	apical displacement
+T34	Disease_disorder 734 744	atrialized
+T39	Sign_symptom 911 920	elongated
+T41	Sign_symptom 969 980	rudimentary
+T46	Disease_disorder 1052 1072	patent foramen ovale
+T47	Sign_symptom 1078 1100	right-to-left shunting
+T48	Sign_symptom 1105 1112	bubbles
+T63	Disease_disorder 1528 1555	abnormal impulse conduction
+T64	Disease_disorder 1564 1574	atrialized
+T66	Sign_symptom 1631 1643	palpitations

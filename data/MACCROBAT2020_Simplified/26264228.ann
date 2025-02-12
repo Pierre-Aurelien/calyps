@@ -1,0 +1,14 @@
+T1	Age 2 13	56-year-old
+T2	Sex 14 17	man
+T5	Sign_symptom 53 62	dysphagia
+T7	Disease_disorder 116 139	squamous cell carcinoma
+T15	Sign_symptom 224 232	enlarged
+T19	Sign_symptom 279 291	continuation
+T22	Sign_symptom 350 356	defect
+T24	Sign_symptom 420 428	drainage
+T47	Sign_symptom 1128 1134	tumour
+T60	Disease_disorder 1521 1527	injury
+T64	Disease_disorder 1665 1688	squamous cell carcinoma
+T68	Sign_symptom 1708 1718	malignancy
+T73	Sign_symptom 1790 1802	asymptomatic
+T74	Disease_disorder 1824 1841	recurrent disease

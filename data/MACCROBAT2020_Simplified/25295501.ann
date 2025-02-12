@@ -1,0 +1,12 @@
+T1	Age 17 28	57-year-old
+T2	Sex 29 34	woman
+T3	Sign_symptom 69 73	mass
+T12	Disease_disorder 212 226	thyroid cancer
+T14	Disease_disorder 300 314	thyroid cancer
+T17	Sign_symptom 485 493	involved
+T38	Sign_symptom 927 931	mass
+T46	Sign_symptom 1127 1145	diminished in size
+T50	Sign_symptom 1225 1233	response
+T53	Disease_disorder 1264 1283	progressive disease
+T56	Sign_symptom 1353 1361	enlarged
+T58	Disease_disorder 1412 1426	thyroid cancer

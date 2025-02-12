@@ -1,0 +1,29 @@
+T1	Age 20 31	77-year-old
+T2	Sex 32 35	man
+T4	Disease_disorder 54 60	stroke
+T5	Disease_disorder 65 92	peripheral vascular disease
+T10	Disease_disorder 141 156	pulmonary edema
+T14	Sign_symptom 196 203	dyspnea
+T16	Sign_symptom 238 245	dyspnea
+T19	Sign_symptom 255 260	edema
+T24	Sign_symptom 304 309	rales
+T25	Sign_symptom 316 341	murmur of aortic stenosis
+T30	Disease_disorder 412 433	aortic valve stenosis
+T38	Disease_disorder 548 568	mitral regurgitation
+T40	Sign_symptom 585 592	dilated
+T46	Disease_disorder 658 673	pulmonary edema
+T49	Disease_disorder 779 802	coronary artery disease
+T60	Disease_disorder 1215 1234	significant disease
+T62	Disease_disorder 1248 1268	mitral regurgitation
+T65	Disease_disorder 1334 1354	mitral regurgitation
+T67	Sign_symptom 1395 1418	mitral annular dilation
+T68	Sign_symptom 1423 1432	tethering
+T70	Sign_symptom 1474 1481	dilated
+T124	Sign_symptom 3944 3956	asymptomatic
+T128	Disease_disorder 3995 4015	mitral regurgitation
+T130	Sign_symptom 3802 3821	shortness of breath
+T131	Sign_symptom 3788 3796	did well
+T170	Disease_disorder 3513 3533	mitral regurgitation
+T175	Sign_symptom 3681 3695	double-orifice
+T177	Sign_symptom 3544 3552	elbowing
+T179	Sign_symptom 3605 3614	tethering

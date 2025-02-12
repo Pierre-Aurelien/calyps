@@ -1,0 +1,30 @@
+T1	Age 2 13	37-year-old
+T3	Sex 31 37	female
+T4	Disease_disorder 90 101	sarcoidosis
+T9	Sign_symptom 154 173	shortness of breath
+T12	Disease_disorder 221 228	uveitis
+T14	Sign_symptom 233 245	lupus pernio
+T15	Sign_symptom 247 249	LP
+T17	Disease_disorder 304 315	sarcoidosis
+T20	Disease_disorder 375 386	sarcoidosis
+T25	Sign_symptom 499 510	involvement
+T33	Disease_disorder 618 629	sarcoidosis
+T41	Sign_symptom 929 936	dyspnea
+T43	Sign_symptom 964 971	dyspnea
+T47	Sign_symptom 1076 1097	difficulty swallowing
+T51	Sign_symptom 1172 1192	respiratory distress
+T52	Sign_symptom 1215 1234	inspiratory stridor
+T53	Sign_symptom 1239 1249	hoarseness
+T54	Sign_symptom 1293 1300	lesions
+T58	Disease_disorder 1347 1367	upper airway disease
+T62	Disease_disorder 1382 1401	respiratory failure
+T64	Disease_disorder 1464 1474	obstructed
+T45	Sign_symptom 1028 1034	hoarse
+T66	Sign_symptom 1502 1513	retroflexed
+T69	Sign_symptom 1547 1552	edema
+T79	Disease_disorder 1772 1783	obstruction
+T109	Sign_symptom 2358 2368	granulomas
+T110	Disease_disorder 2385 2396	sarcoidosis
+T123	Sign_symptom 2640 2658	respiratory issues
+T126	Sign_symptom 2720 2725	edema
+T129	Disease_disorder 2801 2808	obscure

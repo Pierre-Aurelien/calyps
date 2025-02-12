@@ -1,0 +1,26 @@
+T1	Age 2 13	57-year-old
+T3	Sex 21 24	man
+T4	Disease_disorder 30 45	Crohn's disease
+T5	Disease_disorder 47 49	CD
+T10	Disease_disorder 122 146	nonmelanoma skin cancers
+T11	Disease_disorder 148 153	NMSCs
+T18	Disease_disorder 347 351	NMSC
+T27	Disease_disorder 467 469	CD
+T38	Disease_disorder 668 672	NMSC
+T39	Disease_disorder 682 705	squamous cell carcinoma
+T41	Disease_disorder 707 710	SCC
+T43	Disease_disorder 724 744	basal cell carcinoma
+T44	Disease_disorder 746 749	BCC
+T52	Sign_symptom 890 897	lesions
+T54	Disease_disorder 912 922	malignancy
+T58	Sign_symptom 1002 1009	lesions
+T59	Disease_disorder 1013 1017	NMCS
+T62	Disease_disorder 1027 1030	SCC
+T64	Disease_disorder 1043 1046	BCC
+T66	Disease_disorder 1074 1078	SCCs
+T72	Disease_disorder 1168 1180	skin cancers
+T73	Sign_symptom 1249 1256	lesions
+T78	Sign_symptom 1355 1361	esions
+T108	Disease_disorder 1901 1903	CD
+T112	Disease_disorder 2033 2047	adenocarcinoma
+T117	Sign_symptom 454 461	lesions

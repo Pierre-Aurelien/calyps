@@ -1,0 +1,23 @@
+T1	Age 2 15	36- year- old
+T3	Sex 22 27	woman
+T20	Sign_symptom 460 471	hypotensive
+T31	Sign_symptom 628 634	nausea
+T32	Sign_symptom 647 655	dyspnoea
+T33	Sign_symptom 660 672	palpitations
+T35	Sign_symptom 698 709	tachycardia
+T36	Sign_symptom 727 741	extra systoles
+T37	Sign_symptom 756 761	rales
+T51	Sign_symptom 1021 1051	deterioration of consciousness
+T58	Disease_disorder 1166 1186	pulmonary congestion
+T60	Disease_disorder 1227 1252	pulmonary thromboembolism
+T61	Disease_disorder 1254 1256	PE
+T62	Disease_disorder 1279 1295	pulmonary oedema
+T72	Sign_symptom 1505 1522	sinus tachycardia
+T73	Sign_symptom 1528 1549	ST- segment elevation
+T75	Sign_symptom 1565 1581	negative T waves
+T77	Sign_symptom 1593 1615	ST- segment depression
+T95	Disease_disorder 1877 1897	systolic dysfunction
+T102	Sign_symptom 2025 2036	hypokinesis
+T112	Disease_disorder 2266 2280	cardiomyopathy
+T132	Sign_symptom 2701 2713	asymptomatic
+T133	Sign_symptom 2722 2753	echocardiographic abnormalities

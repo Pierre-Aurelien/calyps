@@ -1,0 +1,12 @@
+T1	Age 2 13	29-year-old
+T3	Sign_symptom 101 105	pain
+T16	Disease_disorder 289 303	HELLP syndrome
+T17	Sign_symptom 329 337	hematoma
+T24	Disease_disorder 508 537	sexually transmitted diseases
+T25	Disease_disorder 541 568	pelvic inflammatory disease
+T26	Disease_disorder 569 574	(PID)
+T31	Sign_symptom 688 695	density
+T34	Sign_symptom 783 804	perihepatic adhesions
+T38	Sign_symptom 931 939	adhesion
+T51	Sign_symptom 1293 1301	symptoms
+T52	Sex 14 23	primipara

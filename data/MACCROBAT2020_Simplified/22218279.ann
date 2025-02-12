@@ -1,0 +1,17 @@
+T1	Age 2 13	26-year-old
+T2	Sex 14 17	man
+T5	Sign_symptom 125 136	hemiparesis
+T6	Disease_disorder 141 148	aphasia
+T7	Disease_disorder 173 180	aphasia
+T8	Sign_symptom 216 234	paraphrasic errors
+T13	Sign_symptom 182 205	word-finding difficulty
+T15	Sign_symptom 282 290	weakness
+T22	Sign_symptom 337 346	dysmetria
+T34	Sign_symptom 530 540	structures
+T42	Disease_disorder 646 671	Balo concentric sclerosis
+T43	Sign_symptom 720 727	lesions
+T44	Sign_symptom 765 771	lesion
+T71	Disease_disorder 1088 1103	speech deficits
+T78	Sign_symptom 1246 1263	positional tremor
+T88	Disease_disorder 1395 1423	clinically isolated syndrome
+T112	Sign_symptom 2132 2140	material

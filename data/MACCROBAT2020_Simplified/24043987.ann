@@ -1,0 +1,26 @@
+T1	Age 2 13	24-year-old
+T3	Sex 20 24	male
+T20	Sign_symptom 274 298	reduced effort tolerance
+T23	Sign_symptom 441 453	asymptomatic
+T25	Sign_symptom 491 502	tachypnoeic
+T26	Sign_symptom 527 542	finger clubbing
+T27	Disease_disorder 556 568	hypertension
+T38	Disease_disorder 734 746	lung disease
+T66	Sign_symptom 1205 1214	opacities
+T72	Sign_symptom 1398 1407	opacities
+T74	Sign_symptom 1372 1380	obscured
+T79	Sign_symptom 1504 1523	microcalcifications
+T83	Sign_symptom 1569 1579	microliths
+T85	Sign_symptom 1644 1661	septal thickening
+T86	Sign_symptom 1666 1686	ground-glass changes
+T88	Sign_symptom 1699 1713	cystic changes
+T91	Sign_symptom 1769 1786	black pleura sign
+T92	Disease_disorder 1805 1817	pneumothorax
+T93	Disease_disorder 1821 1837	pleural effusion
+T99	Disease_disorder 1974 2006	diffuse parenchymal lung disease
+T106	Disease_disorder 2210 2222	pneumothorax
+T114	Disease_disorder 2368 2371	PAM
+T115	Sign_symptom 2387 2401	calcospherites
+T117	Sign_symptom 2476 2485	congested
+T119	Sign_symptom 2502 2510	fibrosis
+T121	Sign_symptom 2516 2527	infiltrates

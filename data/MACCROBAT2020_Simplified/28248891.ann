@@ -1,0 +1,35 @@
+T2	Age 24 35	70-year-old
+T3	Sex 36 39	man
+T4	Sign_symptom 65 69	pain
+T6	Sign_symptom 71 80	dizziness
+T7	Sign_symptom 86 92	nausea
+T10	Disease_disorder 192 210	ulcerative lesions
+T15	Disease_disorder 271 287	pyloric stenosis
+T19	Disease_disorder 328 342	adenocarcinoma
+T35	Disease_disorder 661 683	gastric adenocarcinoma
+T60	Disease_disorder 1030 1052	gastric adenocarcinoma
+T64	Disease_disorder 1078 1088	metastases
+T70	Sign_symptom 1266 1295	gastrointestinal disturbances
+T78	Disease_disorder 1462 1472	metastasis
+T90	Sign_symptom 1740 1752	malnutrition
+T103	Disease_disorder 2155 2173	metastatic lesions
+T129	Disease_disorder 2821 2840	residual metastasis
+T137	Disease_disorder 2985 2992	disease
+T139	Sign_symptom 2994 3000	anemia
+T140	Sign_symptom 3005 3030	gastrointestinal symptoms
+T146	Sign_symptom 3092 3112	Hematologic toxicity
+T147	Sign_symptom 3114 3126	hypertension
+T148	Sign_symptom 3128 3145	renal dysfunction
+T149	Sign_symptom 3147 3158	proteinuria
+T150	Sign_symptom 3164 3182	hand–foot syndrome
+T160	Sign_symptom 3380 3393	abnormalities
+T162	Sign_symptom 3429 3450	difficulty swallowing
+T163	Sign_symptom 3480 3492	hematochezia
+T167	Sign_symptom 3525 3550	gastrointestinal bleeding
+T169	Sign_symptom 3573 3593	anastomotic stenosis
+T170	Disease_disorder 3601 3615	gastric cancer
+T171	Disease_disorder 3620 3642	intragastric hemorrhag
+T176	Disease_disorder 3822 3834	hemorrhaging
+T179	Sign_symptom 3909 3921	hematochezia
+T182	Disease_disorder 3975 3985	metastasis
+T187	Disease_disorder 4099 4108	infection

@@ -1,0 +1,25 @@
+T1	Age 3 14	18-year-old
+T2	Sex 15 19	male
+T3	Disease_disorder 39 79	attention-deficit hyperactivity disorder
+T4	Disease_disorder 81 85	ADHD
+T10	Sign_symptom 103 113	overweight
+T23	Sign_symptom 372 380	dyspnoea
+T24	Sign_symptom 382 391	tachypnea
+T25	Sign_symptom 393 404	tachycardia
+T26	Sign_symptom 410 418	cyanosis
+T45	Sign_symptom 641 655	enlarged heart
+T43	Sign_symptom 670 680	hemoptysis
+T48	Sign_symptom 751 759	embolism
+T49	Disease_disorder 787 804	cardiogenic shock
+T51	Sign_symptom 880 888	oliguric
+T67	Sign_symptom 1163 1194	did not show pulmonary embolism
+T69	Sign_symptom 1222 1243	biventricular failure
+T80	Sign_symptom 1477 1497	mitral regurgitation
+T97	Sign_symptom 1803 1825	pulmonary hypertension
+T100	Disease_disorder 1920 1934	cardiomyopathy
+T102	Sign_symptom 1940 1958	low output failure
+T103	Sign_symptom 1983 1990	failure
+T129	Disease_disorder 2571 2591	myocardial pathology
+T139	Sign_symptom 2780 2788	diuresis
+T146	Sign_symptom 2884 2903	behavioral problems
+T147	Sign_symptom 2908 2923	adipose stature

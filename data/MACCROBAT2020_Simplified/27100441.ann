@@ -1,0 +1,46 @@
+T2	Age 139 150	66-year-old
+T5	Sign_symptom 276 287	palpitation
+T6	Sign_symptom 289 304	chest tightness
+T7	Sign_symptom 314 322	sweating
+T9	Sign_symptom 327 333	nausea
+T10	Disease_disorder 363 369	causes
+T16	Sign_symptom 437 446	confusion
+T19	Sign_symptom 494 507	consciousness
+T20	Sign_symptom 536 544	symptoms
+T34	Sign_symptom 841 849	extended
+T41	Disease_disorder 1001 1013	hypertension
+T52	Disease_disorder 1406 1408	VT
+T59	Disease_disorder 1534 1536	VT
+T61	Sign_symptom 1578 1591	epsilon waves
+T63	Disease_disorder 1663 1665	VT
+T67	Sign_symptom 1703 1716	epsilon waves
+T69	Sign_symptom 5442 5453	palpitation
+T70	Sign_symptom 5461 5470	tightness
+T72	Sign_symptom 5480 5488	sweating
+T73	Sign_symptom 5492 5498	nausea
+T105	Sign_symptom 2379 2394	premature beats
+T108	Sign_symptom 2440 2455	premature beats
+T126	Sign_symptom 2191 2204	epsilon waves
+T128	Sign_symptom 2123 2140	T wave inversions
+T133	Sign_symptom 2311 2324	epsilon waves
+T135	Sign_symptom 2523 2536	epsilon waves
+T142	Sign_symptom 2691 2703	flat T waves
+T143	Sign_symptom 2708 2725	T wave inversions
+T144	Sign_symptom 2742 2755	epsilon waves
+T145	Sign_symptom 3420 3427	widened
+T148	Sign_symptom 3373 3381	enlarged
+T152	Sign_symptom 3434 3455	Uncoordinated motions
+T154	Sign_symptom 3553 3564	degradation
+T155	Sign_symptom 3577 3590	regurgitation
+T158	Sign_symptom 3606 3619	regurgitation
+T161	Sign_symptom 3654 3667	regurgitation
+T168	Disease_disorder 3783 3800	vascular stenosis
+T169	Disease_disorder 4008 4012	ARVC
+T189	Disease_disorder 4296 4298	VT
+T193	Sign_symptom 4494 4498	scar
+T203	Disease_disorder 4801 4803	VT
+T205	Sign_symptom 4921 4933	sinus rhythm
+T210	Sign_symptom 5014 5027	epsilon waves
+T211	Sign_symptom 5032 5049	T wave inversions
+T208	Sign_symptom 4970 4987	T wave inversions
+T214	Sign_symptom 1766 1779	epsilon waves

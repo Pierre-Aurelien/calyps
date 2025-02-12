@@ -1,0 +1,45 @@
+T1	Age 3 14	18-year-old
+T2	Sex 15 19	lady
+T5	Sign_symptom 151 164	tremulousness
+T6	Sign_symptom 58 65	swaying
+T14	Sign_symptom 211 219	weakness
+T15	Sign_symptom 223 231	numbness
+T20	Disease_disorder 379 396	diabetes mellitus
+T21	Age 410 418	20 years
+T35	Disease_disorder 723 742	saccadic intrusions
+T36	Disease_disorder 746 755	nystagmus
+T43	Sign_symptom 896 931	bilateral extensor plantar response
+T49	Sign_symptom 1016 1022	swayed
+T64	Sign_symptom 1471 1478	atrophy
+T71	Sign_symptom 1595 1618	expansion of GAA repeat
+T81	Disease_disorder 1813 1845	Ataxia with vitamin E deficiency
+T82	Sign_symptom 1899 1909	titubation
+T83	Disease_disorder 1768 1772	FRDA
+T84	Sign_symptom 1914 1926	hyperkinesia
+T85	Disease_disorder 1847 1851	AVED
+T90	Disease_disorder 2040 2070	Ataxia with oculomotor apraxia
+T91	Disease_disorder 2072 2075	AOA
+T92	Sign_symptom 2128 2155	apraxia of ocular movements
+T94	Sign_symptom 2157 2174	distal amyotrophy
+T95	Sign_symptom 2183 2217	axonal sensorimotor polyneuropathy
+T97	Sign_symptom 2220 2227	atrophy
+T99	Sign_symptom 2246 2267	involuntary movements
+T100	Disease_disorder 2270 2291	Ataxia telengiectesia
+T101	Sign_symptom 2344 2366	Muco-cutaneous markers
+T102	Sign_symptom 2383 2393	infections
+T104	Sign_symptom 2395 2417	hypogammaglobulinaemia
+T105	Sign_symptom 2422 2438	radiosensitivity
+T106	Sign_symptom 2496 2505	neoplasms
+T107	Disease_disorder 2661 2718	autosomal recessive spastic ataxia of Charlevoix-Saguenay
+T108	Disease_disorder 2723 2749	Marinesco-Sjögren syndrome
+T109	Disease_disorder 2601 2635	autosomal recessive spastic ataxia
+T110	Disease_disorder 2751 2778	Charcot-Marie-Tooth disease
+T111	Sign_symptom 2812 2823	gait ataxia
+T112	Disease_disorder 2868 2871	CMT
+T113	Sign_symptom 2935 2949	motor weakness
+T120	Sign_symptom 2951 2968	retained reflexes
+T121	Sign_symptom 2970 2998	bilaterally extensor plantar
+T122	Sign_symptom 3003 3026	pure sensory neuropathy
+T134	Sign_symptom 300 321	difficulty in walking
+T138	Disease_disorder 1685 1712	autosomal recessive ataxias
+T140	Disease_disorder 2793 2807	polyneuropathy

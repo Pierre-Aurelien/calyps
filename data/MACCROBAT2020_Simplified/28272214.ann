@@ -1,0 +1,21 @@
+T1	Age 2 13	52-year-old
+T2	Sex 14 17	man
+T4	Sign_symptom 79 85	nodule
+T16	Sign_symptom 359 372	abnormalities
+T26	Sign_symptom 604 610	lesion
+T30	Disease_disorder 688 703	malignant tumor
+T35	Disease_disorder 844 858	adenocarcinoma
+T36	Disease_disorder 860 863	ADC
+T61	Sign_symptom 1317 1321	pain
+T68	Sign_symptom 1476 1488	tender point
+T79	Sign_symptom 1751 1762	involvement
+T82	Sign_symptom 1802 1809	lesions
+T98	Disease_disorder 2078 2101	squamous cell carcinoma
+T99	Disease_disorder 2103 2106	SCC
+T103	Sign_symptom 2163 2177	L858R mutation
+T104	Sign_symptom 2195 2209	T790M mutation
+T115	Sign_symptom 2760 2766	lesion
+T122	Sign_symptom 3656 3679	skeletal-related events
+T148	Sign_symptom 3320 3329	remission
+T151	Disease_disorder 3363 3377	stable disease
+T152	Disease_disorder 3379 3381	SD

@@ -1,0 +1,47 @@
+T1	Age 2 13	26-year-old
+T2	Sex 14 19	woman
+T6	Sign_symptom 72 76	pain
+T8	Sign_symptom 81 93	hypertension
+T9	Disease_disorder 133 142	infection
+T15	Sign_symptom 248 252	pain
+T17	Sign_symptom 254 260	nausea
+T18	Sign_symptom 262 268	emesis
+T19	Sign_symptom 273 281	myalgias
+T21	Sign_symptom 341 368	cardio-respiratory symptoms
+T22	Sign_symptom 399 421	low exercise tolerance
+T27	Sign_symptom 639 651	hypertensive
+T28	Sign_symptom 669 680	tachycardic
+T29	Sign_symptom 696 699	dry
+T38	Sign_symptom 940 955	short of breath
+T39	Sign_symptom 919 928	azotaemia
+T41	Disease_disorder 889 905	volume depletion
+T45	Sign_symptom 957 965	Crackles
+T48	Sign_symptom 1123 1134	hypotension
+T56	Sign_symptom 1622 1629	anxious
+T57	Sign_symptom 1634 1645	tachycardic
+T67	Sign_symptom 1794 1800	anuric
+T70	Disease_disorder 1869 1882	kidney injury
+T88	Sign_symptom 2234 2249	lactic acidosis
+T89	Sign_symptom 2205 2226	poor tissue perfusion
+T91	Sign_symptom 2287 2300	transaminitis
+T100	Disease_disorder 2508 2519	myocarditis
+T107	Sign_symptom 2687 2699	non-oliguric
+T118	Sign_symptom 1050 1061	infiltrates
+T120	Disease_disorder 1086 1102	pulmonary oedema
+T121	Sign_symptom 1249 1266	sinus tachycardia
+T124	Sign_symptom 1302 1315	ST depression
+T130	Sign_symptom 1470 1481	hypokinesis
+T135	Sign_symptom 2788 2803	lactic acidosis
+T150	Disease_disorder 3190 3202	pancreatitis
+T151	Sign_symptom 3218 3222	mass
+T155	Sign_symptom 3123 3129	nausea
+T156	Sign_symptom 3144 3148	pain
+T160	Disease_disorder 3249 3261	pancreatitis
+T162	Sign_symptom 3280 3289	paroxysms
+T163	Sign_symptom 3293 3302	headaches
+T164	Sign_symptom 3304 3310	nausea
+T165	Sign_symptom 3312 3318	emesis
+T166	Sign_symptom 3333 3337	pain
+T168	Sign_symptom 3357 3369	hypertension
+T171	Sign_symptom 3395 3406	tachycardia
+T190	Disease_disorder 3840 3856	pheochromocytoma

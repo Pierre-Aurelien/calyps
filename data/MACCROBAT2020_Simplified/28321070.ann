@@ -1,0 +1,28 @@
+T1	Age 3 14	84-year-old
+T2	Sex 15 20	woman
+T3	Sign_symptom 54 61	dyspnea
+T6	Sign_symptom 88 92	pain
+T12	Sign_symptom 166 182	pleural effusion
+T26	Sign_symptom 471 475	mass
+T27	Sign_symptom 510 514	pain
+T29	Sign_symptom 519 545	decreased breathing sounds
+T43	Sign_symptom 809 825	pleural effusion
+T52	Sign_symptom 1009 1013	mass
+T56	Sign_symptom 1052 1063	destruction
+T58	Sign_symptom 1068 1084	pleural effusion
+T59	Sign_symptom 1090 1094	mass
+T61	Sign_symptom 1296 1304	purulent
+T62	Sign_symptom 1281 1287	serous
+T64	Sign_symptom 1166 1170	mass
+T68	Disease_disorder 1241 1257	chest wall tumor
+T69	Sign_symptom 1231 1235	mass
+T76	Sign_symptom 1475 1485	malignancy
+T81	Disease_disorder 1588 1617	diffuse large B-cell lymphoma
+T82	Disease_disorder 1619 1624	DLBCL
+T91	Sign_symptom 1793 1808	high FDG uptake
+T96	Sign_symptom 1832 1836	mass
+T98	Disease_disorder 1903 1929	primary malignant lymphoma
+T100	Sign_symptom 2122 2129	fatigue
+T101	Sign_symptom 2113 2117	pain
+T108	Sign_symptom 2328 2344	pleural effusion
+T110	Sign_symptom 2384 2388	pain

@@ -1,0 +1,29 @@
+T1	Age 2 13	50-year-old
+T2	Sex 14 18	male
+T5	Sign_symptom 72 78	nodule
+T13	Sign_symptom 237 243	lesion
+T21	Sign_symptom 337 349	hypertension
+T22	Disease_disorder 351 359	vitiligo
+T23	Disease_disorder 365 379	celiac disease
+T25	Sign_symptom 414 420	nodule
+T29	Sign_symptom 471 479	enlarged
+T34	Sign_symptom 555 561	nodule
+T38	Sign_symptom 649 656	nodules
+T43	Sign_symptom 685 693	enlarged
+T47	Sign_symptom 781 803	thyroid autoantibodies
+T61	Sign_symptom 1142 1148	lesion
+T71	Disease_disorder 1579 1581	PC
+T72	Disease_disorder 1976 1978	PC
+T83	Sign_symptom 2488 2495	lesions
+T85	Disease_disorder 2536 2540	PHPT
+T86	Disease_disorder 2551 2553	PC
+T87	Sign_symptom 2591 2596	tumor
+T102	Disease_disorder 2269 2276	disease
+T121	Sign_symptom 1659 1664	tumor
+T122	Sign_symptom 1632 1651	infiltrative growth
+T123	Sign_symptom 1670 1678	invasion
+T126	Sign_symptom 1484 1492	invasion
+T133	Sign_symptom 1185 1191	nodule
+T134	Sign_symptom 1347 1354	lesions
+T137	Sign_symptom 432 440	palpable
+T138	Sign_symptom 502 510	palpable

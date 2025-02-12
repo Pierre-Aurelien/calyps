@@ -1,0 +1,51 @@
+T1	Age 2 13	56-year-old
+T3	Sex 31 34	man
+T5	Sign_symptom 64 72	diarrhea
+T6	Sign_symptom 74 85	weight loss
+T7	Sign_symptom 99 107	jaundice
+T9	Disease_disorder 140 154	adenocarcinoma
+T11	Disease_disorder 217 223	cancer
+T13	Disease_disorder 252 262	metastases
+T19	Disease_disorder 385 399	adenocarcinoma
+T27	Sign_symptom 499 518	neoplastic invasion
+T29	Sign_symptom 608 614	cancer
+T41	Sign_symptom 831 841	recurrence
+T47	Sign_symptom 987 994	dyspnea
+T49	Sign_symptom 1009 1018	orthopnea
+T51	Sign_symptom 1041 1048	dyspnea
+T54	Sign_symptom 1053 1060	fatigue
+T60	Sign_symptom 1180 1185	rales
+T62	Sign_symptom 1201 1206	edema
+T68	Sign_symptom 1266 1279	gallop rhythm
+T69	Sign_symptom 1318 1324	murmur
+T76	Sign_symptom 1363 1375	cardiomegaly
+T77	Disease_disorder 1416 1432	pleural effusion
+T81	Disease_disorder 1519 1543	congestive heart failure
+T82	Disease_disorder 1545 1548	CHF
+T83	Sign_symptom 1491 1505	fluid overload
+T87	Sign_symptom 1632 1640	symptoms
+T93	Sign_symptom 1803 1814	hypokinesia
+T95	Sign_symptom 1835 1855	mitral regurgitation
+T98	Sign_symptom 1918 1958	risk factors for coronary artery disease
+T99	Disease_disorder 1935 1958	coronary artery disease
+T100	Disease_disorder 1960 1963	CAD
+T101	Disease_disorder 1978 1992	cardiomyopathy
+T102	Disease_disorder 1994 1997	CMP
+T104	Disease_disorder 2036 2039	CMP
+T116	Sign_symptom 2261 2270	euvolemic
+T120	Sign_symptom 2439 2447	ischemia
+T121	Disease_disorder 2462 2465	CMP
+T124	Sign_symptom 2560 2570	recurrence
+T128	Sign_symptom 2723 2729	defect
+T130	Sign_symptom 2761 2769	ischemia
+T137	Sign_symptom 2869 2880	hypokinesia
+T143	Disease_disorder 2986 2989	CHF
+T158	Disease_disorder 3269 3272	CMP
+T162	Disease_disorder 3369 3386	pancreatic cancer
+T163	Sign_symptom 3351 3361	recurrence
+T164	Disease_disorder 3518 3532	cardiomyopathy
+T169	Sign_symptom 3696 3725	risk factors for ischemic CMP
+T170	Disease_disorder 3747 3750	CAD
+T172	Sign_symptom 3770 3781	hypokinesia
+T175	Sign_symptom 3805 3813	ischemia
+T181	Disease_disorder 3945 3959	cardiomyopathy

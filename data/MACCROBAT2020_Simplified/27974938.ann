@@ -1,0 +1,37 @@
+T1	Age 4 15	21-year-old
+T10	Sign_symptom 82 88	nausea
+T11	Sign_symptom 90 98	numbness
+T13	Sign_symptom 118 143	incoordination of walking
+T14	Sign_symptom 148 158	dysarthria
+T16	Sign_symptom 169 183	symptomatology
+T19	Sign_symptom 249 255	nausea
+T20	Sign_symptom 307 315	headache
+T21	Sign_symptom 324 328	pain
+T23	Sign_symptom 333 338	vomit
+T25	Sign_symptom 369 377	numbness
+T27	Sign_symptom 404 429	incoordination of walking
+T29	Sign_symptom 442 452	dysarthria
+T35	Sign_symptom 895 906	hypodensity
+T43	Sign_symptom 1063 1086	widened projection area
+T45	Sign_symptom 1124 1151	other pathological findings
+T52	Sign_symptom 1365 1373	vomiting
+T67	Sign_symptom 1583 1597	carotid bruits
+T73	Sign_symptom 1730 1740	strabismus
+T76	Sign_symptom 1769 1778	nystagmus
+T79	Disease_disorder 1805 1812	paresis
+T83	Disease_disorder 1830 1836	ataxia
+T86	Sign_symptom 1891 1899	numbness
+T91	Sign_symptom 1974 1987	Babinski sign
+T114	Sign_symptom 2594 2605	hypodensity
+T128	Sign_symptom 3021 3028	lesions
+T129	Sign_symptom 2886 2904	accentuated aspect
+T133	Sign_symptom 3032 3089	modifications of the trajectories or the arterial caliber
+T134	Disease_disorder 3129 3139	dissection
+T144	Sign_symptom 3319 3343	restriction of diffusion
+T152	Sign_symptom 3584 3599	ischemic aspect
+T166	Sign_symptom 3967 3976	pinch out
+T176	Disease_disorder 4162 4172	dissection
+T187	Sign_symptom 4386 4393	lesions
+T190	Disease_disorder 4468 4478	dissection
+T209	Sign_symptom 5060 5080	autonomy in movement
+T210	Disease_disorder 5086 5092	ataxia

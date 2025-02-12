@@ -1,0 +1,26 @@
+T1	Age 2 13	25-year-old
+T2	Sex 14 20	female
+T3	Disease_disorder 52 63	visual loss
+T5	Disease_disorder 68 78	amenorrhea
+T7	Disease_disorder 119 130	hemiparesis
+T10	Sign_symptom 174 182	symptoms
+T12	Sign_symptom 184 192	drooping
+T14	Disease_disorder 239 249	hemianopia
+T20	Sign_symptom 317 322	tumor
+T53	Sign_symptom 931 936	tumor
+T56	Sign_symptom 978 987	edematous
+T59	Sign_symptom 1014 1018	mass
+T60	Sign_symptom 1027 1034	regress
+T69	Sign_symptom 1231 1239	enlarged
+T72	Sign_symptom 1257 1268	obstruction
+T78	Sign_symptom 1472 1477	tumor
+T80	Sign_symptom 1493 1504	attachments
+T84	Sign_symptom 1571 1582	mass effect
+T93	Sign_symptom 1853 1861	regrowth
+T94	Sign_symptom 1873 1883	metastasis
+T106	Sign_symptom 2072 2085	spindle cells
+T113	Sign_symptom 2303 2323	nuclear pleomorphism
+T114	Sign_symptom 2368 2385	high mitotic rate
+T115	Sign_symptom 2390 2398	necrosis
+T116	Sign_symptom 2436 2450	fibrous change
+T148	Disease_disorder 3093 3110	pituitary adenoma

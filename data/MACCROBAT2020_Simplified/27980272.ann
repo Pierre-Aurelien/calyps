@@ -1,0 +1,41 @@
+T1	Age 2 13	76-year-old
+T3	Sex 23 26	man
+T4	Sign_symptom 45 63	decreased appetite
+T5	Sign_symptom 65 71	nausea
+T6	Sign_symptom 87 97	distension
+T21	Disease_disorder 371 380	gastritis
+T36	Sign_symptom 638 646	symptoms
+T64	Sign_symptom 1452 1464	heart murmur
+T65	Sign_symptom 1466 1483	third heart sound
+T66	Sign_symptom 1502 1512	distension
+T68	Sign_symptom 1548 1553	edema
+T72	Sign_symptom 1614 1623	nystagmus
+T75	Sign_symptom 1644 1669	reduced tactile sensation
+T77	Sign_symptom 1682 1693	nociception
+T88	Sign_symptom 1871 1884	Confabulation
+T123	Sign_symptom 2613 2633	pulmonary congestion
+T124	Disease_disorder 2637 2653	pleural effusion
+T128	Sign_symptom 2759 2775	hyperintensities
+T130	Disease_disorder 2796 2819	Wernicke encephalopathy
+T131	Sign_symptom 2854 2865	tachycardia
+T133	Sign_symptom 2889 2900	hypotension
+T134	Disease_disorder 2934 2947	heart failure
+T135	Sign_symptom 2951 2962	dehydration
+T136	Disease_disorder 3008 3029	vitamin B1 deficiency
+T141	Sign_symptom 3207 3223	loss of appetite
+T142	Sign_symptom 3225 3231	nausea
+T143	Sign_symptom 3237 3253	gait disturbance
+T146	Sign_symptom 3306 3315	Nystagmus
+T148	Sign_symptom 3383 3397	confabulations
+T154	Sign_symptom 3482 3507	gastrointestinal symptoms
+T162	Sign_symptom 3699 3717	decreased appetite
+T163	Sign_symptom 3722 3728	nausea
+T164	Sign_symptom 3749 3757	diarrhea
+T192	Sign_symptom 4265 4279	Hyperchloremia
+T212	Sign_symptom 4716 4732	absence of HCO3-
+T218	Disease_disorder 4956 4985	intestinal pseudo-obstruction
+T219	Sign_symptom 4865 4873	dilation
+T223	Sign_symptom 5023 5029	nausea
+T224	Sign_symptom 5034 5055	body weight decreases
+T228	Sign_symptom 5155 5167	inflammation
+T229	Sign_symptom 5215 5229	fold structure

@@ -1,0 +1,25 @@
+T1	Age 3 14	81-year-old
+T2	Sex 15 21	female
+T3	Sign_symptom 27 39	hypertension
+T4	Disease_disorder 44 48	gout
+T9	Sign_symptom 117 121	pain
+T11	Sign_symptom 126 137	hematemesis
+T12	Sign_symptom 177 190	epigastralgia
+T15	Sign_symptom 234 239	tumor
+T18	Sign_symptom 265 269	pain
+T26	Sign_symptom 382 387	tumor
+T32	Sign_symptom 546 557	tarry stool
+T33	Sign_symptom 581 595	bloody vomitus
+T36	Sign_symptom 657 662	tumor
+T43	Sign_symptom 777 787	tenderness
+T45	Sign_symptom 805 813	guarding
+T50	Sign_symptom 863 876	calcification
+T54	Sign_symptom 929 934	ulcer
+T55	Sign_symptom 940 952	foreign body
+T58	Sign_symptom 1007 1013	lesion
+T62	Sign_symptom 1078 1086	free air
+T66	Sign_symptom 1207 1211	mass
+T70	Sign_symptom 1310 1325	calcified plate
+T76	Sign_symptom 1415 1420	tumor
+T87	Sign_symptom 1672 1683	tumor cells
+T102	Disease_disorder 1967 1971	GIST

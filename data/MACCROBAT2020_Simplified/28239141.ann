@@ -1,0 +1,21 @@
+T1	Age 2 13	58-year-old
+T4	Sex 29 33	male
+T8	Sign_symptom 97 106	confusion
+T9	Sign_symptom 108 122	disorientation
+T10	Sign_symptom 124 150	inability to walk steadily
+T11	Sign_symptom 156 167	dehydration
+T12	Sign_symptom 196 204	weakness
+T13	Sign_symptom 206 214	polyuria
+T14	Sign_symptom 220 230	polydipsia
+T17	Disease_disorder 282 285	CML
+T27	Sign_symptom 313 335	hematological response
+T41	Sign_symptom 697 708	dehydration
+T40	Sign_symptom 671 692	altered mental status
+T86	Sign_symptom 1402 1409	lesions
+T89	Sign_symptom 1414 1430	bone destruction
+T91	Sign_symptom 1499 1522	bone marrow involvement
+T92	Sign_symptom 1641 1652	blast phase
+T93	Disease_disorder 1592 1595	CML
+T94	Sign_symptom 1607 1620	hypercalcemia
+T107	Sign_symptom 1905 1913	symptoms
+T119	Disease_disorder 2192 2198	cancer

@@ -1,0 +1,38 @@
+T1	Age 2 13	69-year-old
+T2	Sex 14 19	woman
+T4	Disease_disorder 38 50	hypertension
+T5	Sign_symptom 90 94	rash
+T6	Sign_symptom 99 118	shortness of breath
+T12	Sign_symptom 272 279	dyspnea
+T21	Sign_symptom 355 360	fever
+T22	Sign_symptom 362 370	headache
+T23	Sign_symptom 372 381	dizziness
+T24	Sign_symptom 383 393	hemoptysis
+T25	Sign_symptom 398 406	bleeding
+T36	Sign_symptom 703 711	afebrile
+T37	Sign_symptom 713 725	normotensive
+T38	Sign_symptom 736 745	tachypnea
+T42	Sign_symptom 841 845	rash
+T49	Sign_symptom 949 957	crackles
+T57	Sign_symptom 1063 1078	lymphadenopathy
+T58	Sign_symptom 1082 1095	visceromegaly
+T60	Sign_symptom 1129 1145	thrombocytopenia
+T61	Sign_symptom 1167 1173	anemia
+T62	Sign_symptom 1222 1234	leukocytosis
+T74	Disease_disorder 1324 1362	disseminated intravascular coagulation
+T88	Sign_symptom 1585 1607	airspace consolidation
+T95	Sign_symptom 1726 1735	opacities
+T96	Sign_symptom 1747 1758	infiltrates
+T106	Sign_symptom 1939 1951	schistocytes
+T107	Sign_symptom 1914 1929	platelet clumps
+T108	Sign_symptom 1877 1892	giant platelets
+T115	Sign_symptom 2038 2045	lesions
+T119	Sign_symptom 2104 2115	hemorrhagic
+T120	Disease_disorder 2159 2162	DAH
+T123	Sign_symptom 2239 2250	macrophages
+T129	Sign_symptom 2368 2384	thrombocytopenia
+T131	Sign_symptom 2389 2396	hypoxia
+T138	Sign_symptom 2547 2558	improvement
+T144	Disease_disorder 2741 2744	ITP
+T145	Sign_symptom 2684 2700	thrombocytopenia
+T149	Sign_symptom 2850 2861	infiltrates

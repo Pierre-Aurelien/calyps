@@ -1,0 +1,24 @@
+T1	Age 8 21	aged 31 years
+T2	Sex 2 7	woman
+T16	Sign_symptom 229 239	amenorrhea
+T20	Sign_symptom 319 331	hypertensive
+T27	Sign_symptom 488 496	headache
+T29	Sign_symptom 502 510	apyrexia
+T30	Sign_symptom 574 585	convulsions
+T34	Sign_symptom 595 605	convulsion
+T41	Sign_symptom 733 741	afebrile
+T46	Sign_symptom 830 850	neurological deficit
+T47	Sign_symptom 870 878	rigidity
+T49	Sign_symptom 880 888	diuresis
+T53	Sign_symptom 985 1002	convulsive crisis
+T55	Disease_disorder 1067 1081	HELLP syndrome
+T63	Sign_symptom 1146 1155	hemolysis
+T73	Sign_symptom 2568 2573	edema
+T80	Sign_symptom 1157 1171	hemoglobinemia
+T100	Sign_symptom 1619 1625	anemia
+T101	Sign_symptom 1630 1642	thrombopenia
+T106	Sign_symptom 1822 1827	zones
+T114	Sign_symptom 2006 2015	permeable
+T116	Disease_disorder 2038 2051	PRES syndrome
+T117	Disease_disorder 2076 2088	preeclampsia
+T125	Sign_symptom 2209 2216	anomaly

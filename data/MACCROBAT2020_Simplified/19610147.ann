@@ -1,0 +1,30 @@
+T1	Age 2 13	46-year-old
+T2	Sex 14 19	woman
+T6	Sign_symptom 48 52	pain
+T11	Sign_symptom 157 165	mucocele
+T13	Sign_symptom 213 219	lesion
+T28	Sign_symptom 639 650	perforation
+T29	Sign_symptom 652 665	extravasation
+T32	Disease_disorder 711 733	pseudomyxoma peritonei
+T34	Disease_disorder 796 799	GCC
+T35	Disease_disorder 804 807	MCA
+T38	Sign_symptom 874 881	dilated
+T40	Sign_symptom 895 911	mucin-containing
+T41	Sign_symptom 976 992	cytologic atypia
+T42	Sign_symptom 1001 1016	mitotic figures
+T43	Sign_symptom 1034 1064	Focal papillary configurations
+T45	Sign_symptom 1100 1131	epithelial pseudostratification
+T47	Sign_symptom 1199 1219	glandular structures
+T56	Sign_symptom 1479 1497	cytonuclear atypia
+T62	Sign_symptom 1628 1649	hyperchromatic nuclei
+T68	Sign_symptom 1759 1774	focally present
+T73	Sign_symptom 1975 1983	invasion
+T75	Sign_symptom 2021 2029	invasion
+T76	Sign_symptom 1807 1818	tumor nests
+T79	Disease_disorder 1918 1921	MCA
+T85	Disease_disorder 2221 2231	malignancy
+T90	Sign_symptom 2271 2282	tumor cells
+T91	Disease_disorder 2290 2293	GCC
+T104	Sign_symptom 2560 2571	tumor cells
+T105	Sign_symptom 2515 2531	nuclear staining
+T21	Sign_symptom 458 475	mucinous material

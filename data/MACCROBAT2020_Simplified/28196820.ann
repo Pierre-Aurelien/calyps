@@ -1,0 +1,19 @@
+T1	Age 2 13	3-month-old
+T19	Disease_disorder 653 664	atelectasis
+T23	Sign_symptom 4926 4938	able to walk
+T27	Disease_disorder 873 887	bronchomalacia
+T36	Disease_disorder 1161 1172	atelectasis
+T50	Sign_symptom 1620 1632	desaturation
+T51	Sign_symptom 1657 1668	bradycardia
+T52	Disease_disorder 1684 1702	bronchial collapse
+T53	Sign_symptom 1725 1735	asynchrony
+T62	Sign_symptom 2036 2058	clinical stabilisation
+T66	Sign_symptom 2248 2262	ocular flutter
+T87	Sign_symptom 2789 2820	deterioration of the Edi signal
+T89	Sign_symptom 3094 3104	Tachypnoea
+T92	Sign_symptom 3183 3200	work of breathing
+T101	Sign_symptom 3287 3296	synchrony
+T102	Sign_symptom 3547 3561	ocular flutter
+T113	Disease_disorder 3889 3907	bronchial collapse
+T128	Disease_disorder 4360 4371	atelectases
+T133	Sign_symptom 4794 4802	tolerate

@@ -1,0 +1,35 @@
+T1	Age 17 28	59-year-old
+T2	Sex 29 32	man
+T4	Disease_disorder 48 50	PD
+T14	Disease_disorder 374 391	cognitive decline
+T15	Disease_disorder 395 418	psychiatric comorbitity
+T16	Disease_disorder 446 458	brain damage
+T25	Disease_disorder 717 725	dystonia
+T28	Disease_disorder 130 141	dyskinesias
+T29	Sign_symptom 75 87	Fluctuations
+T31	Disease_disorder 4048 4050	PD
+T35	Sign_symptom 761 766	alert
+T36	Sign_symptom 779 811	signs of psychiatric comorbidity
+T39	Sign_symptom 865 879	nerve deficits
+T44	Sign_symptom 970 978	rigidity
+T52	Sign_symptom 1100 1111	Dyskinesias
+T53	Sign_symptom 1139 1149	impairment
+T58	Sign_symptom 1234 1244	dysarthria
+T59	Sign_symptom 1249 1258	dysphonia
+T61	Sign_symptom 1268 1274	tremor
+T65	Sign_symptom 1326 1332	tremor
+T69	Sign_symptom 1352 1360	Rigidity
+T82	Sign_symptom 1542 1550	freezing
+T84	Sign_symptom 1567 1585	dystonic posturing
+T87	Sign_symptom 1638 1644	spasms
+T108	Sign_symptom 2322 2330	cramping
+T111	Sign_symptom 2373 2395	difficulties breathing
+T115	Sign_symptom 2494 2513	dystonic dysarthria
+T118	Sign_symptom 2672 2679	stridor
+T124	Sign_symptom 2786 2797	tachycardia
+T127	Sign_symptom 2845 2857	unresponsive
+T136	Sign_symptom 3037 3042	spasm
+T139	Sign_symptom 3168 3177	pathology
+T141	Sign_symptom 3185 3196	air bubbles
+T159	Sign_symptom 3780 3800	neurological deficit
+T160	Sign_symptom 3823 3829	spasms

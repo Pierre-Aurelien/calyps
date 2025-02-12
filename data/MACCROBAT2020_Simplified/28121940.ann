@@ -1,0 +1,18 @@
+T1	Disease_disorder 135 140	NSCLC
+T5	Age 2 13	68-year-old
+T6	Sex 14 20	female
+T20	Sign_symptom 388 398	metastases
+T25	Sign_symptom 578 588	metastases
+T30	Sign_symptom 638 645	dyspnea
+T37	Sign_symptom 745 757	pancytopenia
+T43	Sign_symptom 893 899	lesion
+T47	Sign_symptom 960 964	pain
+T48	Sign_symptom 981 1002	inflammatory reaction
+T51	Sign_symptom 1031 1041	metastases
+T54	Sign_symptom 1108 1131	symptomatic improvement
+T55	Sign_symptom 1156 1189	improvement in general appearance
+T56	Sign_symptom 1194 1201	dyspnea
+T57	Sign_symptom 1228 1232	pain
+T60	Sign_symptom 1306 1313	lesions
+T62	Sign_symptom 1415 1422	lesions
+T68	Sign_symptom 1576 1585	pneumonia

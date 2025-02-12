@@ -1,0 +1,11 @@
+T1	Age 2 13	53 year old
+T2	Sex 14 20	female
+T4	Disease_disorder 85 94	pneumonia
+T11	Disease_disorder 175 179	ARDS
+T36	Disease_disorder 1159 1179	pericardial effusion
+T38	Sign_symptom 1078 1105	premature ventricular beats
+T47	Disease_disorder 1360 1377	cardiac tamponade
+T57	Sign_symptom 1519 1527	drainage
+T66	Disease_disorder 1733 1743	perforated
+T79	Disease_disorder 1985 1999	coagulopathies
+T84	Sign_symptom 2132 2145	complications

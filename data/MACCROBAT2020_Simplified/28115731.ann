@@ -1,0 +1,26 @@
+T1	Age 2 13	64-year-old
+T2	Sex 14 20	female
+T11	Sign_symptom 185 206	mental status changes
+T12	Sign_symptom 211 231	respiratory distress
+T13	Sign_symptom 236 243	hypoxia
+T42	Sign_symptom 778 787	lethargic
+T43	Sign_symptom 789 800	disoriented
+T44	Sign_symptom 802 814	dysarthritic
+T45	Sign_symptom 828 853	neurological focalization
+T46	Sign_symptom 865 883	expiratory wheezes
+T59	Sign_symptom 1196 1207	tachycardia
+T76	Disease_disorder 1413 1417	COPD
+T81	Sign_symptom 1516 1527	infiltrates
+T82	Sign_symptom 1541 1558	abnormal findings
+T84	Sign_symptom 1599 1610	tachycardia
+T90	Disease_disorder 1794 1802	embolism
+T99	Sign_symptom 2058 2071	amount of air
+T103	Sign_symptom 2137 2160	air mixed with contrast
+T106	Disease_disorder 2365 2380	thromboembolism
+T108	Sign_symptom 2283 2297	filling defect
+T118	Sign_symptom 2631 2651	respiratory distress
+T121	Sign_symptom 2755 2766	improvement
+T130	Disease_disorder 2985 3000	thromboembolism
+T132	Sign_symptom 3048 3081	right or left ventricular failure
+T135	Sign_symptom 3173 3176	air
+T137	Disease_disorder 3212 3220	embolism

@@ -1,0 +1,26 @@
+T1	Age 24 35	68-year-old
+T2	Sex 36 42	female
+T4	Sign_symptom 114 122	bleeding
+T6	Sign_symptom 127 131	pain
+T8	Sign_symptom 184 196	splenomegaly
+T10	Disease_disorder 210 244	portosystemic collateral formation
+T11	Sign_symptom 270 283	dilated veins
+T13	Sign_symptom 295 307	haemorrhoids
+T15	Sign_symptom 312 336	biological abnormalities
+T16	Disease_disorder 369 382	hypersplenism
+T17	Sign_symptom 384 391	anaemia
+T18	Sign_symptom 396 412	thrombocytopenia
+T21	Sign_symptom 504 511	varices
+T24	Disease_disorder 517 548	portal hypertensive gastropathy
+T25	Sign_symptom 553 562	red signs
+T27	Sign_symptom 591 610	fusiform dilatation
+T31	Sign_symptom 691 717	signs of portal thrombosis
+T35	Sign_symptom 803 837	Other signs of portal hypertension
+T36	Sign_symptom 860 872	splenomegaly
+T37	Sign_symptom 874 886	repermeation
+T39	Sign_symptom 927 949	collateral circulation
+T42	Sign_symptom 1045 1064	thin calcifications
+T45	Sign_symptom 1146 1180	Other signs of portal hypertension
+T46	Sign_symptom 1224 1231	varices
+T50	Sign_symptom 1242 1264	collateral circulation
+T53	Disease_disorder 1305 1320	Liver cirrhosis

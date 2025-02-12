@@ -1,0 +1,46 @@
+T2	Age 17 28	21-year-old
+T3	Sex 29 32	man
+T6	Sign_symptom 99 104	fever
+T8	Sign_symptom 106 114	headache
+T9	Sign_symptom 116 131	polyarthralgias
+T10	Sign_symptom 138 142	rash
+T13	Sign_symptom 163 172	petechiae
+T14	Sign_symptom 226 233	healthy
+T20	Sign_symptom 446 451	fever
+T26	Sign_symptom 527 536	headaches
+T29	Sign_symptom 562 572	arthralgia
+T41	Sign_symptom 753 757	rash
+T45	Sign_symptom 629 638	petechiae
+T48	Sign_symptom 682 686	rash
+T51	Sign_symptom 701 707	nausea
+T52	Sign_symptom 713 721	vomiting
+T56	Sign_symptom 806 815	petechiae
+T59	Disease_disorder 870 879	arthritis
+T60	Sign_symptom 898 913	lymphadenopathy
+T61	Sign_symptom 917 935	hepatosplenomegaly
+T73	Sign_symptom 1152 1163	symptomatic
+T89	Sign_symptom 1538 1558	pericardial effusion
+T92	Sign_symptom 1602 1611	tamponade
+T95	Sign_symptom 1684 1688	pain
+T96	Sign_symptom 1658 1665	dyspnea
+T100	Sign_symptom 1704 1708	pain
+T106	Sign_symptom 1815 1826	hypotensive
+T107	Sign_symptom 1828 1839	tachycardic
+T108	Sign_symptom 1845 1855	hyperpneic
+T109	Sign_symptom 1890 1900	distention
+T112	Sign_symptom 1947 1967	ST-segment elevation
+T113	Sign_symptom 1923 1934	tachycardia
+T118	Sign_symptom 2010 2018	enlarged
+T123	Sign_symptom 2147 2167	pericardial effusion
+T125	Sign_symptom 2206 2214	collapse
+T129	Sign_symptom 2290 2311	serosanguineous fluid
+T134	Sign_symptom 2392 2408	pleural effusion
+T135	Sign_symptom 2426 2433	ascites
+T142	Sign_symptom 2494 2523	serosanguineous pleural fluid
+T151	Disease_disorder 2691 2695	AOSD
+T156	Sign_symptom 2809 2820	improvement
+T157	Sign_symptom 2848 2872	ST-segment normalization
+T160	Sign_symptom 2924 2944	pericardial effusion
+T162	Disease_disorder 2963 2985	hemodynamic compromise
+T164	Disease_disorder 3027 3036	disorders
+T167	Sign_symptom 3213 3221	effusion

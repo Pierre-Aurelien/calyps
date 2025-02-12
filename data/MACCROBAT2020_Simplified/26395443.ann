@@ -1,0 +1,18 @@
+T1	Age 43 54	28-year-old
+T2	Sex 55 60	woman
+T9	Sign_symptom 278 282	pain
+T10	Sign_symptom 284 292	jaundice
+T11	Sign_symptom 294 300	nausea
+T12	Sign_symptom 305 313	vomiting
+T13	Disease_disorder 332 346	encephalopathy
+T25	Sign_symptom 462 472	dehydrated
+T64	Sign_symptom 963 981	fatty infiltration
+T72	Disease_disorder 1113 1124	hypothermia
+T74	Disease_disorder 1157 1161	AFLP
+T81	Sign_symptom 1442 1462	hypocoagulable state
+T87	Disease_disorder 1507 1548	impairment in fibrinogen function quality
+T88	Disease_disorder 1576 1605	coagulation factor deficiency
+T114	Sign_symptom 2146 2154	bleeding
+T126	Sign_symptom 2439 2460	hypocoagulation state
+T131	Sign_symptom 2533 2539	stable
+T132	Sign_symptom 2549 2557	bleeding

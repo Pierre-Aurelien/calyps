@@ -1,0 +1,27 @@
+T1	Age 2 13	34-year-old
+T3	Sex 23 27	male
+T8	Sign_symptom 123 128	cough
+T9	Sign_symptom 152 158	sputum
+T11	Sign_symptom 187 192	fever
+T12	Sign_symptom 194 200	chills
+T13	Sign_symptom 202 214	night sweats
+T14	Sign_symptom 222 226	pain
+T16	Sign_symptom 228 238	hemoptysis
+T17	Sign_symptom 245 249	pain
+T23	Sign_symptom 335 346	weight loss
+T41	Sign_symptom 716 722	thrush
+T45	Sign_symptom 752 760	crackles
+T47	Sign_symptom 804 811	lesions
+T65	Sign_symptom 1122 1129	opacity
+T74	Sign_symptom 1238 1242	mass
+T76	Sign_symptom 1328 1335	lesions
+T87	Disease_disorder 1357 1367	metastasis
+T93	Disease_disorder 1421 1433	Tuberculosis
+T103	Disease_disorder 1575 1603	human immunodeficiency virus
+T104	Disease_disorder 1605 1608	HIV
+T119	Sign_symptom 1917 1921	mass
+T121	Sign_symptom 1940 1953	spindle cells
+T130	Disease_disorder 2046 2048	KS
+T137	Sign_symptom 2356 2376	clinical improvement
+T141	Sign_symptom 2440 2450	regression
+T142	Sign_symptom 2500 2507	lesions

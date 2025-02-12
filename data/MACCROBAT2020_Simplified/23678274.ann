@@ -1,0 +1,37 @@
+T1	Age 2 14	14-month-old
+T2	Sex 15 18	boy
+T6	Sign_symptom 81 88	dilated
+T7	Sign_symptom 93 106	hypertrophied
+T10	Sign_symptom 128 139	neutropenia
+T11	Disease_disorder 145 164	developmental delay
+T18	Sign_symptom 307 319	irritability
+T22	Sign_symptom 347 359	cardiomegaly
+T31	Sign_symptom 577 595	feeding difficulty
+T32	Sign_symptom 600 619	developmental delay
+T36	Disease_disorder 708 717	infection
+T46	Disease_disorder 469 480	myocarditis
+T58	Sign_symptom 1212 1224	heart murmur
+T59	Sign_symptom 1259 1267	palpable
+T61	Sign_symptom 1295 1306	neutropenia
+T74	Sign_symptom 1524 1536	cardiomegaly
+T83	Sign_symptom 1686 1699	hypertrophied
+T84	Sign_symptom 1674 1681	dilated
+T85	Sign_symptom 1719 1732	hypertrophied
+T86	Sign_symptom 1754 1773	hyper-trabeculation
+T87	Sign_symptom 1700 1708	globular
+T90	Disease_disorder 1813 1827	non-compaction
+T93	Disease_disorder 3406 3419	heart failure
+T94	Disease_disorder 3361 3379	metabolic acidosis
+T102	Disease_disorder 3505 3519	Barth syndrome
+T103	Disease_disorder 3551 3565	cardiomyopathy
+T104	Sign_symptom 3567 3578	neutropenia
+T105	Disease_disorder 3584 3603	developmental delay
+T127	Sign_symptom 2060 2073	hypertrophied
+T128	Sign_symptom 2048 2055	dilated
+T135	Sign_symptom 2194 2205	abnormality
+T141	Sign_symptom 2337 2342	fever
+T142	Sign_symptom 2375 2383	diarrhea
+T144	Disease_disorder 2417 2435	metabolic acidosis
+T157	Sign_symptom 2622 2642	respiratory symptoms
+T175	Disease_disorder 2975 2993	metabolic acidosis
+T176	Sign_symptom 2998 3020	respiratory difficulty

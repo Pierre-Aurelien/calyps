@@ -1,0 +1,18 @@
+T1	Age 18 27	34-yr-old
+T2	Sex 28 31	man
+T4	Sign_symptom 65 70	fever
+T5	Sign_symptom 85 90	cough
+T9	Disease_disorder 139 151	tuberculosis
+T15	Sign_symptom 241 248	nodules
+T24	Sign_symptom 376 379	LCH
+T44	Sign_symptom 713 756	no other organs were thought to be involved
+T46	Sign_symptom 827 831	well
+T50	Sign_symptom 933 937	mass
+T55	Sign_symptom 995 1002	nodules
+T58	Sign_symptom 1064 1088	possibility of a sarcoma
+T64	Sign_symptom 1192 1196	mass
+T67	Sign_symptom 1253 1260	nodules
+T88	Sign_symptom 1811 1822	typical LCH
+T107	Sign_symptom 2178 2220	failed to demonstrate any Birbeck granules
+T110	Sign_symptom 2245 2256	tumor cells
+T114	Sign_symptom 2326 2374	no significant change in the radiologic findings

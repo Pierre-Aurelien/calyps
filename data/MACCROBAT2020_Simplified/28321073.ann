@@ -1,0 +1,28 @@
+T1	Age 2 13	65-year-old
+T2	Sex 14 17	man
+T7	Sign_symptom 122 128	shadow
+T17	Sign_symptom 301 305	mass
+T23	Sign_symptom 456 466	metastasis
+T26	Disease_disorder 499 515	pleural effusion
+T28	Sign_symptom 553 559	tumors
+T36	Sign_symptom 712 721	distorted
+T53	Sign_symptom 956 981	coagulation abnormalities
+T56	Disease_disorder 1104 1124	small cell carcinoma
+T57	Sign_symptom 1037 1042	tumor
+T70	Sign_symptom 1537 1547	discomfort
+T73	Sign_symptom 1576 1587	tachycardia
+T75	Sign_symptom 1615 1626	hypotension
+T78	Sign_symptom 1683 1689	anemia
+T88	Sign_symptom 1891 1902	enlargement
+T90	Sign_symptom 1914 1919	tumor
+T93	Sign_symptom 1962 1980	high-density areas
+T96	Sign_symptom 2028 2035	ascites
+T98	Sign_symptom 2103 2113	metastasis
+T101	Sign_symptom 2141 2148	ascites
+T105	Sign_symptom 2215 2228	extravasation
+T108	Sign_symptom 2372 2385	extravasation
+T109	Sign_symptom 2325 2338	tumor vessels
+T128	Sign_symptom 3123 3134	tachycardia
+T129	Sign_symptom 3156 3162	anemia
+T130	Sign_symptom 3228 3239	dysfunction
+T142	Sign_symptom 3503 3510	lesions

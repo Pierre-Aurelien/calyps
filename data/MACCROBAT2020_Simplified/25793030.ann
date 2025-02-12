@@ -1,0 +1,26 @@
+T1	Age 25 36	66-year-old
+T2	Sex 37 43	female
+T5	Sign_symptom 115 119	pain
+T13	Disease_disorder 296 317	myocardial infarction
+T19	Sign_symptom 448 456	occluded
+T23	Sign_symptom 497 506	supplying
+T24	Sign_symptom 567 575	did well
+T27	Disease_disorder 634 651	cardiogenic shock
+T31	Disease_disorder 749 769	mitral regurgitation
+T33	Disease_disorder 777 785	ruptured
+T37	Sign_symptom 848 860	deteriorated
+T39	Sign_symptom 886 894	acidosis
+T40	Sign_symptom 896 904	oliguria
+T41	Sign_symptom 927 932	edema
+T47	Disease_disorder 1080 1100	mitral regurgitation
+T49	Disease_disorder 1108 1116	ruptured
+T51	Sign_symptom 1154 1159	small
+T54	Sign_symptom 1238 1246	acidosis
+T63	Sign_symptom 1448 1456	necrotic
+T64	Disease_disorder 1457 1465	ruptured
+T62	Sign_symptom 1552 1560	attached
+T71	Sign_symptom 1679 1685	intact
+T79	Sign_symptom 1888 1896	recovery
+T84	Disease_disorder 1969 1978	pneumonia
+T85	Disease_disorder 1998 2004	sepsis
+T86	Disease_disorder 2010 2028	multiorgan failure

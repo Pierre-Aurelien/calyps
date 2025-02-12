@@ -1,0 +1,15 @@
+T1	Age 2 13	77-year-old
+T2	Sex 14 19	woman
+T4	Sign_symptom 25 34	dysphagia
+T6	Sign_symptom 72 76	rash
+T7	Sign_symptom 100 107	plaques
+T12	Sign_symptom 281 292	involvement
+T21	Disease_disorder 406 415	infection
+T22	Disease_disorder 462 483	drug hypersensitivity
+T23	Disease_disorder 485 505	autoimmune disorders
+T24	Disease_disorder 510 532	nutritional deficiency
+T25	Sign_symptom 538 542	rash
+T26	Disease_disorder 579 607	acrodermatitis enteropathica
+T27	Disease_disorder 635 650	zinc deficiency
+T28	Sign_symptom 613 621	eruption
+T32	Sign_symptom 720 724	rash

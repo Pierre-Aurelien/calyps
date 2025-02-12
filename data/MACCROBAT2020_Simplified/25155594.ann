@@ -1,0 +1,15 @@
+T1	Age 2 13	20-year-old
+T2	Sex 14 18	male
+T11	Disease_disorder 327 351	pancreatic insufficiency
+T12	Sign_symptom 327 351	pancreatic insufficiency
+T13	Disease_disorder 483 505	respiratory infections
+T20	Disease_disorder 400 408	diabetes
+T23	Disease_disorder 410 433	end-stage renal disease
+T25	Disease_disorder 439 456	testicular cancer
+T28	Disease_disorder 559 563	MRSA
+T29	Disease_disorder 519 547	multidrug-resistant bacteria
+T37	Disease_disorder 812 822	infections
+T40	Disease_disorder 833 837	MRSA
+T41	Disease_disorder 842 884	multidrug-resistant Pseudomonas aeruginosa
+T56	Disease_disorder 1169 1173	MRSA
+T77	Disease_disorder 1518 1527	S. aureus

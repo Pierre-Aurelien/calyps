@@ -1,0 +1,13 @@
+T1	Age 2 13	69-year-old
+T2	Sex 14 18	male
+T5	Disease_disorder 60 89	left ventricular (LV) failure
+T9	Sign_symptom 168 173	edema
+T12	Sign_symptom 194 206	crepitations
+T21	Disease_disorder 316 339	acute coronary syndrome
+T24	Disease_disorder 401 414	heart failure
+T28	Sign_symptom 471 495	dilated cardiac chambers
+T36	Disease_disorder 703 724	triple vessel disease
+T38	Disease_disorder 740 763	coronary artery disease
+T51	Disease_disorder 1024 1045	end organ dysfunction
+T106	Sign_symptom 2407 2423	pleural drainage
+T110	Sign_symptom 2476 2492	pleural drainage

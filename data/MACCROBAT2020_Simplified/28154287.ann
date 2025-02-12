@@ -1,0 +1,43 @@
+T1	Age 2 13	73-year-old
+T2	Sex 14 17	man
+T7	Sign_symptom 157 177	respiratory distress
+T8	Sign_symptom 195 199	pain
+T14	Disease_disorder 3612 3636	ventricular fibrillation
+T24	Sign_symptom 467 475	crackles
+T55	Sign_symptom 852 866	consolidations
+T57	Sign_symptom 875 887	bronchograms
+T60	Sign_symptom 927 947	ST-segment elevation
+T61	Sign_symptom 952 975	poor R-wave progression
+T64	Sign_symptom 1022 1053	apical and ventricular asynergy
+T65	Disease_disorder 1102 1123	myocardial infarction
+T67	Disease_disorder 1139 1152	heart failure
+T71	Sign_symptom 1207 1220	angiostenosis
+T78	Disease_disorder 1370 1394	cardiorespiratory arrest
+T84	Sign_symptom 1584 1590	sputum
+T87	Sign_symptom 1624 1646	Pseudomonas aeruginosa
+T98	Sign_symptom 1902 1911	opacities
+T99	Disease_disorder 1913 1929	pleural effusion
+T100	Disease_disorder 1935 1946	atelectasis
+T105	Disease_disorder 2034 2047	pneumomycosis
+T106	Disease_disorder 2010 2032	microbial substitution
+T117	Sign_symptom 2269 2288	cryptococcal bodies
+T122	Sign_symptom 2415 2434	cryptococcal bodies
+T126	Disease_disorder 2501 2517	pleural effusion
+T128	Disease_disorder 2581 2595	cryptococcosis
+T133	Sign_symptom 2654 2666	hypertension
+T135	Disease_disorder 2679 2686	abscess
+T137	Disease_disorder 2722 2750	human immunodeficiency virus
+T138	Disease_disorder 2752 2755	HIV
+T144	Sign_symptom 2855 2861	nodule
+T147	Disease_disorder 2949 2968	cryptococcus lesion
+T156	Disease_disorder 3035 3051	pleural effusion
+T160	Sign_symptom 3145 3151	nodule
+T164	Sign_symptom 3196 3203	nodules
+T170	Disease_disorder 3367 3383	pleural effusion
+T172	Sign_symptom 3420 3438	lost consciousness
+T175	Disease_disorder 3501 3517	pleural effusion
+T177	Disease_disorder 3541 3553	CO2 narcosis
+T182	Disease_disorder 3770 3818	Cryptococcus neoformans var. grubii (serotype A)
+T187	Disease_disorder 46 70	type 2 diabetes mellitus
+T188	Disease_disorder 105 124	diabetic neuropathy
+T190	Disease_disorder 129 142	diabetic-ESRD

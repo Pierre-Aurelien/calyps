@@ -1,0 +1,13 @@
+T1	Age 2 13	51-year-old
+T2	Sex 14 17	man
+T6	Disease_disorder 72 85	heart failure
+T8	Disease_disorder 102 113	arrhythmias
+T11	Disease_disorder 156 169	heart failure
+T12	Sign_symptom 186 197	tachycardia
+T33	Sign_symptom 543 555	cardiomegaly
+T37	Sign_symptom 651 677	hypokinetic left ventricle
+T51	Sign_symptom 1002 1021	thickening of hands
+T59	Disease_disorder 1153 1165	macroadenoma
+T63	Sign_symptom 883 891	fibrosis
+T67	Disease_disorder 1210 1220	acromegaly
+T108	Disease_disorder 2040 2051	arrhythmias

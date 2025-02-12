@@ -1,0 +1,13 @@
+T1	Age 2 13	60-year-old
+T4	Sex 30 33	man
+T11	Sign_symptom 145 152	fatigue
+T17	Disease_disorder 312 340	obstructive ischemic disease
+T18	Disease_disorder 382 395	heart failure
+T23	Disease_disorder 473 494	mitral valve stenosis
+T26	Sign_symptom 556 567	tachycardia
+T28	Disease_disorder 658 689	pulmonary arterial hypertension
+T46	Disease_disorder 1036 1057	diastolic dysfunction
+T29	Disease_disorder 1285 1307	pulmonary hypertension
+T63	Sign_symptom 1430 1441	hypotension
+T69	Disease_disorder 1558 1580	pulmonary hypertension
+T74	Sign_symptom 3170 3177	changes

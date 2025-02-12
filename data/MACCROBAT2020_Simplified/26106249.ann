@@ -1,0 +1,22 @@
+T1	Age 18 29	38-year-old
+T3	Sex 40 43	man
+T21	Sign_symptom 530 551	sensory-motor deficit
+T22	Disease_disorder 595 613	mental retardation
+T27	Sign_symptom 702 710	mutation
+T38	Sign_symptom 995 1000	ictus
+T44	Disease_disorder 1056 1070	atrial flutter
+T46	Sign_symptom 1121 1133	aftereffects
+T50	Sign_symptom 1197 1203	murmur
+T54	Disease_disorder 1279 1304	right bundle branch block
+T55	Disease_disorder 1265 1274	hemiblock
+T58	Sign_symptom 1340 1347	dilated
+T59	Sign_symptom 1352 1364	hypertrophic
+T61	Sign_symptom 1483 1509	mitral valve regurgitation
+T62	Sign_symptom 1412 1416	flow
+T67	Sign_symptom 1580 1603	aortic valve was normal
+T15	Sign_symptom 355 366	small chest
+T16	Sign_symptom 442 459	short extremities
+T17	Sign_symptom 469 495	additional postaxial digit
+T68	Sign_symptom 293 313	normal mouth opening
+T69	Sign_symptom 319 341	missing lower incisors
+T93	Sign_symptom 2342 2355	complications

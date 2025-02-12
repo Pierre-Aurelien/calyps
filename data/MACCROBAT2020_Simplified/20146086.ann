@@ -1,0 +1,21 @@
+T1	Age 2 13	54-year-old
+T2	Sex 14 19	woman
+T3	Disease_disorder 34 39	NSCLC
+T24	Sign_symptom 4114 4122	survived
+T26	Disease_disorder 4160 4171	CNS disease
+T36	Disease_disorder 3988 4010	intra-thoracic disease
+T75	Disease_disorder 802 808	lesion
+T79	Sign_symptom 1150 1159	headaches
+T80	Disease_disorder 1207 1217	metastases
+T91	Disease_disorder 1379 1390	CNS disease
+T95	Sign_symptom 1416 1425	headaches
+T97	Sign_symptom 1454 1460	nausea
+T98	Sign_symptom 1465 1473	vomiting
+T99	Disease_disorder 1489 1503	CNS metastases
+T106	Disease_disorder 1613 1615	LM
+T158	Disease_disorder 3089 3091	LM
+T159	Disease_disorder 3083 3088	NSCLC
+T182	Sign_symptom 3521 3527	nausea
+T186	Disease_disorder 3758 3771	hydrocephalus
+T187	Sign_symptom 3787 3795	symptoms
+T49	Disease_disorder 3672 3674	LM

@@ -1,0 +1,35 @@
+T1	Age 2 13	57-year-old
+T2	Sex 14 18	male
+T6	Sign_symptom 89 97	bleeding
+T12	Sign_symptom 137 171	passage of fresh blood mixed stool
+T14	Sign_symptom 223 231	bleeding
+T21	Sign_symptom 1231 1240	dizziness
+T23	Sign_symptom 1254 1273	shortness of breath
+T24	Sign_symptom 1279 1290	palpitation
+T28	Sign_symptom 491 498	symptom
+T30	Sign_symptom 533 541	recurred
+T32	Disease_disorder 594 604	hemangioma
+T37	Sign_symptom 684 691	symptom
+T38	Sign_symptom 713 721	recurred
+T42	Sign_symptom 897 905	bleeding
+T54	Sign_symptom 1412 1416	pale
+T62	Sign_symptom 1571 1582	fresh blood
+T64	Sign_symptom 1620 1624	mass
+T69	Sign_symptom 1726 1737	fresh blood
+T71	Sign_symptom 1743 1766	active site of bleeding
+T72	Sign_symptom 1768 1773	polyp
+T73	Sign_symptom 1778 1783	ulcer
+T83	Sign_symptom 2056 2066	thickening
+T90	Sign_symptom 2109 2117	enhances
+T93	Sign_symptom 2144 2158	calcifications
+T97	Sign_symptom 2230 2236	Lesion
+T100	Sign_symptom 2327 2334	lesions
+T104	Sign_symptom 2397 2403	anemia
+T108	Sign_symptom 2506 2512	lesion
+T131	Disease_disorder 3212 3228	hemolymphangioma
+T132	Disease_disorder 3300 3309	infection
+T137	Sign_symptom 3425 3437	complication
+T138	Sign_symptom 3441 3451	recurrence
+T146	Sign_symptom 800 818	symptomatic relief
+T148	Sign_symptom 987 995	bleeding
+T149	Sign_symptom 1157 1165	bleeding

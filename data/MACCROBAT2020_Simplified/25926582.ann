@@ -1,0 +1,11 @@
+T1	Age 2 13	35-year-old
+T2	Sex 14 19	woman
+T4	Sign_symptom 85 93	headache
+T5	Sign_symptom 136 145	epistaxis
+T7	Sign_symptom 100 130	blocked left-sided nasal canal
+T9	Sign_symptom 194 205	amenorrhoea
+T13	Sign_symptom 233 279	regression of secondary sexual characteristics
+T14	Sign_symptom 288 301	galactorrhoea
+T19	Sign_symptom 421 425	mass
+T27	Sign_symptom 565 569	mass
+T39	Disease_disorder 827 845	giant prolactinoma

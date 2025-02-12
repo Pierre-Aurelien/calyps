@@ -1,0 +1,29 @@
+T1	Age 2 13	22-year-old
+T3	Sex 22 25	man
+T5	Disease_disorder 86 108	pulmonary tuberculosis
+T6	Disease_disorder 110 113	PTB
+T25	Sign_symptom 391 401	hemorrhage
+T30	Sign_symptom 480 489	Epistaxis
+T33	Sign_symptom 558 570	hematochezia
+T34	Sign_symptom 572 581	hematuria
+T35	Sign_symptom 587 594	purpura
+T47	Sign_symptom 845 851	pallor
+T48	Sign_symptom 858 866	jaundice
+T51	Sign_symptom 882 889	purpura
+T52	Sign_symptom 891 902	tachycardia
+T55	Sign_symptom 928 946	weak breath sounds
+T59	Disease_disorder 1019 1022	DIC
+T125	Sign_symptom 2517 2528	infiltrates
+T127	Disease_disorder 2570 2586	pleural effusion
+T128	Disease_disorder 2592 2612	pericardial effusion
+T130	Sign_symptom 2629 2640	enlargement
+T134	Sign_symptom 2715 2720	fluid
+T139	Disease_disorder 2808 2823	viral hepatitis
+T143	Disease_disorder 2825 2828	HIV
+T145	Disease_disorder 2853 2873	autoimmune hepatitis
+T173	Sign_symptom 3464 3474	hemorrhage
+T193	Sign_symptom 3871 3883	infiltration
+T194	Sign_symptom 3885 3896	hydrothorax
+T195	Disease_disorder 3902 3922	pericardial effusion
+T209	Disease_disorder 4167 4170	DIC
+T210	Sign_symptom 4174 4184	hemorrhage

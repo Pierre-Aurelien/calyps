@@ -1,0 +1,13 @@
+T1	Age 2 13	46-year-old
+T3	Sex 24 29	woman
+T8	Sign_symptom 130 148	abdominal symptoms
+T10	Sign_symptom 153 161	vomiting
+T14	Sign_symptom 374 379	ulcer
+T18	Disease_disorder 438 442	CAPD
+T19	Disease_disorder 459 472	renal disease
+T39	Sign_symptom 906 921	hypoattenuation
+T48	Sign_symptom 1232 1236	foci
+T54	Disease_disorder 1643 1646	SHS
+T56	Sign_symptom 1745 1769	near complete resolution
+T62	Sign_symptom 1415 1454	presence of intracellular fat and water
+T64	Sign_symptom 1590 1605	presence of fat

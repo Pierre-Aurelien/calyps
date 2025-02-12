@@ -1,0 +1,46 @@
+T1	Age 2 13	54-year-old
+T2	Sign_symptom 39 44	fever
+T3	Sign_symptom 46 54	diarrhea
+T4	Disease_disorder 66 79	renal failure
+T12	Sign_symptom 265 270	fever
+T13	Sign_symptom 282 286	rash
+T14	Sign_symptom 288 296	diarrhea
+T15	Sign_symptom 302 306	pain
+T24	Sign_symptom 422 427	edema
+T27	Sign_symptom 477 484	ascites
+T28	Sign_symptom 489 505	pleural effusion
+T29	Disease_disorder 545 562	lymphadenopathies
+T33	Disease_disorder 591 609	hepatosplenomegaly
+T36	Disease_disorder 665 674	arthritis
+T40	Sign_symptom 758 770	leukocytosis
+T44	Sign_symptom 835 844	hemolysis
+T52	Sign_symptom 919 930	proteinuria
+T54	Sign_symptom 938 947	hematuria
+T62	Disease_disorder 1114 1124	hemiplegia
+T65	Sign_symptom 1172 1179	lesions
+T71	Disease_disorder 1257 1263	stroke
+T72	Disease_disorder 1231 1248	cardiologic cause
+T77	Disease_disorder 1353 1366	endotheliosis
+T79	Disease_disorder 1418 1431	mesangiolysis
+T80	Sign_symptom 1436 1451	double contours
+T82	Sign_symptom 1507 1515	thrombus
+T86	Disease_disorder 3274 3292	neurological event
+T89	Sign_symptom 1534 1557	B lymphocyte infiltrate
+T93	Sign_symptom 1598 1621	peritubularcapillaritis
+T95	Sign_symptom 1665 1672	deposit
+T98	Sign_symptom 1714 1722	abnormal
+T100	Sign_symptom 1738 1751	hyalinization
+T102	Sign_symptom 1779 1796	onion-skin aspect
+T104	Disease_disorder 1934 1937	MCD
+T105	Disease_disorder 1902 1932	multicentric Castleman disease
+T113	Sign_symptom 3464 3475	enlargement
+T117	Disease_disorder 3520 3523	MCD
+T138	Disease_disorder 3082 3104	vascular leak syndrome
+T150	Sign_symptom 3582 3593	proteinuria
+T155	Disease_disorder 2132 2158	thrombotic microangiopathy
+T156	Disease_disorder 2160 2163	TMA
+T161	Disease_disorder 2248 2251	TMA
+T164	Sign_symptom 2299 2324	microvascular involvement
+T166	Disease_disorder 2386 2413	shiga toxin-producing germs
+T174	Sign_symptom 2593 2600	lesions
+T176	Sign_symptom 2635 2642	lesions
